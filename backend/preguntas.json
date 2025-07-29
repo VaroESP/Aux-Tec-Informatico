@@ -1,0 +1,842 @@
+[
+    {
+        "id": 1,
+        "enunciado": "¿Cuál de los siguientes es un derecho individual de los empleados públicos según el EBEP?",
+        "opciones": [
+            "Participar en partidos políticos.",
+            "La promoción interna.",
+            "Negociar individualmente su salario.",
+            "Ser elegido como representante sindical."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 2,
+        "enunciado": "¿Cuál es el artículo que regula los deberes básicos de los empleados públicos?",
+        "opciones": [
+            "Artículo 53.",
+            "Artículo 14.",
+            "Artículo 52.",
+            "Artículo 50."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 3,
+        "enunciado": "¿Qué tipo de jornada puede establecer la Administración según el EBEP?",
+        "opciones": [
+            "Solo jornada continua.",
+            "Solo jornada partida.",
+            "La que establezca en negociación colectiva.",
+            "Solo jornada laboral de 40 horas."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 4,
+        "enunciado": "La conciliación de la vida personal, familiar y laboral es:",
+        "opciones": [
+            "Un principio orientativo.",
+            "Un derecho colectivo.",
+            "Un derecho individual reconocido por el EBEP.",
+            "Un derecho exclusivo para funcionarios."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 5,
+        "enunciado": "¿Quién tiene derecho a la carrera profesional según el EBEP?",
+        "opciones": [
+            "Solo funcionarios de carrera.",
+            "Todos los empleados públicos.",
+            "Solo el personal estatutario.",
+            "Solo los laborales fijos."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 6,
+        "enunciado": "El respeto al principio de igualdad entre mujeres y hombres es:",
+        "opciones": [
+            "Opcional para el personal eventual.",
+            "Un principio ético.",
+            "Un principio de conducta exigible.",
+            "No está mencionado en el EBEP."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 7,
+        "enunciado": "¿Qué artículo regula los principios éticos del código de conducta?",
+        "opciones": [
+            "Artículo 52.",
+            "Artículo 53.",
+            "Artículo 54.",
+            "Artículo 55."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 8,
+        "enunciado": "¿Cuál de los siguientes no es un principio de conducta recogido en el EBEP?",
+        "opciones": [
+            "Objetividad.",
+            "Neutralidad política.",
+            "Secreto profesional.",
+            "Promoción interna."
+        ],
+        "respuesta_correcta": 3,
+        "tema": 6
+    },
+    {
+        "id": 9,
+        "enunciado": "¿Cuál de estos no es un deber básico según el artículo 52?",
+        "opciones": [
+            "Cumplir la jornada laboral.",
+            "Guardar lealtad a la Constitución.",
+            "Actuar con diligencia.",
+            "Informar públicamente sobre asuntos internos."
+        ],
+        "respuesta_correcta": 3,
+        "tema": 6
+    },
+    {
+        "id": 10,
+        "enunciado": "¿Cuál de los siguientes es un derecho colectivo de los empleados públicos?",
+        "opciones": [
+            "La carrera horizontal.",
+            "La negociación colectiva.",
+            "La evaluación del desempeño.",
+            "La formación individual."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 11,
+        "enunciado": "Según el EBEP, ¿qué derecho tiene un empleado público en relación a su trabajo?",
+        "opciones": [
+            "Derecho a cambiar de puesto libremente.",
+            "Derecho a la evaluación de desempeño.",
+            "Derecho a supervisar a sus supervisores.",
+            "Derecho a contratar libremente."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 12,
+        "enunciado": "¿Qué valor debe guiar el comportamiento del empleado público según el artículo 53?",
+        "opciones": [
+            "Subjetividad.",
+            "Interés particular.",
+            "Objetividad.",
+            "Rentabilidad."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 13,
+        "enunciado": "El deber de diligencia implica:",
+        "opciones": [
+            "Cumplir órdenes sin discusión.",
+            "Actuar con prontitud y eficacia.",
+            "Informar siempre a los medios.",
+            "Realizar tareas administrativas únicamente."
+        ],
+        "respuesta_correcta": 0,
+        "tema": 6
+    },
+    {
+        "id": 14,
+        "enunciado": "¿Cuál de los siguientes derechos no es individual?",
+        "opciones": [
+            "La formación contínua.",
+            "La protección frente al acoso.",
+            "La libertad sindical.",
+            "La progresión en la carrera."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 15,
+        "enunciado": "El principio de transparencia está recogido como:",
+        "opciones": [
+            "Derecho",
+            "Principio ético y de conducta.",
+            "Competencia profesional.",
+            "Procedimiento administrativo."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 16,
+        "enunciado": "¿Quién debe garantizar el respeto de los derechos de los empleados públicos?",
+        "opciones": [
+            "Los sindicatos.",
+            "Las autoridades administrativas.",
+            "El parlamento.",
+            "El INAP."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 17,
+        "enunciado": "El derecho a la formación continua está orientado a:",
+        "opciones": [
+            "Evitar el estancamiento laboral.",
+            "Mejorar la productividad exclusivamente.",
+            "La mejora de la carrera profesional y la calidad del servicio.",
+            "Cumplir con exigencias políticas."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 18,
+        "enunciado": "¿Cuál de los siguientes es un principio ético del artículo 53?",
+        "opciones": [
+            "La confidencialidad absoluta.",
+            "La ejemplaridad.",
+            "La obediencia ciega.",
+            "El individualismo."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 19,
+        "enunciado": "El artículo 54 contiene:",
+        "opciones": [
+            "Los principios organizativos.",
+            "Las obligaciones legales de los ciudadanos.",
+            "Los principios de conducta de los empleados públicos.",
+            "Las sanciones por faltas."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 20,
+        "enunciado": "¿Cuál de los siguientes principios se relaciona directamente con la imparcialidad?",
+        "opciones": [
+            "La diligencia.",
+            "La neutralidad.",
+            "La obediencia.",
+            "La jerarquía."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 21,
+        "enunciado": "El derecho a la intimidad del empleado público está relacionado especialmente con:",
+        "opciones": [
+            "La jornada laboral.",
+            "El uso de tecnologías de la información.",
+            "La negociación colectiva.",
+            "El desempeño político."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 22,
+        "enunciado": "¿Qué derecho colectivo permite la participación de los empleados en decisiones públicas?",
+        "opciones": [
+            "Negociación colectiva.",
+            "Derecho a huelga.",
+            "Derecho a la libre asociación.",
+            "Derecho a la carrera profesional."
+        ],
+        "respuesta_correcta": 0,
+        "tema": 6
+    },
+    {
+        "id": 23,
+        "enunciado": "¿Qué principio obliga a los empleados públicos a evitar el uso indebido de recursos públicos?",
+        "opciones": [
+            "Legalidad.",
+            "Diligencia.",
+            "Ejemplaridad.",
+            "Responsabilidad."
+        ],
+        "respuesta_correcta": 3,
+        "tema": 6
+    },
+    {
+        "id": 24,
+        "enunciado": "¿Cuál de estos permisos puede reconocerse como un derecho?",
+        "opciones": [
+            "Participar en actividades sindicales.",
+            "Participar en política partidista durante el horario laboral.",
+            "Uso del vehículo oficial para fines privados.",
+            "Publicar información clasificada."
+        ],
+        "respuesta_correcta": 0,
+        "tema": 6
+    },
+    {
+        "id": 25,
+        "enunciado": "El principio de actuación con sometimiento pleno a la ley y al derecho corresponde a:",
+        "opciones": [
+            "La responsabilidad política.",
+            "El principio de legalidad.",
+            "La libertad ideológica.",
+            "El derecho a la objeción."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 26,
+        "enunciado": "El artículo 54 enumera:",
+        "opciones": [
+            "Principios constitucionales.",
+            "Principios de conducta de los empleados públicos.",
+            "Derechos sociales.",
+            "Tipos de personal público."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 27,
+        "enunciado": "¿Cuál de estos es un principio de conducta del artículo 54?",
+        "opciones": [
+            "Participación sindical activa.",
+            "Respeto a la neutralidad.",
+            "Participación política activa.",
+            "Independiencia absoluta frente a la organización."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 28,
+        "enunciado": "¿Cuál de los siguientes está considerado un deber básico?",
+        "opciones": [
+            "Garantizar la seguridad laboral.",
+            "Informar de toda actividad ajena.",
+            "Tratar con atención al ciudadano.",
+            "Impulsar normas legales."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 29,
+        "enunciado": "¿Qué implica el principio de eficacia en el desempeño de funciones?",
+        "opciones": [
+            "Utilizar recursos de forma ilimitada.",
+            "Obtener el máximo resultado con los mínimos medios.",
+            "Obedecer sin cuestionar.",
+            "Priorizar la rapidez sobre la calidad."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 30,
+        "enunciado": "¿Cuál de los siguientes se considera un deber funcional?",
+        "opciones": [
+            "Hacer pública su ideología.",
+            "Participar en campañas electorales.",
+            "Mantener una conducta ejemplar.",
+            "Utilizar redes sociales libremente durante la jornada."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 31,
+        "enunciado": "La lealtad institucional implica:",
+        "opciones": [
+            "Preferencia por la ideología personal.",
+            "Apoyo acrítico a superiores.",
+            "Alineación con los fines del servicio público.",
+            "Defensa del interés privado."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 32,
+        "enunciado": "El deber de objetividad en el desempeño está directamente relacionado con:",
+        "opciones": [
+            "La imparcialidad.",
+            "La publicidad.",
+            "La dedicación exclusiva.",
+            "La carrera horizontal."
+        ],
+        "respuesta_correcta": 0,
+        "tema": 6
+    },
+    {
+        "id": 33,
+        "enunciado": "El respeto al ciudadano implica:",
+        "opciones": [
+            "Preferencia por usuarios frecuentes.",
+            "Actuar con cortesía y eficacia.",
+            "Contacto solo con personal jerárquico.",
+            "Dar trato desigual según el puesto."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 34,
+        "enunciado": "¿Qué principio implica que los empleados deben actuar con transparecia y apertura?",
+        "opciones": [
+            "Diligencia.",
+            "Legalidad.",
+            "Publicidad.",
+            "Imparcialidad."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 35,
+        "enunciado": "La evaluación del desempeño se basa en:",
+        "opciones": [
+            "Popularidad del empleado.",
+            "Criterios subjetivos.",
+            "Criterios de eficacia, responsabilidad y resultados.",
+            "Tiempo de permanencia."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 36,
+        "enunciado": "¿Cuál de las siguientes acciones sería contraria al código de conducta del EBEP?",
+        "opciones": [
+            "Responder educadamente al público.",
+            "Utilizar medios públicos para uso personal.",
+            "Participar en cursos de formación.",
+            "Colaborar con otros empleados."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 37,
+        "enunciado": "¿Qué artículo del EBEP trata de la jornada, vacaciones y permisos?",
+        "opciones": [
+            "Artículo 17.",
+            "Artículo 47.",
+            "Artículo 50.",
+            "Artículo 14."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 38,
+        "enunciado": "¿Qué principio indica que el empleado público debe actuar con imparcialidad y sin discriminación?",
+        "opciones": [
+            "Transparencia.",
+            "Legalidad.",
+            "Igualdad.",
+            "Jerarquía."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 39,
+        "enunciado": "¿A qué se refiere el EBEP con el principio de dedicación al servicio público?",
+        "opciones": [
+            "Disponibilidad ocasional.",
+            "Incompatibilidad con intereses privados.",
+            "Jornada flexible.",
+            "Rendimiento voluntario."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 40,
+        "enunciado": "¿Qué debe hacer el empleado público ante órdenes claramente ilegales?",
+        "opciones": [
+            "Cumplirlas.",
+            "Ejecutarlas sin responsabilidad.",
+            "Informar a su superior jerárquico.",
+            "Consultar al ciudadano."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 41,
+        "enunciado": "¿Cuál es el fin último de los principios éticos del artículo 53?",
+        "opciones": [
+            "Promover el respeto entre empleados.",
+            "Controlar políticamente a los funcionarios.",
+            "Garantizar un servicio público de calidad.",
+            "Evitar responsabilidades disciplinarias."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 42,
+        "enunciado": "¿Qué implica el deber de secreto profesional?",
+        "opciones": [
+            "No hablar con compañeros.",
+            "No comunicar información protegida o reservada.",
+            "No responder a los ciudadanos.",
+            "Informar a la prensa de irregularidades."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 43,
+        "enunciado": "El respeto a la neutralidad implica:",
+        "opciones": [
+            "No participar en decisiones administrativas.",
+            "No tomar parte en conflictos políticos o ideológicos.",
+            "Ser pasivo ante las injusticias.",
+            "No emitir opinión sobre temas técnicos."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 44,
+        "enunciado": "¿A quién se dirige principalmente el Código de Conducta del EBEP?",
+        "opciones": [
+            "A los ciudadanos.",
+            "A los sindicatos.",
+            "A los empleados públicos.",
+            "A las autoridades judiciales."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 45,
+        "enunciado": "¿Qué valor debe predominar ante un conflicto entre interés personal e institucional?",
+        "opciones": [
+            "El interés económico.",
+            "El interés personal.",
+            "El interés institucional.",
+            "El principio de jerarquía."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 46,
+        "enunciado": "¿Cuál de estos elementos debe respetar todo empleado público según el EBEP?",
+        "opciones": [
+            "La rentabilidad de su puesto.",
+            "El desarrollo político de la entidad.",
+            "La Constitución y el resto del ordenamiento jurídico.",
+            "El manual interno de la empresa."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 47,
+        "enunciado": "La ejemplaridad implica:",
+        "opciones": [
+            "No destacar por encima del resto.",
+            "Comportarse de forma que inspire confianza y respeto.",
+            "Ser el más productivo.",
+            "Competir con los compañeros."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 48,
+        "enunciado": "¿Cuál de estos principios no está en el artículo 53?",
+        "opciones": [
+            "Transparencia.",
+            "Secreto profesional.",
+            "Dedicación al servicio público.",
+            "Respeto al ciudadano."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 49,
+        "enunciado": "El imcumplimiento de los principios del código de conducta puede dar lugar a:",
+        "opciones": [
+            "Una multa económica.",
+            "Una felicitación por la innovación.",
+            "Responsabilidad disciplinaria.",
+            "Aumento de jornada."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 50,
+        "enunciado": "El EBEP reconoce como principio general de actuación de los empleados públicos:",
+        "opciones": [
+            "Competencia ideológica.",
+            "Rentabilidad económica.",
+            "Sometimiento pleno a la ley y al derecho.",
+            "Participación política activa."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 51,
+        "enunciado": "Según el artículo 14 del EBEP, ¿cuál de los siguientes derechos está vinculado directamente con la calidad del servicio público prestado?",
+        "opciones": [
+            "La evaluación del desempeño.",
+            "La negociación colectiva.",
+            "La libertad sindical.",
+            "La participación en procesos selectivos."
+        ],
+        "respuesta_correcta": 0,
+        "tema": 6
+    },
+    {
+        "id": 52,
+        "enunciado": "¿Cuál de las siguientes situaciones describe una vulneración del artículo 53 sobre principios éticos?",
+        "opciones": [
+            "Un empleado que comunica una mala praxis a su superior inmediato.",
+            "Un empleado que, sin beneficio propio, publica en redes sociales datos internos sin relevancia personal.",
+            "Un empleado que actúa con objetividad ante una queja ciudadana.",
+            "Un empleado que consulta con otro compañero para mejorar una resolución administrativa."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 53,
+        "enunciado": "¿Cuál de los siguientes no es considerado un deber básico según el artículo 52?",
+        "opciones": [
+            "Desempeñar las tareas asignadas con diligencia.",
+            "Guardar secreto sobre asuntos clasificados.",
+            "Participar en la vida política durante el horario laboral.",
+            "Obedecer las instrucciones de sus superiores."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 54,
+        "enunciado": "La carrera profesional está contemplada como:",
+        "opciones": [
+            "Un principio ético del EBEP.",
+            "Un derecho colectivo de los empleados públicos.",
+            "Un derecho individual del personal funcionario.",
+            "Un beneficio extraestatutario."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 55,
+        "enunciado": "En materia de jornada y horarios, ¿cuál de las siguientes afirmaciones se ajusta mejor al EBEP?",
+        "opciones": [
+            "La jornada se regula por Real Decreto en todos los casos.",
+            "La jornada y horarios se establecerán solo por convenios colectivos.",
+            "La Administración determinará la jornada, sin posibilidad de negociación.",
+            "La jornada se fijará por las Administraciones en el marco de la negociación colectiva."
+        ],
+        "respuesta_correcta": 3,
+        "tema": 6
+    },
+    {
+        "id": 56,
+        "enunciado": "El principio de objetividad en el desempeño del puesto implica que el empleado público:",
+        "opciones": [
+            "Aplique las normas conforme a sus intereses personales.",
+            "Ajuste su actuación al marco legal con neutralidad y sin favoritismo.",
+            "Defienda a su unidad administrativa por encima de cualquier otra.",
+            "Priorice el criterio de su superior jerárquico aunque contradiga la norma."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 57,
+        "enunciado": "¿Cuál de los siguientes principios sí aparece en el artículo 54 y no en el 53?",
+        "opciones": [
+            "Imparcialidad.",
+            "Sometimiento pleno a la Constitución y al resto del ordenamiento jurídico.",
+            "Actuación con diligencia.",
+            "Buena fe con la Administración."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 58,
+        "enunciado": "Según el EBEP, ¿en qué situación puede un empleado público negarse a obedecer una orden?",
+        "opciones": [
+            "Cuando considera que la tarea está fuera de sus funciones.",
+            "Cuando la orden procede de un superior que no comparte su ideología.",
+            "Cuando la orden entra claramente en contradicción con el ordenamiento jurídico.",
+            "Cuando se siente discriminado por la asignación de tareas."
+        ],
+        "respuesta_correcta": 3,
+        "tema": 6
+    },
+    {
+        "id": 59,
+        "enunciado": "¿Qué principio se encuentra explícitamente tanto en el artículo 53 como en el artículo 54 del EBEP?",
+        "opciones": [
+            "Dedicación al servicio público.",
+            "Objetividad en el cumplimiento de las funciones.",
+            "Respeto a los ciudadanos.",
+            "Ejemplaridad en la conducta."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 60,
+        "enunciado": "En relación con los principios de conducta del artículo 54, ¿cuál de los siguientes supuestos no sería conforme con dicho artículo?",
+        "opciones": [
+            "Un funcionario que mantiene la confidencialidad de un expediente sancionador.",
+            "Un empleado que actúa conforme al interés general y al principio de legalidad.",
+            "Un funcionario que difunde contenido interno sensible para denunciar una mala gestión sin acudir a los cauces legales.",
+            "Un empleado que mantiene una actitud neutral en un conflicto entre ciudadanos."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 61,
+        "enunciado": "El artículo 14 reconoce como derecho individual de los empleados públicos:",
+        "opciones": [
+            "La ocupación de un puesto de libre designación.",
+            "La no movilidad geográfica sin indemnización.",
+            "La progresión en la carrera profesional.",
+            "La participación política activa sin limitaciones."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 62,
+        "enunciado": "¿Cuál de los siguientes supuestos vulnera el principio de ejemplaridad del artículo 54?",
+        "opciones": [
+            "Un empleado que actúa con neutralidad en sus relaciones con los ciudadanos.",
+            "Un empleado que utiliza el coche oficial para acudir a un evento institucional.",
+            "Un funcionario que publica comentarios despectivos sobre decisiones administrativas en sus redes personales.",
+            "Un funcionario que colabora en una campaña de recogida de alimentos en horario libre."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 63,
+        "enunciado": "En caso de conflicto entre el interés público y el privado del empleado, el EBEP establece que debe prevalecer:",
+        "opciones": [
+            "El interés privado si hay autprización previa.",
+            "El interés institucional de la Administración.",
+            "La postura del superior jerárquico.",
+            "El criterio del comité de ética profesional."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 64,
+        "enunciado": "El principio de legalidad del artículo 53 implica que:",
+        "opciones": [
+            "El empleado tiene libertad para aplicar las normas como crea conveniente.",
+            "Debe someter sus actuaciones a la ley, incluso si considera que esta es injusta.",
+            "Puede inaplicar normas si su superior así lo ordena.",
+            "Tiene autonomía plena para interpretar la normativa aplicable."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 65,
+        "enunciado": "La imparcialidad como principio ético obliga a:",
+        "opciones": [
+            "Defender la postura de su departamento por encima del resto.",
+            "Abstenerse en asuntos donde haya vínculos personales o económicos.",
+            "Denunciar cualquier actuación contraria a su opinión.",
+            "Priorizar siempre los criterios internos frente al interés general."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 66,
+        "enunciado": "¿Cuál de estos supuestos sería un incumplimiento del deber de diligencia?",
+        "opciones": [
+            "No asistir a una reunión sindical.",
+            "Presentar un informe fuera del plazo sin justificación.",
+            "Denunciar una irregularidad en la ejecución de un contrato.",
+            "Rechazar una orden por vulnerar los principios constitucionales."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 67,
+        "enunciado": "¿Cuál de estas afirmaciones es correcta según el EBEP respecto a los principios de conducta?",
+        "opciones": [
+            "Solo se aplica al personal funcionario de carrera.",
+            "Tienen fuerza legal y su incumplimiento puede acarrear sanciones.",
+            "Son recomendaciones sin efectos prácticos.",
+            "Están sujetos a interpretación libre por cada órgano directivo."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 68,
+        "enunciado": "¿Cuál de estos casos implicaría una falta de nuetralidad institucional?",
+        "opciones": [
+            "Hacer campaña política en tiempo libre.",
+            "Usar la imagen institucional para apoyar una posición partidista.",
+            "Participar en un sindicato reconocido.",
+            "Hacer propuestas técnicas dentro del área de competencia."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    },
+    {
+        "id": 69,
+        "enunciado": "¿Cuál de estos aspectos define mejor el principio de responsabilidad?",
+        "opciones": [
+            "Cumplir órdenes sin cuestionarlas.",
+            "Atender solo a los resultados.",
+            "Asumir las consecuencias derivadas del ejercicio de las funciones públicas.",
+            "Delegar en superiores las decisiones dudosas."
+        ],
+        "respuesta_correcta": 2,
+        "tema": 6
+    },
+    {
+        "id": 70,
+        "enunciado": "Un empleado público está obligado a informar sobre actividades privadas que:",
+        "opciones": [
+            "Realiza en su tiempo libre.",
+            "Puedan suponer conflicto de intereses o afectar su imparcialidad.",
+            "Están relacionadas con actividades culturales.",
+            "No tengan relación con su puesto pero generen beneficios económicos."
+        ],
+        "respuesta_correcta": 1,
+        "tema": 6
+    }
+]
