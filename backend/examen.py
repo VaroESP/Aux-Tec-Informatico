@@ -5,7 +5,7 @@ import os
 
 from gestor_preguntas import cargar_preguntas
 
-RESULTADOS_FILE = "resultados.json"
+RESULTADOS_FILE = ".\\backend\\resultados.json"
 NUMERO_PREGUNTAS = 5
 
 def guardar_resultado(aciertos, fallos, nota, duracion, fecha):

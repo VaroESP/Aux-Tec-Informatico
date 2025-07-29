@@ -1,21 +1,15 @@
 import os
 
-from gestor_preguntas import agregar_pregunta
+from gestor_preguntas import agregar_preguntas, importar_preguntas
 from examen import hacer_examen
-from utilidades import pausa
+from utilidades import pausa, limpiar_pantalla
 
 def pintar_menu():
     print("\n--- MENÚ ---")
     print("\n1. Añadir pregunta.")
-    print("\n2. Hacer examen.")
-    print("\n3. Salir.")
-    
-
-def limpiar_pantalla():
-    if os.name == "nt":
-        os.system("cls")
-    else:
-        os.system("clear")
+    print("\n2. Añadir preguntas de archivo.")
+    print("\n3. Hacer examen.")
+    print("\n4. Salir.")
 
 def main():
     while True:
@@ -26,14 +20,18 @@ def main():
         match opcion:
             case "1":    
                 limpiar_pantalla()
-                agregar_pregunta()
+                agregar_preguntas()
                 pausa()
             case "2":
+                limpiar_pantalla()
+                importar_preguntas("preguntas_nuevas.json")
+                pausa()
+            case "3":
                 tema = int(input("Tema del examen: "))
                 limpiar_pantalla()
                 hacer_examen(tema)
                 pausa()
-            case "3":
+            case "4":
                 limpiar_pantalla()
                 print("\nHasta la próxima.")
                 break
