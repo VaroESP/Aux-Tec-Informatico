@@ -1,62 +1,40 @@
-import random
-import datetime
-import json
-import os
+from datetime import datetime, timedelta
+from pregunta import Pregunta
 
-from gestor_preguntas import cargar_preguntas
-
-RESULTADOS_FILE = ".\\backend\\resultados.json"
-NUMERO_PREGUNTAS = 5
-
-def guardar_resultado(aciertos, fallos, nota, duracion, fecha):
-    resultado = {
-        "duracion_segundos": duracion.total_seconds(),
-        "aciertos": aciertos,
-        "fallos": fallos,
-        "nota": nota
+class Examen:
+    def __init__(self, id, preguntas, aciertos, fallos, nota, inicio, duracion):
+        self.id = id
+        self.preguntas = preguntas
+        self.aciertos = aciertos
+        self.fallos = fallos
+        self.nota = nota
+        self.inicio = inicio
+        self.duracion = duracion
+    
+    def to_dict(self):
+        return{
+            "id": self.id,
+            "preguntas": [p.to_dict() for p in self.preguntas],
+            "aciertos": self.aciertos,
+            "fallos": self.fallos,
+            "nota": self.nota,
+            "inicio": self.inicio.isoformat() if self.inicio else None,
+            "duracion": self.duracion.total_seconds() if isinstance(self.duracion, timedelta) else self.duracion
     }
     
-    if not os.path.exists(RESULTADOS_FILE):
-        resultados = []
-    else:
-        try:
-            with open(RESULTADOS_FILE, "r", encoding="utf-8") as file:
-                resultados = json.load(file)
-        except json.JSONDecodeError:
-            resultados = []
-    
-    resultados.append(resultado)
-    with open(RESULTADOS_FILE, "w", encoding="utf-8") as file:
-        json.dump(resultados, file, indent=4, ensure_ascii=False)
+    @staticmethod    
+    def from_dict(data):
+        preguntas = [Pregunta.from_dict(p) for p in data.get("preguntas", [])]
+        inicio = datetime.fromisoformat(data["inicio"]) if data.get("inicio") else None
+        duracion_val = data.get("duracion")
+        duracion = timedelta(seconds=duracion_val) if duracion_val is not None else None
         
-def hacer_examen(tema):
-    preguntas = cargar_preguntas()
-    p_filtradas = [p for p in preguntas if p.tema == tema]
-    if len(p_filtradas) < NUMERO_PREGUNTAS:
-        print("\nNo hay suficientes preguntas")
-        return
-    seleccionadas = random.sample(p_filtradas, NUMERO_PREGUNTAS)
-    aciertos = 0
-    fallos = 0
-    nota = 0
-    
-    inicio = datetime.datetime.now()
-    
-    for i, p in enumerate(seleccionadas):
-        print(f"\n{i+1}. {p.enunciado}")
-        for j, op in enumerate(p.opciones):
-            print(f"    {j+1}. {op}")
-        r = int(input("Tu respuesta (1-4): ")) - 1
-        if r == p.respuesta_correcta:
-            print("\n¡Correcto!")
-            aciertos += 1
-        else:
-            print(f"\nIncorrecto.\n\nLa respuesta correcta es:\n{p.opciones[p.respuesta_correcta]}")
-            fallos += 1
-            
-    fin = datetime.datetime.now()  
-    duracion = fin - inicio     
-    nota = round((aciertos - (fallos / 3)) / NUMERO_PREGUNTAS, 2) * 10
-    
-    print(f"\nAciertos: {aciertos}.\nFallos: {fallos}.\nNota final: {nota}.\nTiempo: {duracion}")
-    guardar_resultado(aciertos, fallos, nota, duracion, inicio)
+        return Examen(
+            id=data.get("id"),
+            preguntas=preguntas,
+            aciertos=data.get("aciertos"),
+            fallos=data.get("fallos"),
+            nota=data.get("nota"),
+            inicio=inicio,
+            duracion=duracion
+        )

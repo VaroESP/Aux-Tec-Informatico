@@ -1,14 +1,14 @@
 import os
 
-from gestor_preguntas import agregar_preguntas, importar_preguntas
-from examen import hacer_examen
+from gestor_examenes import nuevo_examen, listar_examenes
+from gestor_preguntas import agregar_pregunta
 from utilidades import pausa, limpiar_pantalla
 
 def pintar_menu():
     print("\n--- MENÚ ---")
-    print("\n1. Añadir pregunta.")
-    print("\n2. Añadir preguntas de archivo.")
-    print("\n3. Hacer examen.")
+    print("\n1. Hacer examen.")
+    print("\n2. Añadir preguntas.")
+    print("\n3. Listado de exámenes.")
     print("\n4. Salir.")
 
 def main():
@@ -18,18 +18,17 @@ def main():
         
         opcion = input("\nElige una opción: ")   
         match opcion:
-            case "1":    
+            case "1":
                 limpiar_pantalla()
-                agregar_preguntas()
+                nuevo_examen()
                 pausa()
             case "2":
                 limpiar_pantalla()
-                importar_preguntas("preguntas_nuevas.json")
+                agregar_pregunta()
                 pausa()
             case "3":
-                tema = int(input("Tema del examen: "))
                 limpiar_pantalla()
-                hacer_examen(tema)
+                listar_examenes()
                 pausa()
             case "4":
                 limpiar_pantalla()

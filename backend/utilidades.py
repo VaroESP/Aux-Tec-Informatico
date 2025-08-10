@@ -8,3 +8,8 @@ def limpiar_pantalla():
         os.system("cls")
     else:
         os.system("clear")
+        
+def num_archivos(ruta):
+    archivos = [f for f in os.listdir(ruta) if os.path.isfile(os.path.join(ruta, f))]
+    num = len(archivos)
+    return num
