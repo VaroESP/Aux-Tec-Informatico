@@ -1,0 +1,4842 @@
+[
+    {
+        "id": 1,
+        "enunciado": "Según el artículo 1.2 de la Constitución, la soberanía nacional reside en:",
+        "opciones": [
+            {
+                "texto": "El Rey.",
+                "correcta": false
+            },
+            {
+                "texto": "El Parlamento.",
+                "correcta": false
+            },
+            {
+                "texto": "El Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "El pueblo español.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "enunciado": "El artículo 2 establece que la Constitución se fundamenta en la:",
+        "opciones": [
+            {
+                "texto": "Unidad indisoluble de la nación española.",
+                "correcta": true
+            },
+            {
+                "texto": "Igualdad formal entre hombres y mujeres.",
+                "correcta": false
+            },
+            {
+                "texto": "Preeminencia de la lengua castellana.",
+                "correcta": false
+            },
+            {
+                "texto": "División de poderes.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "enunciado": "¿Cuál de los siguientes principios NO se menciona expresamente en el artículo 1.1 como valor superior del ordenamiento jurídico?",
+        "opciones": [
+            {
+                "texto": "Justicia.",
+                "correcta": false
+            },
+            {
+                "texto": "Pluralismo político.",
+                "correcta": false
+            },
+            {
+                "texto": "Igualdad.",
+                "correcta": false
+            },
+            {
+                "texto": "Solidaridad.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "enunciado": "El artículo 3.3 señala que la riqueza de las distintas modalidades lingüísticas de España es:",
+        "opciones": [
+            {
+                "texto": "Materia exclusiva del Estado.",
+                "correcta": false
+            },
+            {
+                "texto": "Patrimonio cultural que será objeto de especial respeto y protección.",
+                "correcta": true
+            },
+            {
+                "texto": "Sujeto a regulación por las Comunidades Autónomas.",
+                "correcta": false
+            },
+            {
+                "texto": "Objeto de libre uso sin regulación.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "enunciado": "Según el artículo 4.1 la bandera de España está formada por tres franjas:",
+        "opciones": [
+            {
+                "texto": "Roja, blanca y roja.",
+                "correcta": false
+            },
+            {
+                "texto": "Roja, amarilla y morada.",
+                "correcta": false
+            },
+            {
+                "texto": "Roja, amarilla y roja.",
+                "correcta": true
+            },
+            {
+                "texto": "Roja, amarilla y azul.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "enunciado": "El artículo 6 de la Constitución se refiere a:",
+        "opciones": [
+            {
+                "texto": "El Defensor del Pueblo.",
+                "correcta": false
+            },
+            {
+                "texto": "El Ejército.",
+                "correcta": false
+            },
+            {
+                "texto": "Los partidos políticos.",
+                "correcta": true
+            },
+            {
+                "texto": "El Tribunal Constitucional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "enunciado": "Conforme al artículo 7, los sindicatos de trabajadores y las asociaciones empresariales:",
+        "opciones": [
+            {
+                "texto": "Son órganos del Estado.",
+                "correcta": false
+            },
+            {
+                "texto": "Contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios.",
+                "correcta": true
+            },
+            {
+                "texto": "Están prohibidos por la Constitución.",
+                "correcta": false
+            },
+            {
+                "texto": "Forman parte del Parlamento.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "enunciado": "El artículo 8 atribuye a las Fuerzas Armadas, entre otras, la misión de:",
+        "opciones": [
+            {
+                "texto": "Mantener el orden público.",
+                "correcta": false
+            },
+            {
+                "texto": "Garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.",
+                "correcta": true
+            },
+            {
+                "texto": "Sancionar a quienes vulneren la Constitución.",
+                "correcta": false
+            },
+            {
+                "texto": "Dictar normas de seguridad nacional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "enunciado": "Según el artículo 9.3, la Constitución garantiza, entre otros, el principio de:",
+        "opciones": [
+            {
+                "texto": "Responsabilidad internacional.",
+                "correcta": false
+            },
+            {
+                "texto": "Publicidad de las normas.",
+                "correcta": true
+            },
+            {
+                "texto": "Control parlamentario.",
+                "correcta": false
+            },
+            {
+                "texto": "Representación proporcional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "enunciado": "El artículo 9.1 establece que los ciudadanos y los poderes públicos están sujetos:",
+        "opciones": [
+            {
+                "texto": "Únicamente a la Constitución.",
+                "correcta": false
+            },
+            {
+                "texto": "Únicamente a la ley.",
+                "correcta": false
+            },
+            {
+                "texto": "A la Constitución y al resto del ordenamiento jurídico.",
+                "correcta": true
+            },
+            {
+                "texto": "A las leyes emanadas del Parlamento.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "enunciado": "Según el artículo 1.3, la forma política del Estado español es:",
+        "opciones": [
+            {
+                "texto": "Monarquía parlamentaria.",
+                "correcta": true
+            },
+            {
+                "texto": "República federal.",
+                "correcta": false
+            },
+            {
+                "texto": "Estado confederal.",
+                "correcta": false
+            },
+            {
+                "texto": "Monarquía absoluta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "enunciado": "El artículo 2 reconoce y garantiza el derecho a la autonomía de:",
+        "opciones": [
+            {
+                "texto": "Las provincias.",
+                "correcta": false
+            },
+            {
+                "texto": "Las Comunidades Autónomas.",
+                "correcta": false
+            },
+            {
+                "texto": "Las nacionalidades y regiones.",
+                "correcta": true
+            },
+            {
+                "texto": "Las diputaciones provinciales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "enunciado": "En el artículo 3.1 se establece que el castellano es:",
+        "opciones": [
+            {
+                "texto": "Idioma oficial de la Administración General del Estado.",
+                "correcta": false
+            },
+            {
+                "texto": "Idioma oficial de España y todos los españoles tienen el deber de conocerlo y el derecho a usarlo.",
+                "correcta": true
+            },
+            {
+                "texto": "Idioma preferente para la enseñanza obligatoria.",
+                "correcta": false
+            },
+            {
+                "texto": "Idioma cooficial junto con las lenguas autonómicas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "enunciado": "El artículo 4.2 establece que los Estatutos de las Comunidades Autónomas podrán reconocer banderas y enseñas propias, que:",
+        "opciones": [
+            {
+                "texto": "Deberán usarse siempre en lugar de la bandera de España.",
+                "correcta": false
+            },
+            {
+                "texto": "Deberán ser autorizadas por el Gobierno central.",
+                "correcta": false
+            },
+            {
+                "texto": "Se utilizarán junto a la bandera de España en sus edificios públicos y actos oficiales.",
+                "correcta": true
+            },
+            {
+                "texto": "Podrán sustituir a la bandera de España en actos autonómicos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "enunciado": "Según el artículo 5, la capital del Estado es:",
+        "opciones": [
+            {
+                "texto": "Barcelona.",
+                "correcta": false
+            },
+            {
+                "texto": "Madrid.",
+                "correcta": true
+            },
+            {
+                "texto": "Sevilla.",
+                "correcta": false
+            },
+            {
+                "texto": "Valencia.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "enunciado": "De acuerdo con el artículo 6, los partidos políticos expresan el pluralismo político y:",
+        "opciones": [
+            {
+                "texto": "Son considerados órganos administrativos.",
+                "correcta": false
+            },
+            {
+                "texto": "Concurren a la formación y manifestación de la voluntad popular.",
+                "correcta": true
+            },
+            {
+                "texto": "Ejercen el poder legislativo.",
+                "correcta": false
+            },
+            {
+                "texto": "Están integrados en el Poder Judicial.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "enunciado": "El artículo 7 dispone que los sindicatos de trabajadores y asociaciones empresariales deben respetar:",
+        "opciones": [
+            {
+                "texto": "La autonomía universitaria.",
+                "correcta": false
+            },
+            {
+                "texto": "La Constitución y la ley.",
+                "correcta": true
+            },
+            {
+                "texto": "Las resoluciones del Parlamento.",
+                "correcta": false
+            },
+            {
+                "texto": "El reglamento de las Cámaras.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "enunciado": "El artículo 8.2 establece que una ley orgánica regulará:",
+        "opciones": [
+            {
+                "texto": "Las funciones de la Policía Nacional.",
+                "correcta": false
+            },
+            {
+                "texto": "Las bases de la organización militar.",
+                "correcta": true
+            },
+            {
+                "texto": "El régimen de defensa civil.",
+                "correcta": false
+            },
+            {
+                "texto": "El control parlamentario de las Fuerzas Armadas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "enunciado": "El artículo 9.2 obliga a los poderes públicos a promover las condiciones para que:",
+        "opciones": [
+            {
+                "texto": "La igualdad sea real y efectiva.",
+                "correcta": true
+            },
+            {
+                "texto": "Se garantice la independencia judicial.",
+                "correcta": false
+            },
+            {
+                "texto": "Se reduzca el gasto público.",
+                "correcta": false
+            },
+            {
+                "texto": "El Gobierno tenga mayoría parlamentaria.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "enunciado": "Según el artículo 9.3, entre los principios garantizados por la Constitución figura:",
+        "opciones": [
+            {
+                "texto": "La seguridad jurídica.",
+                "correcta": true
+            },
+            {
+                "texto": "La supremacía del Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "El mandato imperativo.",
+                "correcta": false
+            },
+            {
+                "texto": "La inmunidad parlamentaria absoluta.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "enunciado": "El artículo 16.1 reconoce la libertad ideológica, religiosa y de culto de los individuos y las comunidades, sin más limitación que:",
+        "opciones": [
+            {
+                "texto": "El respeto a la moral tradicional.",
+                "correcta": false
+            },
+            {
+                "texto": "El orden público protegido por la ley.",
+                "correcta": true
+            },
+            {
+                "texto": "La autorización administrativa.",
+                "correcta": false
+            },
+            {
+                "texto": "El acuerdo del Congreso de los Diputados.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "enunciado": "Según el artículo 16.3, ninguna confesión tendrá carácter:",
+        "opciones": [
+            {
+                "texto": "Privilegiado.",
+                "correcta": false
+            },
+            {
+                "texto": "Confesional.",
+                "correcta": false
+            },
+            {
+                "texto": "Estatal.",
+                "correcta": true
+            },
+            {
+                "texto": "Internacional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "enunciado": "El artículo 17.1 establece que toda persona tiene derecho a la libertad y a:",
+        "opciones": [
+            {
+                "texto": "Seguridad personal.",
+                "correcta": true
+            },
+            {
+                "texto": "Protección judicial inmediata.",
+                "correcta": false
+            },
+            {
+                "texto": "Asistencia letrada gratuita.",
+                "correcta": false
+            },
+            {
+                "texto": "Un juicio rápido.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "enunciado": "Según el artículo 17.2, la detención preventiva no podrá durar más de:",
+        "opciones": [
+            {
+                "texto": "48 horas.",
+                "correcta": false
+            },
+            {
+                "texto": "72 horas.",
+                "correcta": true
+            },
+            {
+                "texto": "5 días.",
+                "correcta": false
+            },
+            {
+                "texto": "1 semana.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "enunciado": "El artículo 18.1 reconoce el derecho al honor, a la intimidad personal y familiar y:",
+        "opciones": [
+            {
+                "texto": "A la inviolabilidad del domicilio.",
+                "correcta": false
+            },
+            {
+                "texto": "A la propia imagen.",
+                "correcta": true
+            },
+            {
+                "texto": "A la libertad de expresión.",
+                "correcta": false
+            },
+            {
+                "texto": "A la seguridad jurídica.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "enunciado": "Según el artículo 18.2, el domicilio es:",
+        "opciones": [
+            {
+                "texto": "Inviolable, salvo en caso de delito flagrante o autorización judicial.",
+                "correcta": true
+            },
+            {
+                "texto": "Registrable por la policía sin autorización.",
+                "correcta": false
+            },
+            {
+                "texto": "Sujeto a inspección anual obligatoria.",
+                "correcta": false
+            },
+            {
+                "texto": "De libre acceso para funcionarios públicos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "enunciado": "El artículo 19 establece que los españoles tienen derecho a elegir libremente:",
+        "opciones": [
+            {
+                "texto": "Su nacionalidad.",
+                "correcta": false
+            },
+            {
+                "texto": "Su residencia y a circular por el territorio nacional.",
+                "correcta": true
+            },
+            {
+                "texto": "Su pertenencia a asociaciones políticas.",
+                "correcta": false
+            },
+            {
+                "texto": "El sistema político del país.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "enunciado": "Según el artículo 20.1, se reconocen y protegen los derechos a expresar y difundir libremente:",
+        "opciones": [
+            {
+                "texto": "Opiniones, ideas y sentimientos, solo por medios escritos.",
+                "correcta": false
+            },
+            {
+                "texto": "Pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.",
+                "correcta": true
+            },
+            {
+                "texto": "Opiniones exclusivamente políticas.",
+                "correcta": false
+            },
+            {
+                "texto": "Información con autorización gubernamental previa.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "enunciado": "El artículo 20.2 prohíbe expresamente:",
+        "opciones": [
+            {
+                "texto": "La censura previa.",
+                "correcta": true
+            },
+            {
+                "texto": "Las críticas al Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "La publicación en medios extranjeros.",
+                "correcta": false
+            },
+            {
+                "texto": "El uso de redes sociales para difundir ideas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "enunciado": "El artículo 21.1 reconoce el derecho de reunión pacífica y sin armas, cuyo ejercicio no necesitará:",
+        "opciones": [
+            {
+                "texto": "Comunicación previa.",
+                "correcta": false
+            },
+            {
+                "texto": "Autorización previa.",
+                "correcta": true
+            },
+            {
+                "texto": "Organización formal.",
+                "correcta": false
+            },
+            {
+                "texto": "Presencia policial.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "enunciado": "Según el artículo 22.1, se reconoce el derecho de asociación, siempre que estas no:",
+        "opciones": [
+            {
+                "texto": "Sean de ámbito internacional.",
+                "correcta": false
+            },
+            {
+                "texto": "Persigan fines o utilicen medios tipificados como delito.",
+                "correcta": true
+            },
+            {
+                "texto": "Reciban financiación extranjera.",
+                "correcta": false
+            },
+            {
+                "texto": "Tengan ideología política.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "enunciado": "El artículo 23.1 reconoce el derecho de los ciudadanos a participar en los asuntos públicos, directamente o por medio de:",
+        "opciones": [
+            {
+                "texto": "Representantes libremente elegidos en elecciones periódicas por sufragio universal.",
+                "correcta": true
+            },
+            {
+                "texto": "Delegados designados por el Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Miembros de organizaciones internacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Representantes sindicales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "enunciado": "El artículo 24.1 garantiza el derecho a obtener tutela efectiva de jueces y tribunales, sin que en ningún caso pueda producirse:",
+        "opciones": [
+            {
+                "texto": "Desigualdad de trato.",
+                "correcta": false
+            },
+            {
+                "texto": "Indefensión.",
+                "correcta": true
+            },
+            {
+                "texto": "Retraso procesal.",
+                "correcta": false
+            },
+            {
+                "texto": "Denegación de recurso.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "enunciado": "Según el artículo 25.1, nadie puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse:",
+        "opciones": [
+            {
+                "texto": "No constituyan delito, falta o infracción administrativa, según la legislación vigente en aquel momento.",
+                "correcta": true
+            },
+            {
+                "texto": "No estén previstas en tratados internacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "No hayan sido previamente publicadas en el BOE.",
+                "correcta": false
+            },
+            {
+                "texto": "No estén incluidas en leyes orgánicas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "enunciado": "El artículo 27.1 reconoce el derecho de todos a la educación y la libertad de:",
+        "opciones": [
+            {
+                "texto": "Escoger centro educativo sin limitaciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Enseñanza.",
+                "correcta": true
+            },
+            {
+                "texto": "Financiación escolar pública.",
+                "correcta": false
+            },
+            {
+                "texto": "Asistencia a clases privadas gratuitas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "enunciado": "Según el artículo 27.3, los poderes públicos garantizan el derecho de los padres a que sus hijos reciban:",
+        "opciones": [
+            {
+                "texto": "Educación moral y religiosa acorde con sus propias convicciones.",
+                "correcta": true
+            },
+            {
+                "texto": "Educación exclusivamente pública.",
+                "correcta": false
+            },
+            {
+                "texto": "Educación laica obligatoria.",
+                "correcta": false
+            },
+            {
+                "texto": "Educación internacional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "enunciado": "El artículo 28.1 reconoce el derecho a la libre sindicación, con la excepción de:",
+        "opciones": [
+            {
+                "texto": "Los miembros de las Fuerzas o Institutos Armados y demás cuerpos sometidos a disciplina militar.",
+                "correcta": true
+            },
+            {
+                "texto": "Los funcionarios públicos.",
+                "correcta": false
+            },
+            {
+                "texto": "Los jueces y magistrados.",
+                "correcta": false
+            },
+            {
+                "texto": "Los trabajadores menores de edad.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "enunciado": "Según el artículo 28.2, se reconoce el derecho a la huelga de:",
+        "opciones": [
+            {
+                "texto": "Todos los ciudadanos.",
+                "correcta": false
+            },
+            {
+                "texto": "Los trabajadores para la defensa de sus intereses.",
+                "correcta": true
+            },
+            {
+                "texto": "Los empresarios y autónomos.",
+                "correcta": false
+            },
+            {
+                "texto": "Solo de los trabajadores del sector público.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "enunciado": "El artículo 29.1 reconoce el derecho de petición, que podrá ejercerse:",
+        "opciones": [
+            {
+                "texto": "De forma individual o colectiva.",
+                "correcta": true
+            },
+            {
+                "texto": "Únicamente de manera individual.",
+                "correcta": false
+            },
+            {
+                "texto": "Solo a través de asociaciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Con autorización judicial.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "enunciado": "Según el artículo 30.1, los españoles tienen el derecho y el deber de:",
+        "opciones": [
+            {
+                "texto": "Servir a la Administración pública.",
+                "correcta": false
+            },
+            {
+                "texto": "Defender a España.",
+                "correcta": true
+            },
+            {
+                "texto": "Contribuir al gasto público.",
+                "correcta": false
+            },
+            {
+                "texto": "Cumplir con el servicio social obligatorio.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "enunciado": "Según el artículo 10.1, la dignidad de la persona y los derechos inviolables que le son inherentes constituyen:",
+        "opciones": [
+            {
+                "texto": "La base del orden político y de la paz social.",
+                "correcta": true
+            },
+            {
+                "texto": "Un principio interpretativo sin valor normativo.",
+                "correcta": false
+            },
+            {
+                "texto": "Un derecho fundamental en sí mismo.",
+                "correcta": false
+            },
+            {
+                "texto": "Una competencia exclusiva del Estado.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "enunciado": "El artículo 10.2 establece que las normas relativas a los derechos fundamentales se interpretarán conforme a:",
+        "opciones": [
+            {
+                "texto": "Los tratados y acuerdos internacionales sobre derechos humanos ratificados por España.",
+                "correcta": true
+            },
+            {
+                "texto": "La costumbre constitucional.",
+                "correcta": false
+            },
+            {
+                "texto": "Las leyes orgánicas de desarrollo.",
+                "correcta": false
+            },
+            {
+                "texto": "Las resoluciones del Congreso de los Diputados.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "enunciado": "El artículo 11.1 reconoce la nacionalidad española:",
+        "opciones": [
+            {
+                "texto": "Solo a los nacidos en territorio nacional.",
+                "correcta": false
+            },
+            {
+                "texto": "De acuerdo con lo establecido por la ley.",
+                "correcta": true
+            },
+            {
+                "texto": "Únicamente a quienes tengan ascendencia española directa.",
+                "correcta": false
+            },
+            {
+                "texto": "Como derecho absoluto sin condiciones legales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "enunciado": "Según el artículo 11.2, ningún español de origen:",
+        "opciones": [
+            {
+                "texto": "Podrá ser privado de su nacionalidad.",
+                "correcta": true
+            },
+            {
+                "texto": "Podrá ostentar doble nacionalidad.",
+                "correcta": false
+            },
+            {
+                "texto": "Podrá ser privado de su ciudadanía salvo por sentencia judicial.",
+                "correcta": false
+            },
+            {
+                "texto": "Está obligado a residir en España.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "enunciado": "El artículo 12 establece que los españoles son mayores de edad a los:",
+        "opciones": [
+            {
+                "texto": "18 años.",
+                "correcta": true
+            },
+            {
+                "texto": "21 años.",
+                "correcta": false
+            },
+            {
+                "texto": "16 años.",
+                "correcta": false
+            },
+            {
+                "texto": "17 años.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "enunciado": "El artículo 13.1 reconoce a los extranjeros en España:",
+        "opciones": [
+            {
+                "texto": "Los mismos derechos y libertades que los españoles, salvo lo que dispongan los tratados y la ley.",
+                "correcta": true
+            },
+            {
+                "texto": "Únicamente derechos civiles.",
+                "correcta": false
+            },
+            {
+                "texto": "Solo derechos laborales.",
+                "correcta": false
+            },
+            {
+                "texto": "Derechos limitados a la residencia legal.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "enunciado": "Según el artículo 13.2, únicamente los españoles podrán ser titulares de:",
+        "opciones": [
+            {
+                "texto": "La propiedad privada.",
+                "correcta": false
+            },
+            {
+                "texto": "Los derechos reconocidos en el Título I.",
+                "correcta": false
+            },
+            {
+                "texto": "Los derechos políticos.",
+                "correcta": true
+            },
+            {
+                "texto": "Los derechos de asociación.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "enunciado": "El artículo 14 prohíbe cualquier discriminación por razón de:",
+        "opciones": [
+            {
+                "texto": "Nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+                "correcta": true
+            },
+            {
+                "texto": "Nivel educativo únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Idioma y orientación política exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Únicamente por origen nacional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "enunciado": "El artículo 15 reconoce el derecho:",
+        "opciones": [
+            {
+                "texto": "A la vida y a la integridad física y moral.",
+                "correcta": true
+            },
+            {
+                "texto": "A la propiedad privada.",
+                "correcta": false
+            },
+            {
+                "texto": "Al trabajo.",
+                "correcta": false
+            },
+            {
+                "texto": "A la educación.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "enunciado": "Según el artículo 15, en ningún caso podrá ser sometido alguien a:",
+        "opciones": [
+            {
+                "texto": "Pena de prisión perpetua.",
+                "correcta": false
+            },
+            {
+                "texto": "Tortura ni a penas o tratos inhumanos o degradantes.",
+                "correcta": true
+            },
+            {
+                "texto": "Sanciones administrativas.",
+                "correcta": false
+            },
+            {
+                "texto": "Multas coercitivas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "enunciado": "Según el artículo 31.1, todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante:",
+        "opciones": [
+            {
+                "texto": "Tributos justos inspirados en los principios de igualdad y progresividad.",
+                "correcta": true
+            },
+            {
+                "texto": "Un impuesto único y proporcional.",
+                "correcta": false
+            },
+            {
+                "texto": "Donaciones voluntarias.",
+                "correcta": false
+            },
+            {
+                "texto": "Aportaciones solidarias no obligatorias.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "enunciado": "El artículo 32.1 reconoce el derecho del hombre y la mujer a contraer matrimonio con:",
+        "opciones": [
+            {
+                "texto": "Plena igualdad jurídica.",
+                "correcta": true
+            },
+            {
+                "texto": "Consentimiento familiar.",
+                "correcta": false
+            },
+            {
+                "texto": "Autorización judicial.",
+                "correcta": false
+            },
+            {
+                "texto": "Aprobación de la comunidad.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "enunciado": "Según el artículo 33.1, se reconoce el derecho a la propiedad privada y:",
+        "opciones": [
+            {
+                "texto": "A la herencia.",
+                "correcta": true
+            },
+            {
+                "texto": "A la libre disposición de bienes sin límites.",
+                "correcta": false
+            },
+            {
+                "texto": "A la propiedad colectiva únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "A la propiedad pública de recursos naturales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "enunciado": "El artículo 33.2 establece que la función social de estos derechos:",
+        "opciones": [
+            {
+                "texto": "Limitará su contenido de acuerdo con las leyes.",
+                "correcta": true
+            },
+            {
+                "texto": "Será establecida por acuerdos internacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Será interpretada por los ayuntamientos.",
+                "correcta": false
+            },
+            {
+                "texto": "No tendrá efectos jurídicos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "enunciado": "Según el artículo 34.1, se reconoce el derecho de fundación para fines de interés:",
+        "opciones": [
+            {
+                "texto": "Económico y lucrativo.",
+                "correcta": false
+            },
+            {
+                "texto": "General.",
+                "correcta": true
+            },
+            {
+                "texto": "Político exclusivo.",
+                "correcta": false
+            },
+            {
+                "texto": "Privado exclusivamente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "enunciado": "El artículo 35.1 reconoce el derecho y el deber de trabajar, y a:",
+        "opciones": [
+            {
+                "texto": "La libre elección de profesión u oficio.",
+                "correcta": true
+            },
+            {
+                "texto": "Un empleo vitalicio.",
+                "correcta": false
+            },
+            {
+                "texto": "Trabajo garantizado por el Estado en todo momento.",
+                "correcta": false
+            },
+            {
+                "texto": "Exención de impuestos laborales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "enunciado": "Según el artículo 35.2, la ley regulará un estatuto de los trabajadores que garantizará:",
+        "opciones": [
+            {
+                "texto": "La participación en la empresa y la negociación colectiva.",
+                "correcta": true
+            },
+            {
+                "texto": "La propiedad de la empresa por los trabajadores.",
+                "correcta": false
+            },
+            {
+                "texto": "El control absoluto de los salarios.",
+                "correcta": false
+            },
+            {
+                "texto": "El empleo indefinido obligatorio.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "enunciado": "El artículo 36 establece que la ley regulará las peculiaridades propias del régimen jurídico de:",
+        "opciones": [
+            {
+                "texto": "Las asociaciones culturales.",
+                "correcta": false
+            },
+            {
+                "texto": "Los colegios profesionales y el ejercicio de las profesiones tituladas.",
+                "correcta": true
+            },
+            {
+                "texto": "Las universidades públicas.",
+                "correcta": false
+            },
+            {
+                "texto": "Las cámaras de comercio.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "enunciado": "Según el artículo 37.1, la ley garantizará el derecho a la negociación colectiva laboral entre:",
+        "opciones": [
+            {
+                "texto": "Sindicatos y empresarios.",
+                "correcta": true
+            },
+            {
+                "texto": "Gobierno y trabajadores.",
+                "correcta": false
+            },
+            {
+                "texto": "Empresarios y Administración pública.",
+                "correcta": false
+            },
+            {
+                "texto": "Sindicatos y partidos políticos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "enunciado": "El artículo 37.2 reconoce el derecho de los trabajadores y empresarios a adoptar:",
+        "opciones": [
+            {
+                "texto": "Medidas de conflicto colectivo.",
+                "correcta": true
+            },
+            {
+                "texto": "Decisiones legislativas vinculantes.",
+                "correcta": false
+            },
+            {
+                "texto": "Acuerdos internacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Medidas de presión política.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "enunciado": "Según el artículo 38, se reconoce la libertad de empresa en el marco de:",
+        "opciones": [
+            {
+                "texto": "La economía de mercado.",
+                "correcta": true
+            },
+            {
+                "texto": "La economía planificada.",
+                "correcta": false
+            },
+            {
+                "texto": "Un sistema mixto público-privado obligatorio.",
+                "correcta": false
+            },
+            {
+                "texto": "La economía comunal.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "enunciado": "El artículo 38 garantiza la libertad de empresa y la defensa de:",
+        "opciones": [
+            {
+                "texto": "Los intereses del Estado.",
+                "correcta": false
+            },
+            {
+                "texto": "La productividad nacional.",
+                "correcta": false
+            },
+            {
+                "texto": "La productividad y la defensa de la competencia.",
+                "correcta": true
+            },
+            {
+                "texto": "El comercio exterior exclusivamente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "enunciado": "Según el artículo 31.2, el gasto público realizará una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a criterios de:",
+        "opciones": [
+            {
+                "texto": "Eficiencia y economía.",
+                "correcta": true
+            },
+            {
+                "texto": "Austeridad exclusiva.",
+                "correcta": false
+            },
+            {
+                "texto": "Igualdad política.",
+                "correcta": false
+            },
+            {
+                "texto": "Prioridad gubernamental.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "enunciado": "El artículo 31.3 dispone que solo podrán establecerse prestaciones personales o patrimoniales de carácter público con:",
+        "opciones": [
+            {
+                "texto": "Aprobación parlamentaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Fundamento en la ley.",
+                "correcta": true
+            },
+            {
+                "texto": "Consentimiento ciudadano.",
+                "correcta": false
+            },
+            {
+                "texto": "Autorización del Tribunal Constitucional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "enunciado": "El artículo 34.2 indica que las fundaciones deberán inscribirse en un registro y actuar con arreglo a:",
+        "opciones": [
+            {
+                "texto": "La voluntad de sus fundadores, la ley y los Estatutos.",
+                "correcta": true
+            },
+            {
+                "texto": "El interés exclusivo de sus miembros.",
+                "correcta": false
+            },
+            {
+                "texto": "El reglamento municipal correspondiente.",
+                "correcta": false
+            },
+            {
+                "texto": "Las directrices del Gobierno central.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "enunciado": "Según el artículo 32.2, la ley regulará las formas de matrimonio, la edad y:",
+        "opciones": [
+            {
+                "texto": "Las causas de separación y disolución y sus efectos.",
+                "correcta": true
+            },
+            {
+                "texto": "La necesidad de autorización judicial.",
+                "correcta": false
+            },
+            {
+                "texto": "El consentimiento de las familias.",
+                "correcta": false
+            },
+            {
+                "texto": "El régimen económico matrimonial único.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "enunciado": "El artículo 36 dispone que la estructura interna y el funcionamiento de los colegios profesionales deberán ser:",
+        "opciones": [
+            {
+                "texto": "Democráticos.",
+                "correcta": true
+            },
+            {
+                "texto": "Jerárquicos.",
+                "correcta": false
+            },
+            {
+                "texto": "Nombrados por el Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Supervisados por el Rey.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "enunciado": "El artículo 27.5 establece que los poderes públicos garantizan el derecho de todos a la educación mediante:",
+        "opciones": [
+            {
+                "texto": "Una programación general de la enseñanza con participación efectiva de todos los sectores afectados.",
+                "correcta": true
+            },
+            {
+                "texto": "La escolarización obligatoria en centros públicos.",
+                "correcta": false
+            },
+            {
+                "texto": "La gratuidad absoluta de todos los niveles educativos.",
+                "correcta": false
+            },
+            {
+                "texto": "El acceso limitado según méritos académicos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "enunciado": "Según el artículo 37.2, la ley que regule el derecho a adoptar medidas de conflicto colectivo deberá establecer las garantías necesarias para:",
+        "opciones": [
+            {
+                "texto": "Asegurar el funcionamiento de los servicios esenciales de la comunidad.",
+                "correcta": true
+            },
+            {
+                "texto": "Garantizar el pleno empleo.",
+                "correcta": false
+            },
+            {
+                "texto": "Permitir la negociación política.",
+                "correcta": false
+            },
+            {
+                "texto": "Evitar las huelgas indefinidas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "enunciado": "El artículo 38 reconoce que los poderes públicos garantizan y protegen la libertad de empresa en el marco de la economía de mercado, y:",
+        "opciones": [
+            {
+                "texto": "Velarán por su funcionamiento y la defensa de la productividad.",
+                "correcta": false
+            },
+            {
+                "texto": "Velarán por su funcionamiento y la defensa de la competencia.",
+                "correcta": true
+            },
+            {
+                "texto": "Fomentarán exclusivamente las empresas estatales.",
+                "correcta": false
+            },
+            {
+                "texto": "Regularán precios de forma obligatoria.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "enunciado": "El artículo 10.1 indica que la dignidad de la persona y los derechos inviolables son fundamento del orden:",
+        "opciones": [
+            {
+                "texto": "Jurídico y político.",
+                "correcta": true
+            },
+            {
+                "texto": "Internacional y económico.",
+                "correcta": false
+            },
+            {
+                "texto": "Militar y administrativo.",
+                "correcta": false
+            },
+            {
+                "texto": "Religioso y social.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "enunciado": "Según el artículo 10.2, las normas relativas a los derechos fundamentales se interpretarán conforme a:",
+        "opciones": [
+            {
+                "texto": "La Declaración Universal de Derechos Humanos y los tratados ratificados por España.",
+                "correcta": true
+            },
+            {
+                "texto": "La legislación autonómica vigente.",
+                "correcta": false
+            },
+            {
+                "texto": "Las costumbres históricas.",
+                "correcta": false
+            },
+            {
+                "texto": "La jurisprudencia municipal.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "enunciado": "El artículo 11.1 establece que la nacionalidad española se adquiere, conserva y pierde de acuerdo con:",
+        "opciones": [
+            {
+                "texto": "La ley.",
+                "correcta": true
+            },
+            {
+                "texto": "Decisiones del Tribunal Constitucional.",
+                "correcta": false
+            },
+            {
+                "texto": "Acuerdos internacionales únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Resoluciones del Consejo de Ministros.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "enunciado": "Según el artículo 11.3, el Estado podrá concertar tratados de doble nacionalidad especialmente con:",
+        "opciones": [
+            {
+                "texto": "Países iberoamericanos.",
+                "correcta": true
+            },
+            {
+                "texto": "Cualquier país de la UE.",
+                "correcta": false
+            },
+            {
+                "texto": "Estados miembros de la ONU.",
+                "correcta": false
+            },
+            {
+                "texto": "Países del G7.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "enunciado": "El artículo 12 establece que los españoles son mayores de edad a los:",
+        "opciones": [
+            {
+                "texto": "18 años.",
+                "correcta": true
+            },
+            {
+                "texto": "21 años.",
+                "correcta": false
+            },
+            {
+                "texto": "20 años.",
+                "correcta": false
+            },
+            {
+                "texto": "19 años.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "enunciado": "El artículo 13.1 determina que los extranjeros gozarán en España de las libertades públicas que garantiza el Título I, en los términos que establezcan:",
+        "opciones": [
+            {
+                "texto": "Los tratados y la ley.",
+                "correcta": true
+            },
+            {
+                "texto": "Las costumbres locales.",
+                "correcta": false
+            },
+            {
+                "texto": "Las resoluciones judiciales.",
+                "correcta": false
+            },
+            {
+                "texto": "El Ministerio de Interior.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "enunciado": "Según el artículo 13.2, únicamente los españoles serán titulares de:",
+        "opciones": [
+            {
+                "texto": "Los derechos reconocidos en el artículo 23.",
+                "correcta": true
+            },
+            {
+                "texto": "El derecho a la libre circulación.",
+                "correcta": false
+            },
+            {
+                "texto": "El derecho a la educación.",
+                "correcta": false
+            },
+            {
+                "texto": "El derecho a la propiedad privada.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "enunciado": "El artículo 13.3 señala que el derecho de asilo en España se reconocerá en los términos que:",
+        "opciones": [
+            {
+                "texto": "Establezca la ley.",
+                "correcta": true
+            },
+            {
+                "texto": "Determine la Unión Europea.",
+                "correcta": false
+            },
+            {
+                "texto": "Decida el Gobierno por decreto.",
+                "correcta": false
+            },
+            {
+                "texto": "Acorde el Consejo de Ministros.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "enunciado": "El artículo 14 prohíbe toda discriminación por razón de:",
+        "opciones": [
+            {
+                "texto": "Nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+                "correcta": true
+            },
+            {
+                "texto": "Nivel económico exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Residencia habitual únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Profesión desempeñada.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "enunciado": "Según el artículo 15, todos tienen derecho a la vida y a la integridad física y moral, sin que puedan ser sometidos a:",
+        "opciones": [
+            {
+                "texto": "Tortura ni penas o tratos inhumanos o degradantes.",
+                "correcta": true
+            },
+            {
+                "texto": "Trabajo obligatorio en cualquier circunstancia.",
+                "correcta": false
+            },
+            {
+                "texto": "Arresto domiciliario sin causa.",
+                "correcta": false
+            },
+            {
+                "texto": "Desplazamiento forzoso.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "enunciado": "El artículo 16.1 garantiza la libertad ideológica, religiosa y de culto sin más limitación que:",
+        "opciones": [
+            {
+                "texto": "La necesaria para el mantenimiento del orden público protegido por la ley.",
+                "correcta": true
+            },
+            {
+                "texto": "La establecida por las autoridades eclesiásticas.",
+                "correcta": false
+            },
+            {
+                "texto": "El acuerdo del Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "La aprobación del Parlamento.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "enunciado": "Según el artículo 16.3, ninguna confesión tendrá carácter:",
+        "opciones": [
+            {
+                "texto": "Estatal.",
+                "correcta": true
+            },
+            {
+                "texto": "Voluntario.",
+                "correcta": false
+            },
+            {
+                "texto": "Privado.",
+                "correcta": false
+            },
+            {
+                "texto": "Colectivo.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "enunciado": "El artículo 17.1 establece que toda persona tiene derecho a la libertad y seguridad, y que nadie puede ser privado de su libertad salvo:",
+        "opciones": [
+            {
+                "texto": "En los casos y en la forma previstos en la ley.",
+                "correcta": true
+            },
+            {
+                "texto": "Por orden del alcalde.",
+                "correcta": false
+            },
+            {
+                "texto": "En virtud de decisión administrativa.",
+                "correcta": false
+            },
+            {
+                "texto": "Por mandato de cualquier autoridad pública.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "enunciado": "Según el artículo 17.2, la detención preventiva no podrá durar más de:",
+        "opciones": [
+            {
+                "texto": "El tiempo estrictamente necesario para realizar las averiguaciones, y en todo caso, un máximo de 72 horas.",
+                "correcta": true
+            },
+            {
+                "texto": "48 horas.",
+                "correcta": false
+            },
+            {
+                "texto": "5 días.",
+                "correcta": false
+            },
+            {
+                "texto": "24 horas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "enunciado": "El artículo 18.1 reconoce el derecho al honor, a la intimidad personal y familiar y a:",
+        "opciones": [
+            {
+                "texto": "La propia imagen.",
+                "correcta": true
+            },
+            {
+                "texto": "La privacidad digital.",
+                "correcta": false
+            },
+            {
+                "texto": "La libertad de expresión.",
+                "correcta": false
+            },
+            {
+                "texto": "La tutela judicial efectiva.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "enunciado": "Según el artículo 18.2, el domicilio es inviolable y ninguna entrada o registro podrá hacerse sin:",
+        "opciones": [
+            {
+                "texto": "Consentimiento del titular o resolución judicial, salvo flagrante delito.",
+                "correcta": true
+            },
+            {
+                "texto": "Orden del alcalde.",
+                "correcta": false
+            },
+            {
+                "texto": "Permiso verbal de la policía.",
+                "correcta": false
+            },
+            {
+                "texto": "Aprobación parlamentaria.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "enunciado": "El artículo 18.3 establece que se garantiza el secreto de las comunicaciones, salvo resolución judicial, especialmente:",
+        "opciones": [
+            {
+                "texto": "Las postales, telegráficas y telefónicas.",
+                "correcta": true
+            },
+            {
+                "texto": "Las electrónicas exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Las verbales.",
+                "correcta": false
+            },
+            {
+                "texto": "Las publicadas en medios de comunicación.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "enunciado": "Según el artículo 19, los españoles tienen derecho a elegir libremente su residencia y a:",
+        "opciones": [
+            {
+                "texto": "Circular por el territorio nacional.",
+                "correcta": true
+            },
+            {
+                "texto": "Obtener vivienda gratuita.",
+                "correcta": false
+            },
+            {
+                "texto": "Recibir transporte público gratuito.",
+                "correcta": false
+            },
+            {
+                "texto": "Viajar al extranjero sin pasaporte.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "enunciado": "El artículo 20.1 reconoce el derecho a expresar y difundir libremente los pensamientos, ideas y opiniones mediante:",
+        "opciones": [
+            {
+                "texto": "La palabra, el escrito o cualquier otro medio de reproducción.",
+                "correcta": true
+            },
+            {
+                "texto": "Únicamente la palabra y la prensa escrita.",
+                "correcta": false
+            },
+            {
+                "texto": "Medios autorizados por el Estado.",
+                "correcta": false
+            },
+            {
+                "texto": "Medios previamente censurados.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "enunciado": "Según el artículo 20.4, estas libertades tienen su límite en el respeto a:",
+        "opciones": [
+            {
+                "texto": "Los derechos reconocidos en el Título I, y especialmente, en el derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la infancia.",
+                "correcta": true
+            },
+            {
+                "texto": "La moral pública definida por el Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "La costumbre social.",
+                "correcta": false
+            },
+            {
+                "texto": "Las directrices de los medios de comunicación.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "enunciado": "El artículo 21.1 establece que se reconoce el derecho de reunión pacífica y sin armas, cuyo ejercicio no necesitará:",
+        "opciones": [
+            {
+                "texto": "Autorización previa.",
+                "correcta": true
+            },
+            {
+                "texto": "Comunicación a la autoridad competente.",
+                "correcta": false
+            },
+            {
+                "texto": "Control policial.",
+                "correcta": false
+            },
+            {
+                "texto": "Aprobación del Parlamento.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "enunciado": "Según el artículo 21.2, en reuniones en lugares de tránsito público se dará comunicación previa a la autoridad, que solo podrá prohibirlas cuando:",
+        "opciones": [
+            {
+                "texto": "Existan razones fundadas de alteración del orden público, con peligro para personas o bienes.",
+                "correcta": true
+            },
+            {
+                "texto": "No se disponga de personal policial suficiente.",
+                "correcta": false
+            },
+            {
+                "texto": "La vía pública esté ocupada.",
+                "correcta": false
+            },
+            {
+                "texto": "No cuenten con seguro de responsabilidad civil.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "enunciado": "El artículo 22.1 reconoce el derecho de asociación, que deberá ejercerse con respeto a:",
+        "opciones": [
+            {
+                "texto": "La Constitución y la ley.",
+                "correcta": true
+            },
+            {
+                "texto": "Las normas internas de la asociación.",
+                "correcta": false
+            },
+            {
+                "texto": "El reglamento municipal.",
+                "correcta": false
+            },
+            {
+                "texto": "La tradición local.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "enunciado": "Según el artículo 22.2, las asociaciones que persigan fines o utilicen medios tipificados como delito son:",
+        "opciones": [
+            {
+                "texto": "Ilegales.",
+                "correcta": true
+            },
+            {
+                "texto": "Autorizables bajo control judicial.",
+                "correcta": false
+            },
+            {
+                "texto": "Permitidas con licencia especial.",
+                "correcta": false
+            },
+            {
+                "texto": "Toleradas si son de carácter cultural.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "enunciado": "El artículo 22.4 establece que las asociaciones solo podrán ser disueltas o suspendidas en sus actividades mediante:",
+        "opciones": [
+            {
+                "texto": "Resolución judicial motivada.",
+                "correcta": true
+            },
+            {
+                "texto": "Orden ministerial.",
+                "correcta": false
+            },
+            {
+                "texto": "Acuerdo del alcalde.",
+                "correcta": false
+            },
+            {
+                "texto": "Votación en el Parlamento.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "enunciado": "El artículo 23.1 reconoce que los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de:",
+        "opciones": [
+            {
+                "texto": "Representantes libremente elegidos en elecciones periódicas por sufragio universal.",
+                "correcta": true
+            },
+            {
+                "texto": "Delegados nombrados por el Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Representantes designados por el Rey.",
+                "correcta": false
+            },
+            {
+                "texto": "Funcionarios públicos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "enunciado": "Según el artículo 24.1, todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos, sin que en ningún caso pueda producirse:",
+        "opciones": [
+            {
+                "texto": "Indefensión.",
+                "correcta": true
+            },
+            {
+                "texto": "Aplazamiento del juicio.",
+                "correcta": false
+            },
+            {
+                "texto": "Sanción económica.",
+                "correcta": false
+            },
+            {
+                "texto": "Multa coercitiva.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "enunciado": "El artículo 25.1 dispone que nadie puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan:",
+        "opciones": [
+            {
+                "texto": "Delito, falta o infracción administrativa.",
+                "correcta": true
+            },
+            {
+                "texto": "Pecado o falta moral.",
+                "correcta": false
+            },
+            {
+                "texto": "Incumplimiento contractual.",
+                "correcta": false
+            },
+            {
+                "texto": "Acto antisocial.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "enunciado": "Según el artículo 26, se prohíben los Tribunales de:",
+        "opciones": [
+            {
+                "texto": "Honor en el ámbito de la Administración civil y de las organizaciones profesionales.",
+                "correcta": true
+            },
+            {
+                "texto": "Justicia militar.",
+                "correcta": false
+            },
+            {
+                "texto": "Mediación laboral.",
+                "correcta": false
+            },
+            {
+                "texto": "Derecho canónico.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "enunciado": "El artículo 27.1 reconoce que todos tienen el derecho a la educación y a:",
+        "opciones": [
+            {
+                "texto": "La libertad de enseñanza.",
+                "correcta": true
+            },
+            {
+                "texto": "La gratuidad universitaria absoluta.",
+                "correcta": false
+            },
+            {
+                "texto": "La enseñanza en el extranjero.",
+                "correcta": false
+            },
+            {
+                "texto": "La docencia privada exclusiva.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "enunciado": "Según el artículo 27.2, la educación tendrá por objeto el pleno desarrollo de la personalidad humana en el respeto a:",
+        "opciones": [
+            {
+                "texto": "Los principios democráticos de convivencia y a los derechos y libertades fundamentales.",
+                "correcta": true
+            },
+            {
+                "texto": "Las normas de la comunidad autónoma.",
+                "correcta": false
+            },
+            {
+                "texto": "La moral pública definida por el Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Las costumbres religiosas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "enunciado": "El artículo 27.3 establece que los poderes públicos garantizan el derecho que asiste a los padres para que sus hijos reciban la formación religiosa y moral:",
+        "opciones": [
+            {
+                "texto": "Que esté de acuerdo con sus propias convicciones.",
+                "correcta": true
+            },
+            {
+                "texto": "Definida por el Estado.",
+                "correcta": false
+            },
+            {
+                "texto": "Aprobada por el Parlamento.",
+                "correcta": false
+            },
+            {
+                "texto": "Dictada por el Consejo Escolar.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "enunciado": "Según el artículo 27.4, la enseñanza básica es obligatoria y gratuita:",
+        "opciones": [
+            {
+                "texto": "Para todos.",
+                "correcta": true
+            },
+            {
+                "texto": "Solo para menores de edad.",
+                "correcta": false
+            },
+            {
+                "texto": "Exclusivamente para españoles.",
+                "correcta": false
+            },
+            {
+                "texto": "En instituciones públicas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "enunciado": "El artículo 28.1 reconoce el derecho a la libertad sindical, incluyendo el derecho a:",
+        "opciones": [
+            {
+                "texto": "Fundar sindicatos y afiliarse al de su elección.",
+                "correcta": true
+            },
+            {
+                "texto": "Participar en elecciones políticas.",
+                "correcta": false
+            },
+            {
+                "texto": "Nombrar representantes judiciales.",
+                "correcta": false
+            },
+            {
+                "texto": "Administrar fondos públicos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "enunciado": "Según el artículo 28.2, se reconoce el derecho a la huelga de los trabajadores para la defensa de:",
+        "opciones": [
+            {
+                "texto": "Sus intereses.",
+                "correcta": true
+            },
+            {
+                "texto": "El interés general únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "La estabilidad del Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Los beneficios empresariales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "enunciado": "El artículo 29.1 establece que todos los españoles tendrán el derecho de petición, individual y colectiva, por escrito y:",
+        "opciones": [
+            {
+                "texto": "En la forma y con los efectos que determine la ley.",
+                "correcta": true
+            },
+            {
+                "texto": "Únicamente por vía electrónica.",
+                "correcta": false
+            },
+            {
+                "texto": "Previo pago de tasas administrativas.",
+                "correcta": false
+            },
+            {
+                "texto": "Con firma de notario.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "enunciado": "Según el artículo 30.1, los españoles tienen el deber y el derecho de:",
+        "opciones": [
+            {
+                "texto": "Defender a España.",
+                "correcta": true
+            },
+            {
+                "texto": "Prestar servicio militar obligatorio.",
+                "correcta": false
+            },
+            {
+                "texto": "Pagar impuestos.",
+                "correcta": false
+            },
+            {
+                "texto": "Afiliarse a un sindicato.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "enunciado": "El artículo 31.1 establece que todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante:",
+        "opciones": [
+            {
+                "texto": "Un sistema tributario justo.",
+                "correcta": true
+            },
+            {
+                "texto": "Donaciones voluntarias.",
+                "correcta": false
+            },
+            {
+                "texto": "Aportaciones discrecionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuotas establecidas por el Gobierno.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "enunciado": "Según el artículo 32.1, el hombre y la mujer tienen derecho a contraer matrimonio con:",
+        "opciones": [
+            {
+                "texto": "Plena igualdad jurídica.",
+                "correcta": true
+            },
+            {
+                "texto": "Permiso judicial previo.",
+                "correcta": false
+            },
+            {
+                "texto": "Consentimiento paterno.",
+                "correcta": false
+            },
+            {
+                "texto": "Aprobación gubernamental.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "enunciado": "El artículo 33.1 reconoce el derecho a la propiedad privada y a:",
+        "opciones": [
+            {
+                "texto": "La herencia.",
+                "correcta": true
+            },
+            {
+                "texto": "El uso exclusivo del suelo público.",
+                "correcta": false
+            },
+            {
+                "texto": "La exención fiscal total.",
+                "correcta": false
+            },
+            {
+                "texto": "La apropiación de bienes estatales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "enunciado": "Según el artículo 33.2, la función social de estos derechos delimitará su:",
+        "opciones": [
+            {
+                "texto": "Contenido, de acuerdo con las leyes.",
+                "correcta": true
+            },
+            {
+                "texto": "Extinción automática.",
+                "correcta": false
+            },
+            {
+                "texto": "Valor económico.",
+                "correcta": false
+            },
+            {
+                "texto": "Posesión vitalicia.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "enunciado": "El artículo 34.1 reconoce el derecho de fundación para fines:",
+        "opciones": [
+            {
+                "texto": "De interés general, con arreglo a la ley.",
+                "correcta": true
+            },
+            {
+                "texto": "Lucrativos exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Privados sin control.",
+                "correcta": false
+            },
+            {
+                "texto": "Políticos exclusivamente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "enunciado": "Según el artículo 35.1, todos los españoles tienen el deber de trabajar y el derecho al trabajo, a la libre elección de profesión y oficio, a la promoción a través del trabajo y a:",
+        "opciones": [
+            {
+                "texto": "Una remuneración suficiente para satisfacer sus necesidades y las de su familia.",
+                "correcta": true
+            },
+            {
+                "texto": "Vacaciones ilimitadas.",
+                "correcta": false
+            },
+            {
+                "texto": "Subsidios permanentes.",
+                "correcta": false
+            },
+            {
+                "texto": "Exención de impuestos laborales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "enunciado": "El artículo 36 establece que la ley regulará las peculiaridades propias del régimen jurídico de los:",
+        "opciones": [
+            {
+                "texto": "Colegios profesionales.",
+                "correcta": true
+            },
+            {
+                "texto": "Sindicatos agrarios.",
+                "correcta": false
+            },
+            {
+                "texto": "Partidos políticos.",
+                "correcta": false
+            },
+            {
+                "texto": "Clubes deportivos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "enunciado": "Según el artículo 37.1, la ley garantizará el derecho a la negociación colectiva laboral entre:",
+        "opciones": [
+            {
+                "texto": "Los representantes de los trabajadores y empresarios.",
+                "correcta": true
+            },
+            {
+                "texto": "El Gobierno y los sindicatos únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Las asociaciones de consumidores.",
+                "correcta": false
+            },
+            {
+                "texto": "Los ayuntamientos y empresas privadas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "enunciado": "El artículo 37.2 reconoce el derecho de los trabajadores y empresarios a adoptar medidas de:",
+        "opciones": [
+            {
+                "texto": "Conflicto colectivo.",
+                "correcta": true
+            },
+            {
+                "texto": "Despido inmediato.",
+                "correcta": false
+            },
+            {
+                "texto": "Protesta mediática.",
+                "correcta": false
+            },
+            {
+                "texto": "Cese voluntario sin preaviso.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "enunciado": "Según el artículo 38, se reconoce la libertad de empresa en el marco de:",
+        "opciones": [
+            {
+                "texto": "La economía de mercado.",
+                "correcta": true
+            },
+            {
+                "texto": "La economía planificada.",
+                "correcta": false
+            },
+            {
+                "texto": "El monopolio estatal.",
+                "correcta": false
+            },
+            {
+                "texto": "El control absoluto del Gobierno.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "enunciado": "El artículo 38 establece que los poderes públicos garantizan y protegen la libertad de empresa y la:",
+        "opciones": [
+            {
+                "texto": "Defensa de la productividad.",
+                "correcta": true
+            },
+            {
+                "texto": "Maximización de beneficios.",
+                "correcta": false
+            },
+            {
+                "texto": "Supresión de la competencia.",
+                "correcta": false
+            },
+            {
+                "texto": "Intervención total del mercado.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "enunciado": "Según el artículo 31.2, el gasto público realizará una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a los criterios de:",
+        "opciones": [
+            {
+                "texto": "Eficiencia y economía.",
+                "correcta": true
+            },
+            {
+                "texto": "Rendimiento político.",
+                "correcta": false
+            },
+            {
+                "texto": "Preferencia regional.",
+                "correcta": false
+            },
+            {
+                "texto": "Antigüedad administrativa.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "enunciado": "El artículo 32.2 señala que la ley regulará las formas de matrimonio, la edad y la capacidad para contraerlo, así como:",
+        "opciones": [
+            {
+                "texto": "Los derechos y deberes de los cónyuges.",
+                "correcta": true
+            },
+            {
+                "texto": "El número máximo de hijos.",
+                "correcta": false
+            },
+            {
+                "texto": "Las causas de nulidad únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "La obligatoriedad de la ceremonia religiosa.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "enunciado": "Según el artículo 137, España se organiza territorialmente en:",
+        "opciones": [
+            {
+                "texto": "Municipios, provincias y Comunidades Autónomas.",
+                "correcta": true
+            },
+            {
+                "texto": "Regiones y provincias únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Provincias y distritos municipales.",
+                "correcta": false
+            },
+            {
+                "texto": "Comunidades Autónomas y distritos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "enunciado": "El artículo 138 establece que las Comunidades Autónomas gozarán de autonomía para:",
+        "opciones": [
+            {
+                "texto": "Gestionar sus intereses y desarrollar competencias legislativas y ejecutivas.",
+                "correcta": true
+            },
+            {
+                "texto": "Legislar sobre materia penal exclusiva.",
+                "correcta": false
+            },
+            {
+                "texto": "Controlar la justicia ordinaria en su territorio.",
+                "correcta": false
+            },
+            {
+                "texto": "Administrar fuerzas armadas en su territorio.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "enunciado": "Según el artículo 139, los habitantes de cada Comunidad Autónoma tienen iguales derechos y deberes, sin que pueda prevalecer:",
+        "opciones": [
+            {
+                "texto": "Discriminación por razón de nacimiento o residencia.",
+                "correcta": true
+            },
+            {
+                "texto": "Discriminación por nivel educativo.",
+                "correcta": false
+            },
+            {
+                "texto": "Preferencia por comunidades históricas.",
+                "correcta": false
+            },
+            {
+                "texto": "Privilegios por razones económicas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "enunciado": "Según el artículo 140, el municipio es la entidad básica de la organización territorial, dotado de:",
+        "opciones": [
+            {
+                "texto": "Personalidad jurídica y autonomía para la gestión de intereses propios.",
+                "correcta": true
+            },
+            {
+                "texto": "Soberanía para dictar leyes propias.",
+                "correcta": false
+            },
+            {
+                "texto": "Autoridad para nombrar gobernadores provinciales.",
+                "correcta": false
+            },
+            {
+                "texto": "Capacidad para emitir moneda local.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "enunciado": "El artículo 141 establece que los municipios se agrupan en provincias, que también tienen personalidad jurídica y autonomía para:",
+        "opciones": [
+            {
+                "texto": "Gestionar intereses propios y coordinar los municipios.",
+                "correcta": true
+            },
+            {
+                "texto": "Aprobar leyes nacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Nombrar jueces.",
+                "correcta": false
+            },
+            {
+                "texto": "Controlar fuerzas armadas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "enunciado": "El artículo 142 indica que la provincia estará gobernada y administrada por:",
+        "opciones": [
+            {
+                "texto": "Una Diputación Provincial o institución equivalente.",
+                "correcta": true
+            },
+            {
+                "texto": "El Delegado del Gobierno exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "El Presidente del Tribunal Superior de Justicia.",
+                "correcta": false
+            },
+            {
+                "texto": "Un Consejo Regional nombrado por el Parlamento.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "enunciado": "Según el artículo 143, las Comunidades Autónomas se podrán constituir por provincias que tengan:",
+        "opciones": [
+            {
+                "texto": "Vínculos históricos, culturales y económicos comunes.",
+                "correcta": true
+            },
+            {
+                "texto": "Disposición geográfica contigua exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Coincidencia en un mismo partido político mayoritario.",
+                "correcta": false
+            },
+            {
+                "texto": "Capacidad económica igual.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "enunciado": "El artículo 144 establece que excepcionalmente podrán acceder a la autonomía:",
+        "opciones": [
+            {
+                "texto": "Las provincias limítrofes que reúnan características históricas, culturales y económicas especiales.",
+                "correcta": true
+            },
+            {
+                "texto": "Cualquier territorio sin condiciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Solo provincias de más de un millón de habitantes.",
+                "correcta": false
+            },
+            {
+                "texto": "Municipios con población superior a 500,000 habitantes.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "enunciado": "Según el artículo 145, ninguna entidad territorial podrá ejercer competencias que correspondan a:",
+        "opciones": [
+            {
+                "texto": "Otra entidad territorial sin su consentimiento.",
+                "correcta": true
+            },
+            {
+                "texto": "El Poder Judicial directamente.",
+                "correcta": false
+            },
+            {
+                "texto": "El Gobierno central exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "El Parlamento europeo.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "enunciado": "El artículo 146 regula que el Estado podrá transferir competencias a las Comunidades Autónomas, que deben ser desarrolladas mediante:",
+        "opciones": [
+            {
+                "texto": "Estatutos de Autonomía.",
+                "correcta": true
+            },
+            {
+                "texto": "Decretos del Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Ordenanzas municipales.",
+                "correcta": false
+            },
+            {
+                "texto": "Resoluciones judiciales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "enunciado": "Según el artículo 147, el Estatuto de Autonomía debe establecer la organización institucional y los:",
+        "opciones": [
+            {
+                "texto": "Competencias propias de la Comunidad Autónoma.",
+                "correcta": true
+            },
+            {
+                "texto": "Sistemas electorales nacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Reglas para el referéndum nacional.",
+                "correcta": false
+            },
+            {
+                "texto": "Normas sobre política exterior.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "enunciado": "El artículo 148 detalla que las Comunidades Autónomas pueden asumir competencias en materias tales como:",
+        "opciones": [
+            {
+                "texto": "Urbanismo, cultura, turismo, agricultura y medio ambiente.",
+                "correcta": true
+            },
+            {
+                "texto": "Defensa y relaciones exteriores.",
+                "correcta": false
+            },
+            {
+                "texto": "Política monetaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Justicia penal exclusiva.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "enunciado": "Según el artículo 149, el Estado tiene competencia exclusiva en:",
+        "opciones": [
+            {
+                "texto": "Defensa, relaciones exteriores, legislación civil, penal y laboral.",
+                "correcta": true
+            },
+            {
+                "texto": "Educación y cultura exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Ordenación del territorio local.",
+                "correcta": false
+            },
+            {
+                "texto": "Competencias de policía local.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "enunciado": "El artículo 150 reconoce que el Estado puede atribuir a las Comunidades Autónomas competencias adicionales mediante:",
+        "opciones": [
+            {
+                "texto": "Ley orgánica aprobada por mayoría absoluta del Congreso.",
+                "correcta": true
+            },
+            {
+                "texto": "Decreto del Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Acuerdo del Consejo de Ministros.",
+                "correcta": false
+            },
+            {
+                "texto": "Orden administrativa.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "enunciado": "El artículo 151 regula un procedimiento especial para acceder a la autonomía para:",
+        "opciones": [
+            {
+                "texto": "Comunidades históricas que cumplan requisitos establecidos.",
+                "correcta": true
+            },
+            {
+                "texto": "Municipios en cualquier momento.",
+                "correcta": false
+            },
+            {
+                "texto": "Solo provincias unidas por vínculos geográficos.",
+                "correcta": false
+            },
+            {
+                "texto": "Diputaciones provinciales exclusivamente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "enunciado": "El artículo 152 indica que la Comunidad Autónoma se dota de órganos institucionales tales como:",
+        "opciones": [
+            {
+                "texto": "Asamblea legislativa, Consejo de Gobierno y Presidente.",
+                "correcta": true
+            },
+            {
+                "texto": "Diputación única y comisarios regionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Gobierno regional sin asamblea.",
+                "correcta": false
+            },
+            {
+                "texto": "Solo una asamblea sin órganos ejecutivos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "enunciado": "Según el artículo 153, el Gobierno central tiene la potestad de tutelar las actividades de las Comunidades Autónomas mediante:",
+        "opciones": [
+            {
+                "texto": "Recursos legales ante el Tribunal Constitucional.",
+                "correcta": true
+            },
+            {
+                "texto": "Suspensión unilateral de sus órganos.",
+                "correcta": false
+            },
+            {
+                "texto": "Nombramiento de presidentes autonómicos.",
+                "correcta": false
+            },
+            {
+                "texto": "Imposición de directivas ejecutivas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "enunciado": "El artículo 154 prevé la coordinación y cooperación entre el Estado y las Comunidades Autónomas para:",
+        "opciones": [
+            {
+                "texto": "El desarrollo armonioso del conjunto del Estado.",
+                "correcta": true
+            },
+            {
+                "texto": "Evitar competencias compartidas.",
+                "correcta": false
+            },
+            {
+                "texto": "El control exclusivo del Estado sobre las Autonomías.",
+                "correcta": false
+            },
+            {
+                "texto": "La suspensión temporal de autonomía.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "enunciado": "Según el artículo 155, en caso de incumplimiento grave de la Constitución o leyes por parte de una Comunidad Autónoma, el Gobierno podrá:",
+        "opciones": [
+            {
+                "texto": "Adoptar las medidas necesarias para obligar a su cumplimiento.",
+                "correcta": true
+            },
+            {
+                "texto": "Disolver sus órganos legislativos.",
+                "correcta": false
+            },
+            {
+                "texto": "Nombrar un administrador temporal.",
+                "correcta": false
+            },
+            {
+                "texto": "Suspender la autonomía indefinidamente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "enunciado": "El artículo 156 indica que la iniciativa para el procedimiento del artículo 155 corresponde a:",
+        "opciones": [
+            {
+                "texto": "El Gobierno, previa autorización del Senado.",
+                "correcta": true
+            },
+            {
+                "texto": "El Congreso de los Diputados exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "El Tribunal Constitucional.",
+                "correcta": false
+            },
+            {
+                "texto": "La Asamblea legislativa autonómica.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "enunciado": "El artículo 157 establece que el Estatuto de Autonomía es aprobado por:",
+        "opciones": [
+            {
+                "texto": "Las Cortes Generales mediante ley orgánica.",
+                "correcta": true
+            },
+            {
+                "texto": "El Gobierno mediante decreto.",
+                "correcta": false
+            },
+            {
+                "texto": "El Parlamento autonómico solamente.",
+                "correcta": false
+            },
+            {
+                "texto": "El Rey mediante Real Decreto.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "enunciado": "Según el artículo 158, las Comunidades Autónomas pueden modificar su Estatuto mediante:",
+        "opciones": [
+            {
+                "texto": "Un procedimiento establecido en el propio Estatuto y aprobado por las Cortes Generales.",
+                "correcta": true
+            },
+            {
+                "texto": "Decreto del Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Resolución del Tribunal Constitucional.",
+                "correcta": false
+            },
+            {
+                "texto": "Acuerdo del Parlamento europeo.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "enunciado": "El artículo 137 menciona que la organización territorial del Estado se fundamenta en:",
+        "opciones": [
+            {
+                "texto": "La autonomía de las nacionalidades y regiones.",
+                "correcta": true
+            },
+            {
+                "texto": "La centralización administrativa.",
+                "correcta": false
+            },
+            {
+                "texto": "La soberanía provincial exclusiva.",
+                "correcta": false
+            },
+            {
+                "texto": "La creación de distritos municipales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "enunciado": "Según el artículo 138, la autonomía de las Comunidades Autónomas se ejercerá conforme a:",
+        "opciones": [
+            {
+                "texto": "Los principios reconocidos en la Constitución y los Estatutos de Autonomía.",
+                "correcta": true
+            },
+            {
+                "texto": "Normas dictadas por el Gobierno central.",
+                "correcta": false
+            },
+            {
+                "texto": "Leyes internacionales únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Reglamentos municipales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "enunciado": "El artículo 139 garantiza que todos los españoles tienen iguales derechos y deberes en cualquier:",
+        "opciones": [
+            {
+                "texto": "Comunidad Autónoma.",
+                "correcta": true
+            },
+            {
+                "texto": "Provincia exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Municipio únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Distrito judicial.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "enunciado": "El artículo 140 establece que el municipio es la entidad territorial básica dotada de:",
+        "opciones": [
+            {
+                "texto": "Personalidad jurídica plena y autonomía para gestionar sus intereses.",
+                "correcta": true
+            },
+            {
+                "texto": "Capacidad legislativa propia.",
+                "correcta": false
+            },
+            {
+                "texto": "Poder judicial autónomo.",
+                "correcta": false
+            },
+            {
+                "texto": "Ejército local.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "enunciado": "Según el artículo 141, las provincias tienen personalidad jurídica y están integradas por:",
+        "opciones": [
+            {
+                "texto": "Municipios.",
+                "correcta": true
+            },
+            {
+                "texto": "Comarcas exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Distritos electorales.",
+                "correcta": false
+            },
+            {
+                "texto": "Regiones.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "enunciado": "El artículo 142 señala que la Diputación Provincial o institución equivalente tiene como función:",
+        "opciones": [
+            {
+                "texto": "Gobernar y administrar la provincia.",
+                "correcta": true
+            },
+            {
+                "texto": "Nombrar jueces provinciales.",
+                "correcta": false
+            },
+            {
+                "texto": "Emitir moneda provincial.",
+                "correcta": false
+            },
+            {
+                "texto": "Controlar las fuerzas armadas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "enunciado": "Según el artículo 143, el proceso para constituir una Comunidad Autónoma requiere:",
+        "opciones": [
+            {
+                "texto": "Que las provincias tengan vínculos históricos, culturales y económicos comunes.",
+                "correcta": true
+            },
+            {
+                "texto": "Un acuerdo únicamente geográfico.",
+                "correcta": false
+            },
+            {
+                "texto": "Un referéndum en todas las provincias de España.",
+                "correcta": false
+            },
+            {
+                "texto": "Aprobación del Tribunal Constitucional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "enunciado": "El artículo 144 permite que, en casos excepcionales, ciertas provincias accedan a la autonomía mediante:",
+        "opciones": [
+            {
+                "texto": "Un procedimiento especial debido a características históricas o económicas.",
+                "correcta": true
+            },
+            {
+                "texto": "Decisión unilateral del Gobierno central.",
+                "correcta": false
+            },
+            {
+                "texto": "Acuerdo internacional.",
+                "correcta": false
+            },
+            {
+                "texto": "Resolución de la Asamblea General de la ONU.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "enunciado": "El artículo 145 prohíbe que una entidad territorial ejerza competencias que correspondan a:",
+        "opciones": [
+            {
+                "texto": "Otra entidad territorial sin su consentimiento.",
+                "correcta": true
+            },
+            {
+                "texto": "El Tribunal Supremo.",
+                "correcta": false
+            },
+            {
+                "texto": "El Parlamento europeo.",
+                "correcta": false
+            },
+            {
+                "texto": "El Gobierno local exclusivamente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "enunciado": "El artículo 146 establece que el Estado podrá transferir competencias a las Comunidades Autónomas mediante:",
+        "opciones": [
+            {
+                "texto": "Ley orgánica y según lo previsto en los Estatutos.",
+                "correcta": true
+            },
+            {
+                "texto": "Real Decreto simple.",
+                "correcta": false
+            },
+            {
+                "texto": "Acuerdo ministerial.",
+                "correcta": false
+            },
+            {
+                "texto": "Decreto del Presidente del Gobierno.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "enunciado": "El artículo 147 requiere que el Estatuto de Autonomía establezca:",
+        "opciones": [
+            {
+                "texto": "La organización institucional y competencias de la Comunidad Autónoma.",
+                "correcta": true
+            },
+            {
+                "texto": "El sistema fiscal de la Comunidad.",
+                "correcta": false
+            },
+            {
+                "texto": "La política exterior regional.",
+                "correcta": false
+            },
+            {
+                "texto": "El calendario electoral nacional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "enunciado": "Según el artículo 148, una competencia que puede asumir una Comunidad Autónoma es:",
+        "opciones": [
+            {
+                "texto": "La gestión de la sanidad y la educación.",
+                "correcta": true
+            },
+            {
+                "texto": "La legislación penal exclusiva.",
+                "correcta": false
+            },
+            {
+                "texto": "El control de las fuerzas armadas.",
+                "correcta": false
+            },
+            {
+                "texto": "La política monetaria.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "enunciado": "El artículo 149 otorga al Estado competencia exclusiva en materias como:",
+        "opciones": [
+            {
+                "texto": "Defensa y relaciones exteriores.",
+                "correcta": true
+            },
+            {
+                "texto": "Cultura y deporte.",
+                "correcta": false
+            },
+            {
+                "texto": "Gestión del transporte público local.",
+                "correcta": false
+            },
+            {
+                "texto": "Ordenación urbanística municipal.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "enunciado": "El artículo 150 autoriza al Estado para atribuir a las Comunidades Autónomas competencias adicionales mediante:",
+        "opciones": [
+            {
+                "texto": "Ley orgánica aprobada por mayoría absoluta del Congreso.",
+                "correcta": true
+            },
+            {
+                "texto": "Decreto del Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Acuerdo del Consejo de Ministros.",
+                "correcta": false
+            },
+            {
+                "texto": "Orden ministerial.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "enunciado": "El artículo 151 establece que la iniciativa para la autonomía puede partir de:",
+        "opciones": [
+            {
+                "texto": "Las provincias interesadas mediante un procedimiento especial.",
+                "correcta": true
+            },
+            {
+                "texto": "Cualquier municipio sin restricciones.",
+                "correcta": false
+            },
+            {
+                "texto": "El Parlamento Europeo.",
+                "correcta": false
+            },
+            {
+                "texto": "El Tribunal Constitucional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "enunciado": "Según el artículo 152, los órganos de gobierno de una Comunidad Autónoma son:",
+        "opciones": [
+            {
+                "texto": "Asamblea legislativa, Consejo de Gobierno y Presidente.",
+                "correcta": true
+            },
+            {
+                "texto": "Diputación provincial y Alcalde.",
+                "correcta": false
+            },
+            {
+                "texto": "Consejo Municipal y Juez de Paz.",
+                "correcta": false
+            },
+            {
+                "texto": "Junta Electoral y Delegado del Gobierno.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "enunciado": "El artículo 153 establece que el Gobierno central puede tutelar a las Comunidades Autónomas mediante:",
+        "opciones": [
+            {
+                "texto": "Recursos legales ante el Tribunal Constitucional.",
+                "correcta": true
+            },
+            {
+                "texto": "Intervención directa sin control judicial.",
+                "correcta": false
+            },
+            {
+                "texto": "Nombramiento de Presidentes autonómicos.",
+                "correcta": false
+            },
+            {
+                "texto": "Suspensión inmediata de sus órganos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "enunciado": "El artículo 154 establece que la cooperación entre el Estado y las Comunidades Autónomas se orienta a:",
+        "opciones": [
+            {
+                "texto": "Garantizar un desarrollo armonioso del Estado.",
+                "correcta": true
+            },
+            {
+                "texto": "Limitar la autonomía regional.",
+                "correcta": false
+            },
+            {
+                "texto": "Eliminar competencias compartidas.",
+                "correcta": false
+            },
+            {
+                "texto": "Centralizar el poder político.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "enunciado": "Según el artículo 155, si una Comunidad Autónoma no cumple las obligaciones constitucionales, el Gobierno podrá:",
+        "opciones": [
+            {
+                "texto": "Suspender las competencias de la Comunidad Autónoma.",
+                "correcta": false
+            },
+            {
+                "texto": "Adoptar medidas para obligarla a cumplir, previa requerimiento al Presidente.",
+                "correcta": true
+            },
+            {
+                "texto": "Disolver el Parlamento autonómico sin más.",
+                "correcta": false
+            },
+            {
+                "texto": "Nombrar directamente al Presidente autonómico.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "enunciado": "El artículo 156 establece que el Tribunal Constitucional es competente para resolver:",
+        "opciones": [
+            {
+                "texto": "Conflictos entre el Estado y las Comunidades Autónomas.",
+                "correcta": true
+            },
+            {
+                "texto": "Cuestiones entre municipios vecinos.",
+                "correcta": false
+            },
+            {
+                "texto": "Nombramientos en el Gobierno central.",
+                "correcta": false
+            },
+            {
+                "texto": "Elecciones locales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "enunciado": "El artículo 157 indica que el Estatuto de Autonomía debe ser aprobado por:",
+        "opciones": [
+            {
+                "texto": "Las Cortes Generales mediante ley orgánica.",
+                "correcta": true
+            },
+            {
+                "texto": "El Parlamento autonómico únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "El Rey mediante Real Decreto.",
+                "correcta": false
+            },
+            {
+                "texto": "El Gobierno mediante decreto.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "enunciado": "Según el artículo 158, la modificación del Estatuto de Autonomía requiere:",
+        "opciones": [
+            {
+                "texto": "Aprobación por el Parlamento autonómico y las Cortes Generales.",
+                "correcta": false
+            },
+            {
+                "texto": "Un procedimiento establecido en el propio Estatuto y aprobado por las Cortes Generales.",
+                "correcta": true
+            },
+            {
+                "texto": "Acuerdo del Tribunal Constitucional.",
+                "correcta": false
+            },
+            {
+                "texto": "Real Decreto del Gobierno.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "enunciado": "El artículo 159 permite que el Tribunal Constitucional resuelva:",
+        "opciones": [
+            {
+                "texto": "Conflictos de competencia entre el Estado y Comunidades Autónomas.",
+                "correcta": true
+            },
+            {
+                "texto": "Elecciones generales.",
+                "correcta": false
+            },
+            {
+                "texto": "Nulidad de los decretos del Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Conflictos entre municipios y provincias.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "enunciado": "Según el artículo 160, el Tribunal Constitucional está compuesto por:",
+        "opciones": [
+            {
+                "texto": "Doce magistrados nombrados por distintas instituciones.",
+                "correcta": true
+            },
+            {
+                "texto": "Ocho magistrados nombrados exclusivamente por el Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Seis jueces nombrados por el Parlamento.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuatro magistrados nombrados por el Rey.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "enunciado": "El artículo 161 establece que el Tribunal Constitucional puede ser requerido para:",
+        "opciones": [
+            {
+                "texto": "Resolver conflictos sobre la constitucionalidad de leyes y actos.",
+                "correcta": true
+            },
+            {
+                "texto": "Administrar justicia ordinaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Fiscalizar la acción del Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Dictar normas autonómicas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "enunciado": "El artículo 162 señala que las sentencias del Tribunal Constitucional son:",
+        "opciones": [
+            {
+                "texto": "Definitivas, vinculantes y obligatorias para todos.",
+                "correcta": true
+            },
+            {
+                "texto": "Sujetos a apelación en el Tribunal Supremo.",
+                "correcta": false
+            },
+            {
+                "texto": "Opcionales para las Comunidades Autónomas.",
+                "correcta": false
+            },
+            {
+                "texto": "Solo orientativas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "enunciado": "El artículo 163 establece que las leyes que declaren la constitucionalidad o inconstitucionalidad deben ser:",
+        "opciones": [
+            {
+                "texto": "Publicadas y cumplidas inmediatamente.",
+                "correcta": true
+            },
+            {
+                "texto": "Revisadas por el Parlamento Europeo.",
+                "correcta": false
+            },
+            {
+                "texto": "Sometidas a referéndum.",
+                "correcta": false
+            },
+            {
+                "texto": "Votadas en los Parlamentos autonómicos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "enunciado": "Según el artículo 164, el Tribunal Constitucional puede controlar:",
+        "opciones": [
+            {
+                "texto": "La constitucionalidad de los tratados internacionales.",
+                "correcta": true
+            },
+            {
+                "texto": "La constitucionalidad de decretos del Parlamento Europeo.",
+                "correcta": false
+            },
+            {
+                "texto": "La constitucionalidad de las sentencias judiciales ordinarias.",
+                "correcta": false
+            },
+            {
+                "texto": "La constitucionalidad de los reglamentos municipales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "enunciado": "El artículo 165 establece que el Tribunal Constitucional gozará de independencia funcional y orgánica y estará sometido a:",
+        "opciones": [
+            {
+                "texto": "Solo a la Constitución y las leyes.",
+                "correcta": true
+            },
+            {
+                "texto": "Las órdenes del Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Las indicaciones del Parlamento.",
+                "correcta": false
+            },
+            {
+                "texto": "Las decisiones del Rey.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "enunciado": "El artículo 166 regula que los Magistrados del Tribunal Constitucional deberán reunir:",
+        "opciones": [
+            {
+                "texto": "Los requisitos exigidos para ser Magistrado del Tribunal Supremo.",
+                "correcta": true
+            },
+            {
+                "texto": "Solo experiencia política previa.",
+                "correcta": false
+            },
+            {
+                "texto": "Ser abogados del Estado exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Ser profesores universitarios únicamente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "enunciado": "Según el artículo 167, la duración del mandato de los Magistrados del Tribunal Constitucional es de:",
+        "opciones": [
+            {
+                "texto": "Nueve años, sin posibilidad de reelección inmediata.",
+                "correcta": true
+            },
+            {
+                "texto": "Cinco años, renovables.",
+                "correcta": false
+            },
+            {
+                "texto": "Doce años, con opción a renovar.",
+                "correcta": false
+            },
+            {
+                "texto": "Indefinido hasta la jubilación.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "enunciado": "El artículo 168 establece que el Tribunal Constitucional podrá declarar la nulidad de:",
+        "opciones": [
+            {
+                "texto": "Los actos contrarios a la Constitución.",
+                "correcta": true
+            },
+            {
+                "texto": "Las leyes autonómicas únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Las resoluciones municipales.",
+                "correcta": false
+            },
+            {
+                "texto": "Los actos del Parlamento Europeo.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "enunciado": "Según el artículo 169, la iniciativa para presentar un recurso ante el Tribunal Constitucional podrá partir de:",
+        "opciones": [
+            {
+                "texto": "El Gobierno, el Presidente del Congreso, el del Senado, entre otros.",
+                "correcta": true
+            },
+            {
+                "texto": "Cualquier ciudadano sin restricciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Solo las Comunidades Autónomas.",
+                "correcta": false
+            },
+            {
+                "texto": "El Tribunal Supremo únicamente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "enunciado": "El artículo 170 establece que el Tribunal Constitucional resolverá en un plazo máximo de:",
+        "opciones": [
+            {
+                "texto": "Seis meses.",
+                "correcta": false
+            },
+            {
+                "texto": "Nueve meses.",
+                "correcta": true
+            },
+            {
+                "texto": "Tres meses.",
+                "correcta": false
+            },
+            {
+                "texto": "Doce meses.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "enunciado": "El artículo 171 regula el procedimiento para el control de la constitucionalidad que será:",
+        "opciones": [
+            {
+                "texto": "Oral y contradictorio.",
+                "correcta": true
+            },
+            {
+                "texto": "Sumario y sin contradicción.",
+                "correcta": false
+            },
+            {
+                "texto": "Secretos y sin audiencia pública.",
+                "correcta": false
+            },
+            {
+                "texto": "Solo escrito y sin vista oral.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "enunciado": "El artículo 172 establece que el Tribunal Constitucional podrá actuar de oficio en casos de:",
+        "opciones": [
+            {
+                "texto": "Violaciones graves de derechos fundamentales.",
+                "correcta": true
+            },
+            {
+                "texto": "Conflictos entre ciudadanos.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuestiones administrativas menores.",
+                "correcta": false
+            },
+            {
+                "texto": "Disputas laborales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "enunciado": "El artículo 173 dispone que el Tribunal Constitucional podrá dictar medidas cautelares para:",
+        "opciones": [
+            {
+                "texto": "Suspender la aplicación de normas presuntamente inconstitucionales.",
+                "correcta": true
+            },
+            {
+                "texto": "Acelerar procesos judiciales civiles.",
+                "correcta": false
+            },
+            {
+                "texto": "Nombrar magistrados del Tribunal Supremo.",
+                "correcta": false
+            },
+            {
+                "texto": "Modificar leyes aprobadas por el Parlamento.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "enunciado": "Según el artículo 174, el Tribunal Constitucional rinde cuentas ante:",
+        "opciones": [
+            {
+                "texto": "El Congreso de los Diputados.",
+                "correcta": true
+            },
+            {
+                "texto": "El Senado.",
+                "correcta": false
+            },
+            {
+                "texto": "El Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo General del Poder Judicial.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "enunciado": "Según el artículo 137, España se organiza territorialmente en:",
+        "opciones": [
+            {
+                "texto": "Provincias y municipios.",
+                "correcta": false
+            },
+            {
+                "texto": "Municipios, provincias y Comunidades Autónomas.",
+                "correcta": true
+            },
+            {
+                "texto": "Regiones administrativas únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Comunidades Autónomas exclusivamente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "enunciado": "El artículo 138 establece que los municipios, provincias y Comunidades Autónomas gozan de:",
+        "opciones": [
+            {
+                "texto": "Autonomía para la gestión de sus intereses.",
+                "correcta": true
+            },
+            {
+                "texto": "Dependencia total del Gobierno central.",
+                "correcta": false
+            },
+            {
+                "texto": "Facultad exclusiva para legislar.",
+                "correcta": false
+            },
+            {
+                "texto": "Supremacía sobre el Estado.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "enunciado": "Según el artículo 139, todos los españoles tienen derecho a:",
+        "opciones": [
+            {
+                "texto": "Ser tratados de manera desigual según la Comunidad Autónoma.",
+                "correcta": false
+            },
+            {
+                "texto": "Ser tratados de manera igual dentro del territorio nacional.",
+                "correcta": true
+            },
+            {
+                "texto": "Optar por la jurisdicción de otra Comunidad Autónoma.",
+                "correcta": false
+            },
+            {
+                "texto": "Elegir sus propias leyes sin limitaciones.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "enunciado": "El artículo 140 establece que los municipios son la base de:",
+        "opciones": [
+            {
+                "texto": "La organización política y administrativa del Estado.",
+                "correcta": true
+            },
+            {
+                "texto": "Las instituciones del Gobierno central.",
+                "correcta": false
+            },
+            {
+                "texto": "La estructura militar del país.",
+                "correcta": false
+            },
+            {
+                "texto": "Las provincias exclusivamente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "enunciado": "El artículo 141 señala que las provincias son entidades territoriales que agrupan:",
+        "opciones": [
+            {
+                "texto": "Municipios.",
+                "correcta": true
+            },
+            {
+                "texto": "Comunidades Autónomas.",
+                "correcta": false
+            },
+            {
+                "texto": "Regiones administrativas.",
+                "correcta": false
+            },
+            {
+                "texto": "Distritos electorales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "enunciado": "Según el artículo 142, la provincia tiene personalidad jurídica propia y competencia para:",
+        "opciones": [
+            {
+                "texto": "Gestionar intereses propios y de los municipios que la integran.",
+                "correcta": true
+            },
+            {
+                "texto": "Legislar en materia educativa.",
+                "correcta": false
+            },
+            {
+                "texto": "Nombrar diputados nacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Determinar la política exterior.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "enunciado": "El artículo 143 establece que la iniciativa para constituir una Comunidad Autónoma corresponde a:",
+        "opciones": [
+            {
+                "texto": "Las provincias que quieran agruparse.",
+                "correcta": true
+            },
+            {
+                "texto": "El Gobierno central exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "El Parlamento Europeo.",
+                "correcta": false
+            },
+            {
+                "texto": "Los municipios que lo deseen individualmente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "enunciado": "Según el artículo 144, el Estado puede asumir competencias en materias de:",
+        "opciones": [
+            {
+                "texto": "Seguridad y orden público en todo el territorio nacional.",
+                "correcta": true
+            },
+            {
+                "texto": "Gestión exclusiva de municipios.",
+                "correcta": false
+            },
+            {
+                "texto": "Cultura y educación exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Administración local solamente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "enunciado": "El artículo 145 prohíbe que las provincias y municipios se agrupen para crear:",
+        "opciones": [
+            {
+                "texto": "Comunidades Autónomas con territorios que no sean contiguos.",
+                "correcta": true
+            },
+            {
+                "texto": "Entidades internacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Municipios autónomos.",
+                "correcta": false
+            },
+            {
+                "texto": "Distritos electorales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "enunciado": "Según el artículo 146, el Estatuto de Autonomía debe establecer:",
+        "opciones": [
+            {
+                "texto": "El nombre, territorio, órganos y competencias de la Comunidad Autónoma.",
+                "correcta": true
+            },
+            {
+                "texto": "El nombramiento del Presidente del Gobierno central.",
+                "correcta": false
+            },
+            {
+                "texto": "La legislación en materia de defensa.",
+                "correcta": false
+            },
+            {
+                "texto": "La estructura de los municipios.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "enunciado": "El artículo 147 indica que los Estatutos de Autonomía serán aprobados por:",
+        "opciones": [
+            {
+                "texto": "Las Cortes Generales.",
+                "correcta": true
+            },
+            {
+                "texto": "El Tribunal Constitucional.",
+                "correcta": false
+            },
+            {
+                "texto": "Los Parlamentos autonómicos exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "El Gobierno central únicamente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "enunciado": "Según el artículo 148, las Comunidades Autónomas pueden asumir competencias en:",
+        "opciones": [
+            {
+                "texto": "Educación, sanidad, cultura, y otras materias señaladas en el Estatuto.",
+                "correcta": true
+            },
+            {
+                "texto": "Política exterior y defensa.",
+                "correcta": false
+            },
+            {
+                "texto": "Justicia penal exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Relaciones internacionales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "enunciado": "El artículo 149 atribuye al Estado la competencia exclusiva para:",
+        "opciones": [
+            {
+                "texto": "Relaciones internacionales y defensa.",
+                "correcta": true
+            },
+            {
+                "texto": "Educación y cultura.",
+                "correcta": false
+            },
+            {
+                "texto": "Sanidad y servicios sociales.",
+                "correcta": false
+            },
+            {
+                "texto": "Competencias municipales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "enunciado": "Según el artículo 150, el Estado podrá transferir competencias a las Comunidades Autónomas por:",
+        "opciones": [
+            {
+                "texto": "Acuerdos con los órganos autonómicos.",
+                "correcta": true
+            },
+            {
+                "texto": "Decreto del Gobierno sin consulta.",
+                "correcta": false
+            },
+            {
+                "texto": "Decisión unilateral del Parlamento Europeo.",
+                "correcta": false
+            },
+            {
+                "texto": "Directiva del Tribunal Constitucional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "enunciado": "El artículo 151 establece un procedimiento especial para que algunas Comunidades Autónomas:",
+        "opciones": [
+            {
+                "texto": "Accedan a un régimen de autonomía más amplio y rápido.",
+                "correcta": true
+            },
+            {
+                "texto": "Obtengan financiación directa del Gobierno.",
+                "correcta": false
+            },
+            {
+                "texto": "Modifiquen las leyes estatales sin permiso.",
+                "correcta": false
+            },
+            {
+                "texto": "Elijan directamente al Presidente del Estado.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "enunciado": "Según el artículo 152, las Comunidades Autónomas que se constituyan mediante el procedimiento del artículo 151, deberán:",
+        "opciones": [
+            {
+                "texto": "Aprobar su Estatuto de Autonomía mediante referéndum.",
+                "correcta": true
+            },
+            {
+                "texto": "Ser aprobadas solo por el Parlamento central.",
+                "correcta": false
+            },
+            {
+                "texto": "Firmar un acuerdo con la Unión Europea.",
+                "correcta": false
+            },
+            {
+                "texto": "Solicitar permiso al Tribunal Constitucional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "enunciado": "El artículo 153 indica que el Estado podrá dictar normas para coordinar las políticas de:",
+        "opciones": [
+            {
+                "texto": "Las Comunidades Autónomas en materias concurrentes.",
+                "correcta": true
+            },
+            {
+                "texto": "Los municipios en asuntos internacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Los organismos internacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Los distritos electorales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "enunciado": "Según el artículo 154, corresponde al Gobierno central el ejercicio de:",
+        "opciones": [
+            {
+                "texto": "La potestad reglamentaria y ejecución de las leyes.",
+                "correcta": true
+            },
+            {
+                "texto": "La aprobación de los Estatutos autonómicos.",
+                "correcta": false
+            },
+            {
+                "texto": "La elección de los alcaldes.",
+                "correcta": false
+            },
+            {
+                "texto": "La gestión exclusiva de los municipios.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "enunciado": "El artículo 155 regula que si una Comunidad Autónoma incumple obligaciones constitucionales, el Gobierno podrá:",
+        "opciones": [
+            {
+                "texto": "Adoptar las medidas necesarias para obligarla a cumplirlas.",
+                "correcta": true
+            },
+            {
+                "texto": "Disolver su Parlamento automáticamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Nombrar directamente a sus autoridades.",
+                "correcta": false
+            },
+            {
+                "texto": "Suspender todos sus derechos civiles.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "enunciado": "Según el artículo 156, el control de las Comunidades Autónomas sobre la constitucionalidad de sus actos corresponde a:",
+        "opciones": [
+            {
+                "texto": "El Tribunal Constitucional.",
+                "correcta": true
+            },
+            {
+                "texto": "El Parlamento autonómico.",
+                "correcta": false
+            },
+            {
+                "texto": "El Gobierno central.",
+                "correcta": false
+            },
+            {
+                "texto": "El Tribunal Supremo.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "enunciado": "El artículo 157 establece que las Comunidades Autónomas tendrán:",
+        "opciones": [
+            {
+                "texto": "Competencias exclusivas en defensa y política exterior.",
+                "correcta": false
+            },
+            {
+                "texto": "Órganos propios de autogobierno.",
+                "correcta": true
+            },
+            {
+                "texto": "Sufragio universal en elecciones nacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Autonomía total sin límites.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "enunciado": "Según el artículo 158, las reformas del Estatuto de Autonomía deben ser aprobadas:",
+        "opciones": [
+            {
+                "texto": "Por las Cortes Generales únicamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Por referéndum en la Comunidad Autónoma y las Cortes Generales.",
+                "correcta": true
+            },
+            {
+                "texto": "Por el Gobierno central sin consulta.",
+                "correcta": false
+            },
+            {
+                "texto": "Por el Tribunal Constitucional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "enunciado": "Según el artículo 137, la organización territorial del Estado español se fundamenta en:",
+        "opciones": [
+            {
+                "texto": "El principio de unidad y autonomía.",
+                "correcta": true
+            },
+            {
+                "texto": "La concentración de poder en el Gobierno central.",
+                "correcta": false
+            },
+            {
+                "texto": "La independencia de las provincias.",
+                "correcta": false
+            },
+            {
+                "texto": "La supremacía municipal.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "enunciado": "El artículo 138 garantiza que los municipios, provincias y Comunidades Autónomas tienen:",
+        "opciones": [
+            {
+                "texto": "Supremacía legislativa sobre el Estado.",
+                "correcta": false
+            },
+            {
+                "texto": "Autonomía para gestionar sus intereses.",
+                "correcta": true
+            },
+            {
+                "texto": "Competencias en política exterior.",
+                "correcta": false
+            },
+            {
+                "texto": "Inmunidad fiscal total.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "enunciado": "Según el artículo 139, los españoles son iguales ante la ley:",
+        "opciones": [
+            {
+                "texto": "Solo dentro de su Comunidad Autónoma.",
+                "correcta": false
+            },
+            {
+                "texto": "En todo el territorio nacional.",
+                "correcta": true
+            },
+            {
+                "texto": "Según su municipio de residencia.",
+                "correcta": false
+            },
+            {
+                "texto": "Excepto en materia electoral.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "enunciado": "El artículo 140 define al municipio como:",
+        "opciones": [
+            {
+                "texto": "La base de la organización territorial y política del Estado.",
+                "correcta": true
+            },
+            {
+                "texto": "Una entidad dependiente exclusivamente de la provincia.",
+                "correcta": false
+            },
+            {
+                "texto": "Una entidad sin personalidad jurídica.",
+                "correcta": false
+            },
+            {
+                "texto": "Un ente sin competencias administrativas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "enunciado": "Según el artículo 141, las provincias agrupan:",
+        "opciones": [
+            {
+                "texto": "Municipios.",
+                "correcta": true
+            },
+            {
+                "texto": "Comunidades Autónomas.",
+                "correcta": false
+            },
+            {
+                "texto": "Distritos electorales.",
+                "correcta": false
+            },
+            {
+                "texto": "Regiones administrativas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "enunciado": "El artículo 142 otorga a las provincias la personalidad jurídica para:",
+        "opciones": [
+            {
+                "texto": "Gestionar intereses propios y los de los municipios.",
+                "correcta": true
+            },
+            {
+                "texto": "Legislar en materia civil.",
+                "correcta": false
+            },
+            {
+                "texto": "Nombrar diputados en el Congreso.",
+                "correcta": false
+            },
+            {
+                "texto": "Organizar elecciones nacionales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "enunciado": "Según el artículo 143, la iniciativa para constituir una Comunidad Autónoma corresponde a:",
+        "opciones": [
+            {
+                "texto": "Las provincias que se quieran agrupar.",
+                "correcta": true
+            },
+            {
+                "texto": "El Gobierno central.",
+                "correcta": false
+            },
+            {
+                "texto": "El Parlamento Europeo.",
+                "correcta": false
+            },
+            {
+                "texto": "Los municipios aislados.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "enunciado": "El artículo 144 indica que el Estado podrá asumir competencias en:",
+        "opciones": [
+            {
+                "texto": "Seguridad y orden público en todo el territorio.",
+                "correcta": true
+            },
+            {
+                "texto": "Administración local exclusivamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Cultura y educación.",
+                "correcta": false
+            },
+            {
+                "texto": "Justicia penal.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "enunciado": "El artículo 145 prohíbe que las provincias y municipios formen:",
+        "opciones": [
+            {
+                "texto": "Comunidades Autónomas con territorios no contiguos.",
+                "correcta": true
+            },
+            {
+                "texto": "Entidades internacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Distritos electorales.",
+                "correcta": false
+            },
+            {
+                "texto": "Municipios autónomos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "enunciado": "El artículo 146 establece que el Estatuto de Autonomía debe definir:",
+        "opciones": [
+            {
+                "texto": "Nombre, territorio, órganos y competencias de la Comunidad.",
+                "correcta": true
+            },
+            {
+                "texto": "Nombramiento del Presidente del Estado.",
+                "correcta": false
+            },
+            {
+                "texto": "Legislación en defensa.",
+                "correcta": false
+            },
+            {
+                "texto": "Estructura de municipios.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "enunciado": "Según el artículo 147, los Estatutos de Autonomía son aprobados por:",
+        "opciones": [
+            {
+                "texto": "Cortes Generales.",
+                "correcta": true
+            },
+            {
+                "texto": "Tribunal Constitucional.",
+                "correcta": false
+            },
+            {
+                "texto": "Parlamentos autonómicos.",
+                "correcta": false
+            },
+            {
+                "texto": "Gobierno central.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "enunciado": "El artículo 148 otorga a las Comunidades Autónomas competencias en:",
+        "opciones": [
+            {
+                "texto": "Educación, sanidad, cultura, y otras materias.",
+                "correcta": true
+            },
+            {
+                "texto": "Política exterior y defensa.",
+                "correcta": false
+            },
+            {
+                "texto": "Justicia penal.",
+                "correcta": false
+            },
+            {
+                "texto": "Relaciones internacionales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "enunciado": "El artículo 149 asigna al Estado la competencia exclusiva en:",
+        "opciones": [
+            {
+                "texto": "Relaciones internacionales y defensa.",
+                "correcta": true
+            },
+            {
+                "texto": "Educación y cultura.",
+                "correcta": false
+            },
+            {
+                "texto": "Sanidad y servicios sociales.",
+                "correcta": false
+            },
+            {
+                "texto": "Competencias municipales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "enunciado": "Según el artículo 150, el Estado podrá transferir competencias a Comunidades Autónomas mediante:",
+        "opciones": [
+            {
+                "texto": "Acuerdos con órganos autonómicos.",
+                "correcta": true
+            },
+            {
+                "texto": "Decreto sin consulta.",
+                "correcta": false
+            },
+            {
+                "texto": "Decisión del Parlamento Europeo.",
+                "correcta": false
+            },
+            {
+                "texto": "Directiva del Tribunal Constitucional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "enunciado": "El artículo 151 contempla un procedimiento para que algunas Comunidades Autónomas puedan:",
+        "opciones": [
+            {
+                "texto": "Acceder a un régimen de autonomía más amplio y rápido.",
+                "correcta": true
+            },
+            {
+                "texto": "Obtener financiación directa.",
+                "correcta": false
+            },
+            {
+                "texto": "Modificar leyes estatales sin permiso.",
+                "correcta": false
+            },
+            {
+                "texto": "Elegir Presidente del Estado.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "enunciado": "Según el artículo 152, las Comunidades Autónomas constituidas por el procedimiento del artículo 151 deben:",
+        "opciones": [
+            {
+                "texto": "Aprobar su Estatuto por referéndum.",
+                "correcta": true
+            },
+            {
+                "texto": "Ser aprobadas solo por Parlamento central.",
+                "correcta": false
+            },
+            {
+                "texto": "Firmar acuerdo con UE.",
+                "correcta": false
+            },
+            {
+                "texto": "Solicitar permiso al Tribunal Constitucional.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "enunciado": "El artículo 153 permite que el Estado dicte normas para coordinar las políticas de:",
+        "opciones": [
+            {
+                "texto": "Comunidades Autónomas en materias concurrentes.",
+                "correcta": true
+            },
+            {
+                "texto": "Municipios en asuntos internacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Organismos internacionales.",
+                "correcta": false
+            },
+            {
+                "texto": "Distritos electorales.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "enunciado": "El artículo 154 atribuye al Gobierno central la potestad de:",
+        "opciones": [
+            {
+                "texto": "Potestad reglamentaria y ejecución de las leyes.",
+                "correcta": true
+            },
+            {
+                "texto": "Aprobación de Estatutos autonómicos.",
+                "correcta": false
+            },
+            {
+                "texto": "Elección de alcaldes.",
+                "correcta": false
+            },
+            {
+                "texto": "Gestión exclusiva de municipios.",
+                "correcta": false
+            }
+        ]
+    }
+]

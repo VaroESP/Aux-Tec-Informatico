@@ -33,7 +33,7 @@ def guardar_preguntas(preguntas, tema):
 def agregar_pregunta():  
     # Cargamos todas las preguntas del tema escogido
     tema = int(input("\nNúmero del tema: "))
-    while 0 < tema > 10:
+    while 0 < tema > 35:
         print("\nTema incorrecto.")
         tema = input("\nNúmero del tema: ")
     preguntas = cargar_preguntas(tema)
@@ -81,36 +81,33 @@ def agregar_pregunta():
             
     print("\nPregunta/s añadida/s correctamente.")
 
-"""
 # EN EDICIÓN
-def importar_preguntas(archivo):
+def importar_preguntas():
+    # Cargamos las preguntas del tema
+    tema = int(input("\nNúmero del tema: "))
+    while 0 < tema > 35:
+        print("\nTema incorrecto.")
+        tema = input("\nNúmero del tema: ")
+    preguntas = cargar_preguntas(tema)
+    
+    archivo = "preguntas_nuevas.json"
     try:
         with open(archivo, "r", encoding="utf-8") as file:
             nuevas = json.load(file)
     except (FileNotFoundError, json.JSONDecodeError):
         print("\nArchivo no encontrado o formato inválido.")
-        return
+        return 
     
     nuevas_preguntas = [Pregunta.from_dict(p) for p in nuevas]
-    
-    if not os.path.exists(PREGUNTAS_FILE):
-        actuales = []
-    else:
-        try:
-            with open(PREGUNTAS_FILE, "r", encoding="utf-8") as file:
-                actuales = [Pregunta.from_dict(p) for p in json.load(file)]
-        except json.JSONDecodeError:
-            actuales = []
             
-    max_id = max((p.id for p in actuales), default=0)
+    max_id = max((p.id for p in preguntas), default=0)
     
     for i, p in enumerate(nuevas_preguntas):
         p.id = max_id + i + 1
 
-    todas = actuales + nuevas_preguntas
+    todas = preguntas + nuevas_preguntas
     
-    with open(PREGUNTAS_FILE, "w", encoding="utf-8") as file:
-        json.dump([p.to_dict() for p in todas], file, indent=4, ensure_ascii=False)
+    guardar_preguntas(todas, tema)
         
     print("\nSe han importado todas las preguntas.")
-"""
+    

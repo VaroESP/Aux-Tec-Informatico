@@ -1,0 +1,4452 @@
+[
+    {
+        "id": 1,
+        "preguntas": [
+            {
+                "id": 158,
+                "enunciado": "Según el artículo 152, los órganos de gobierno de una Comunidad Autónoma son:",
+                "opciones": [
+                    {
+                        "texto": "Asamblea legislativa, Consejo de Gobierno y Presidente.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Diputación provincial y Alcalde.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Consejo Municipal y Juez de Paz.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Junta Electoral y Delegado del Gobierno.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 175,
+                "enunciado": "Según el artículo 169, la iniciativa para presentar un recurso ante el Tribunal Constitucional podrá partir de:",
+                "opciones": [
+                    {
+                        "texto": "El Gobierno, el Presidente del Congreso, el del Senado, entre otros.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Cualquier ciudadano sin restricciones.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo las Comunidades Autónomas.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Tribunal Supremo únicamente.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 55,
+                "enunciado": "Según el artículo 34.1, se reconoce el derecho de fundación para fines de interés:",
+                "opciones": [
+                    {
+                        "texto": "Económico y lucrativo.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "General.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Político exclusivo.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Privado exclusivamente.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 83,
+                "enunciado": "El artículo 17.1 establece que toda persona tiene derecho a la libertad y seguridad, y que nadie puede ser privado de su libertad salvo:",
+                "opciones": [
+                    {
+                        "texto": "En los casos y en la forma previstos en la ley.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Por orden del alcalde.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "En virtud de decisión administrativa.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Por mandato de cualquier autoridad pública.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 66,
+                "enunciado": "Según el artículo 32.2, la ley regulará las formas de matrimonio, la edad y:",
+                "opciones": [
+                    {
+                        "texto": "Las causas de separación y disolución y sus efectos.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "La necesidad de autorización judicial.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El consentimiento de las familias.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El régimen económico matrimonial único.",
+                        "correcta": false
+                    }
+                ]
+            }
+        ],
+        "aciertos": 4,
+        "fallos": 1,
+        "nota": 7.3,
+        "inicio": "2025-08-10T20:21:27.576520",
+        "duracion": 294.838645
+    },
+    {
+        "id": 2,
+        "preguntas": [
+            {
+                "id": 196,
+                "enunciado": "Según el artículo 152, las Comunidades Autónomas que se constituyan mediante el procedimiento del artículo 151, deberán:",
+                "opciones": [
+                    {
+                        "texto": "Aprobar su Estatuto de Autonomía mediante referéndum.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Ser aprobadas solo por el Parlamento central.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Firmar un acuerdo con la Unión Europea.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solicitar permiso al Tribunal Constitucional.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "enunciado": "Según el artículo 9.3, entre los principios garantizados por la Constitución figura:",
+                "opciones": [
+                    {
+                        "texto": "La seguridad jurídica.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "La supremacía del Gobierno.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El mandato imperativo.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La inmunidad parlamentaria absoluta.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "enunciado": "En el artículo 3.1 se establece que el castellano es:",
+                "opciones": [
+                    {
+                        "texto": "Idioma oficial de la Administración General del Estado.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Idioma oficial de España y todos los españoles tienen el deber de conocerlo y el derecho a usarlo.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Idioma preferente para la enseñanza obligatoria.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Idioma cooficial junto con las lenguas autonómicas.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 73,
+                "enunciado": "El artículo 11.1 establece que la nacionalidad española se adquiere, conserva y pierde de acuerdo con:",
+                "opciones": [
+                    {
+                        "texto": "La ley.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Decisiones del Tribunal Constitucional.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Acuerdos internacionales únicamente.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Resoluciones del Consejo de Ministros.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 94,
+                "enunciado": "Según el artículo 22.2, las asociaciones que persigan fines o utilicen medios tipificados como delito son:",
+                "opciones": [
+                    {
+                        "texto": "Ilegales.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Autorizables bajo control judicial.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Permitidas con licencia especial.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Toleradas si son de carácter cultural.",
+                        "correcta": false
+                    }
+                ]
+            }
+        ],
+        "aciertos": 4,
+        "fallos": 1,
+        "nota": 7.3,
+        "inicio": "2025-08-11T08:31:23.081664",
+        "duracion": 167.14885
+    },
+    {
+        "id": 3,
+        "preguntas": [
+            {
+                "id": 184,
+                "enunciado": "El artículo 140 establece que los municipios son la base de:",
+                "opciones": [
+                    {
+                        "texto": "La organización política y administrativa del Estado.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Las instituciones del Gobierno central.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La estructura militar del país.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Las provincias exclusivamente.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 157,
+                "enunciado": "El artículo 151 establece que la iniciativa para la autonomía puede partir de:",
+                "opciones": [
+                    {
+                        "texto": "Las provincias interesadas mediante un procedimiento especial.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Cualquier municipio sin restricciones.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Parlamento Europeo.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Tribunal Constitucional.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 127,
+                "enunciado": "Según el artículo 143, las Comunidades Autónomas se podrán constituir por provincias que tengan:",
+                "opciones": [
+                    {
+                        "texto": "Vínculos históricos, culturales y económicos comunes.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Disposición geográfica contigua exclusivamente.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Coincidencia en un mismo partido político mayoritario.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Capacidad económica igual.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 208,
+                "enunciado": "El artículo 142 otorga a las provincias la personalidad jurídica para:",
+                "opciones": [
+                    {
+                        "texto": "Gestionar intereses propios y los de los municipios.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Legislar en materia civil.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Nombrar diputados en el Congreso.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Organizar elecciones nacionales.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 56,
+                "enunciado": "El artículo 35.1 reconoce el derecho y el deber de trabajar, y a:",
+                "opciones": [
+                    {
+                        "texto": "La libre elección de profesión u oficio.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Un empleo vitalicio.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Trabajo garantizado por el Estado en todo momento.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Exención de impuestos laborales.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 79,
+                "enunciado": "El artículo 14 prohíbe toda discriminación por razón de:",
+                "opciones": [
+                    {
+                        "texto": "Nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Nivel económico exclusivamente.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Residencia habitual únicamente.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Profesión desempeñada.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 77,
+                "enunciado": "Según el artículo 13.2, únicamente los españoles serán titulares de:",
+                "opciones": [
+                    {
+                        "texto": "Los derechos reconocidos en el artículo 23.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El derecho a la libre circulación.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El derecho a la educación.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El derecho a la propiedad privada.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 78,
+                "enunciado": "El artículo 13.3 señala que el derecho de asilo en España se reconocerá en los términos que:",
+                "opciones": [
+                    {
+                        "texto": "Establezca la ley.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Determine la Unión Europea.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Decida el Gobierno por decreto.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Acorde el Consejo de Ministros.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "enunciado": "El artículo 6 de la Constitución se refiere a:",
+                "opciones": [
+                    {
+                        "texto": "El Defensor del Pueblo.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Ejército.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los partidos políticos.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Tribunal Constitucional.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 195,
+                "enunciado": "El artículo 151 establece un procedimiento especial para que algunas Comunidades Autónomas:",
+                "opciones": [
+                    {
+                        "texto": "Accedan a un régimen de autonomía más amplio y rápido.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Obtengan financiación directa del Gobierno.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Modifiquen las leyes estatales sin permiso.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Elijan directamente al Presidente del Estado.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 151,
+                "enunciado": "Además del Rector, Secretario General y Gerente, ¿cuántos miembros componen el Consejo de Gobierno?",
+                "opciones": [
+                    {
+                        "texto": "50 miembros",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "40 miembros",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "60 miembros",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "30 miembros",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 407,
+                "enunciado": "¿Debe el Secretario Académico rendir cuentas de su gestión?",
+                "opciones": [
+                    {
+                        "texto": "Sí, ante la Junta de Facultad",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "No, sólo al Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No, no está obligado",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Sí, ante el Consejo de Gobierno",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 447,
+                "enunciado": "¿Puede el Director delegar competencias de carácter permanente según el artículo 119?",
+                "opciones": [
+                    {
+                        "texto": "No, no son posibles delegaciones permanentes",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Sí, puede delegar permanentemente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo en casos de emergencia",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Puede delegar cuando el Consejo lo autorice",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 172,
+                "enunciado": "¿Qué otros representantes pueden asistir al Consejo de Gobierno en igualdad de condiciones, según el artículo 84?",
+                "opciones": [
+                    {
+                        "texto": "Representantes del Comité de Empresa, Junta de Personal de Administración y Servicios y Consejo de Estudiantes",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo representantes del Comité de Empresa",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo representantes de la Junta de Estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Ningún representante adicional",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 143,
+                "enunciado": "Además de aprobar normas de régimen interno, el Consejo de Gobierno desempeña sus actividades mediante:",
+                "opciones": [
+                    {
+                        "texto": "Acuerdos",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Resoluciones judiciales",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Decretos legislativos",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Órdenes ministeriales",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 481,
+                "enunciado": "¿Qué otras funciones puede realizar el Director según el artículo 125 letra j)?",
+                "opciones": [
+                    {
+                        "texto": "Las que le asignen las leyes y los presentes Estatutos",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo las especificadas en el artículo 125",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Funciones administrativas no relacionadas con el Departamento",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Ninguna otra función",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 402,
+                "enunciado": "¿Qué papel tiene el Secretario Académico respecto a las actas de reuniones de la Junta?",
+                "opciones": [
+                    {
+                        "texto": "Actuar como depositario y expedir certificaciones de los acuerdos",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo tomar notas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Presidir la reunión",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Convocar la Junta",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 448,
+                "enunciado": "¿Quién nombra al Director de Departamento según el artículo 120?",
+                "opciones": [
+                    {
+                        "texto": "El Rector",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Consejo de Gobierno",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Decano",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Secretario Académico",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 444,
+                "enunciado": "¿Puede la Comisión Permanente actuar fuera de lo establecido en el Reglamento del Departamento según el artículo 117?",
+                "opciones": [
+                    {
+                        "texto": "No, solo puede ejercer las competencias especificadas en el Reglamento",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Sí, puede actuar libremente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo con autorización del Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo en casos de emergencia",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 118,
+                "enunciado": "¿El artículo 78 especifica que el Consejo Social debe incluir representantes de qué grupos universitarios?",
+                "opciones": [
+                    {
+                        "texto": "Profesores, estudiantes y personal de administración y servicios",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo profesores y estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo personal de administración y servicios",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo estudiantes",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 99,
+                "enunciado": "¿Qué debe acompañar la propuesta de adscripción de una institución como Instituto Universitario de Investigación según el Artículo 34.1?",
+                "opciones": [
+                    {
+                        "texto": "Memoria científico-administrativa, Memoria económica y proyecto de convenio de adscripción",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Sólo el proyecto de convenio",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un informe del Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Una carta de recomendación",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "enunciado": "¿Quiénes son miembros de los Centros según el artículo 15.b)?",
+                "opciones": [
+                    {
+                        "texto": "Estudiantes matriculados en las enseñanzas del plan de estudios",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo personal investigador",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo profesores",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo personal administrativo",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 97,
+                "enunciado": "¿Qué órgano ratifica la modificación de los Institutos Universitarios de Investigación en su caso?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Consejo de Coordinación Universitaria",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Claustro",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo de Gobierno",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 63,
+                "enunciado": "¿Qué debe especificarse en la propuesta de supresión de un Departamento según el artículo 26.8?",
+                "opciones": [
+                    {
+                        "texto": "Destino del personal, medios materiales adscritos y obligaciones docentes",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo el motivo de supresión",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el presupuesto a liberar",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la fecha de cierre",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "enunciado": "¿Qué enseñanzas organizan las Facultades y Escuelas Técnicas o Politécnicas Superiores según el artículo 13?",
+                "opciones": [
+                    {
+                        "texto": "Enseñanzas de primer y segundo ciclo",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo primer ciclo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo enseñanzas de postgrado",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Enseñanzas técnicas no oficiales",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 39,
+                "enunciado": "¿Quién debe dirigir las Secciones Departamentales según el artículo 23.2?",
+                "opciones": [
+                    {
+                        "texto": "Un Catedrático o Profesor Titular integrado en ellas",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Un estudiante representante",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un funcionario administrativo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Decano de la Facultad",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "enunciado": "¿A quién se aplican también los procedimientos de integración y adscripción según el artículo 22.2 última parte?",
+                "opciones": [
+                    {
+                        "texto": "Al personal investigador",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo a profesores titulares",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo a estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No se aplican a nadie más",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 38,
+                "enunciado": "¿Quién nombra al Director de cada Sección Departamental según el artículo 23.2?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo de Departamento, oído la propuesta de sus integrantes",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Rector directamente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los estudiantes del Departamento",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Decano de la Facultad",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 43,
+                "enunciado": "¿Qué personal debe estar adscrito a un solo Departamento según el artículo 24.2?",
+                "opciones": [
+                    {
+                        "texto": "Todo el Personal Docente e Investigador",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo el personal administrativo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Todos los estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los profesores invitados",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 44,
+                "enunciado": "Según el artículo 25.a, ¿qué debe organizar y coordinar el Departamento?",
+                "opciones": [
+                    {
+                        "texto": "La docencia de las disciplinas de las que son responsables",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo actividades deportivas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La gestión económica únicamente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los eventos culturales de la Universidad",
+                        "correcta": false
+                    }
+                ]
+            }
+        ],
+        "aciertos": 22,
+        "fallos": 8,
+        "nota": 6.4,
+        "inicio": "2025-08-11T11:17:24.924941",
+        "duracion": 665.685462
+    },
+    {
+        "id": 4,
+        "preguntas": [
+            {
+                "id": 219,
+                "enunciado": "El artículo 153 permite que el Estado dicte normas para coordinar las políticas de:",
+                "opciones": [
+                    {
+                        "texto": "Comunidades Autónomas en materias concurrentes.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Municipios en asuntos internacionales.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Organismos internacionales.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Distritos electorales.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 104,
+                "enunciado": "El artículo 28.1 reconoce el derecho a la libertad sindical, incluyendo el derecho a:",
+                "opciones": [
+                    {
+                        "texto": "Fundar sindicatos y afiliarse al de su elección.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Participar en elecciones políticas.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Nombrar representantes judiciales.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Administrar fondos públicos.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "enunciado": "Según el artículo 9.3, la Constitución garantiza, entre otros, el principio de:",
+                "opciones": [
+                    {
+                        "texto": "Responsabilidad internacional.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Publicidad de las normas.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Control parlamentario.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Representación proporcional.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 91,
+                "enunciado": "El artículo 21.1 establece que se reconoce el derecho de reunión pacífica y sin armas, cuyo ejercicio no necesitará:",
+                "opciones": [
+                    {
+                        "texto": "Autorización previa.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Comunicación a la autoridad competente.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Control policial.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Aprobación del Parlamento.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "enunciado": "El artículo 6 de la Constitución se refiere a:",
+                "opciones": [
+                    {
+                        "texto": "El Defensor del Pueblo.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Ejército.",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los partidos políticos.",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Tribunal Constitucional.",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 363,
+                "enunciado": "¿Quién elige y puede remover al Decano o Director?",
+                "opciones": [
+                    {
+                        "texto": "El Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La Junta de Facultad o Escuela",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Consejo de Gobierno",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Claustro Universitario",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 109,
+                "enunciado": "El artículo 77 define al Consejo Social como...",
+                "opciones": [
+                    {
+                        "texto": "El órgano de participación de la sociedad en la Universidad",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El máximo órgano de gobierno universitario",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El responsable del presupuesto",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un órgano asesor del Rector",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 445,
+                "enunciado": "¿Quién elige a los representantes de los sectores integrantes para formar parte de la Comisión Permanente según el artículo 117?",
+                "opciones": [
+                    {
+                        "texto": "Cada sector elige a sus representantes",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Director los designa",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Rector los nombra",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La Junta de Facultad los selecciona",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 341,
+                "enunciado": "¿Cuál es el órgano de gobierno de las Facultades o Escuelas de la Universidad de Extremadura?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo de Gobierno",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La Junta de Facultad o Escuela",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Claustro Universitario",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Rectorado",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 394,
+                "enunciado": "¿Los Vicedecanos y Subdirectores pueden asumir funciones de gestión económica del Centro?",
+                "opciones": [
+                    {
+                        "texto": "Sí, si el Decano o Director las delega",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "No, sólo pueden representar al Decano en eventos",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No, sólo pueden asistir a reuniones",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Sí, automáticamente sin delegación",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 102,
+                "enunciado": "¿Qué aspectos deben figurar en el convenio de Institutos Interuniversitarios o Conjuntos según el Artículo 34.2?",
+                "opciones": [
+                    {
+                        "texto": "Ubicación, financiación y régimen de colaboración e intercambio de personal",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo la ubicación",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la financiación",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el régimen de personal",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 139,
+                "enunciado": "¿Qué deben justificar los promotores respecto a las instalaciones según el Artículo 40.f?",
+                "opciones": [
+                    {
+                        "texto": "Las instalaciones actuales y las proyectadas",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo las instalaciones deportivas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la ubicación del Centro",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Las instalaciones de administración",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 36,
+                "enunciado": "¿Qué podrán articular los Departamentos según el artículo 23.1?",
+                "opciones": [
+                    {
+                        "texto": "Secciones Departamentales",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Nuevas Facultades",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Centros externos",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Grupos estudiantiles",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 141,
+                "enunciado": "¿Cuál es la duración máxima de la adscripción según el Artículo 41.1.e?",
+                "opciones": [
+                    {
+                        "texto": "Debe establecerse en el convenio",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Cinco años",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No tiene límite",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un año",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 48,
+                "enunciado": "¿Qué participación tiene el Departamento en los planes de estudio según el artículo 25.e?",
+                "opciones": [
+                    {
+                        "texto": "Participar en la elaboración y en todas las actividades que afecten a las áreas integradas en el Departamento",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo informar a los estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Aprobar todos los planes sin participación externa",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No tiene participación",
+                        "correcta": false
+                    }
+                ]
+            }
+        ],
+        "aciertos": 12,
+        "fallos": 3,
+        "nota": 7.3,
+        "inicio": "2025-08-11T11:37:44.908549",
+        "duracion": 397.359452
+    },
+    {
+        "id": 5,
+        "preguntas": [
+            {
+                "id": 1,
+                "enunciado": "¿Qué órganos constituyen la Universidad de Extremadura según el artículo 12.1?",
+                "opciones": [
+                    {
+                        "texto": "Facultades, Escuelas Técnicas o Politécnicas Superiores, Escuelas Universitarias o Politécnicas, Departamentos e Institutos Universitarios de Investigación",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo Facultades y Departamentos",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Centros de investigación y administrativos",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Únicamente Facultades y Escuelas Técnicas",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "enunciado": "¿Qué tipo de centros puede tener la Universidad para modalidades no presenciales según el artículo 12.1?",
+                "opciones": [
+                    {
+                        "texto": "Centros o estructuras que organicen enseñanzas en modalidad no presencial o actividades sin título oficial",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo Facultades virtuales",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo Escuelas Politécnicas en línea",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No puede tener centros no presenciales",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "enunciado": "¿Qué características tienen los Centros dependientes en el extranjero según el artículo 12.2?",
+                "opciones": [
+                    {
+                        "texto": "Imparten enseñanzas oficiales con validez nacional y tienen régimen singularizado según entorno y convenios internacionales",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo ofrecen cursos no oficiales",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No tienen reconocimiento nacional",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Son idénticos a los centros en España",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "enunciado": "¿Qué centros son responsables de la organización de enseñanzas oficiales según el artículo 13?",
+                "opciones": [
+                    {
+                        "texto": "Facultades, Escuelas Técnicas o Politécnicas Superiores, Escuelas Universitarias o Escuelas Universitarias Politécnicas",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo Facultades",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Departamentos e Institutos",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Personal administrativo",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "enunciado": "¿Qué enseñanzas organizan las Facultades y Escuelas Técnicas o Politécnicas Superiores según el artículo 13?",
+                "opciones": [
+                    {
+                        "texto": "Enseñanzas de primer y segundo ciclo",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo primer ciclo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo enseñanzas de postgrado",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Enseñanzas técnicas no oficiales",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "enunciado": "¿Qué enseñanzas organizan las Escuelas Universitarias o Escuelas Universitarias Politécnicas según el artículo 13?",
+                "opciones": [
+                    {
+                        "texto": "Enseñanzas de solo primer ciclo",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Enseñanzas de primer y segundo ciclo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo enseñanza no oficial",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Postgrado y doctorado",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "enunciado": "¿Quién preside la Junta de Facultad según el artículo 14?",
+                "opciones": [
+                    {
+                        "texto": "El Decano",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Director",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Secretario académico",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Rector",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "enunciado": "¿Quién preside la Junta de Escuela Técnica o Politécnica Superior según el artículo 14?",
+                "opciones": [
+                    {
+                        "texto": "El Director",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Decano",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Secretario académico",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Vicedecano",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "enunciado": "¿Qué miembros asisten al Decano o Director según el artículo 14?",
+                "opciones": [
+                    {
+                        "texto": "Vicedecanos o Subdirectores y Secretario académico",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo Secretario académico",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo Vicedecanos o Subdirectores",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Rector y el Vicedecano",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "enunciado": "¿Quiénes forman parte de los Centros según el artículo 15.a)?",
+                "opciones": [
+                    {
+                        "texto": "Profesores y Ayudantes asignados, Personal Investigador y Becarios adscritos formalmente",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo estudiantes matriculados",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo Personal de Administración y Servicios",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo Profesores titulares",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "enunciado": "¿Quiénes son miembros de los Centros según el artículo 15.b)?",
+                "opciones": [
+                    {
+                        "texto": "Estudiantes matriculados en las enseñanzas del plan de estudios",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo personal investigador",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo profesores",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo personal administrativo",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "enunciado": "¿Qué personal forma parte de los Centros según el artículo 15.c)?",
+                "opciones": [
+                    {
+                        "texto": "Personal de Administración y Servicios adscrito formalmente",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo profesores",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Personal externo",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "enunciado": "¿Cuál es una función de las Facultades y Escuelas según el artículo 16.a)?",
+                "opciones": [
+                    {
+                        "texto": "Elaboración y coordinación de sus respectivos planes de estudio",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Nombramiento de profesores",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Gestión financiera general",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Supervisión de exámenes",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "enunciado": "¿Qué actividad deben coordinar y supervisar las Facultades y Escuelas según el artículo 16.b)?",
+                "opciones": [
+                    {
+                        "texto": "Su actividad docente",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El trabajo administrativo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La gestión económica",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La investigación externa",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "enunciado": "¿Qué deben gestionar y administrar las Facultades y Escuelas según el artículo 16.d)?",
+                "opciones": [
+                    {
+                        "texto": "Las partidas presupuestarias que les correspondan",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Los recursos humanos",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Las inversiones en infraestructuras",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Las becas",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "enunciado": "¿Con quién pueden formalizar convenios las Facultades y Escuelas según el artículo 16.e)?",
+                "opciones": [
+                    {
+                        "texto": "Con entidades públicas y privadas en su ámbito de competencia",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo con otras universidades",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo con empresas privadas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No pueden formalizar convenios",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "enunciado": "¿Quién acuerda la creación, modificación o supresión de Facultades y Escuelas según el artículo 17?",
+                "opciones": [
+                    {
+                        "texto": "La Comunidad Autónoma de Extremadura",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Consejo de Gobierno de la Universidad",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "enunciado": "¿Qué órganos pueden proponer la creación o modificación de centros según el artículo 17?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo de Gobierno, el Consejo Social o la Comunidad Autónoma con acuerdo del Consejo Social",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo el Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el Consejo de Departamento",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo los estudiantes",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 19,
+                "enunciado": "¿Qué informe es preceptivo y previo para la creación o modificación de centros según el artículo 17?",
+                "opciones": [
+                    {
+                        "texto": "El informe del Consejo de Gobierno de la Universidad, oído el Claustro",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El informe del Rector solamente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El informe del Consejo de Coordinación Universitaria",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No se requiere informe alguno",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "enunciado": "¿A quién se informa después de la creación o modificación de centros según el artículo 17?",
+                "opciones": [
+                    {
+                        "texto": "Al Consejo de Coordinación Universitaria",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Al Rector únicamente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Al Ministerio de Educación",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No se informa a nadie",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 21,
+                "enunciado": "¿Cuáles son las funciones principales de los Departamentos según el artículo 18?",
+                "opciones": [
+                    {
+                        "texto": "Coordinar enseñanzas, promover actividades docentes e investigadoras, y ejercer funciones estatutarias",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Gestionar únicamente actividades administrativas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Dirigir solo la investigación",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Organizar eventos académicos",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 22,
+                "enunciado": "¿Qué órganos forman el gobierno, dirección y administración de los Departamentos según el artículo 19?",
+                "opciones": [
+                    {
+                        "texto": "Consejo de Departamento, Director, Secretario y, en su caso, Subdirector(es)",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Decano, Vicedecano y Secretario",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Rector y Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el Director",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 23,
+                "enunciado": "¿Cómo se constituyen los Departamentos según el artículo 20.1?",
+                "opciones": [
+                    {
+                        "texto": "Abarcando una o más áreas de conocimiento y agrupando a docentes e investigadores especializados",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo agrupando docentes sin importar áreas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Con una única área de conocimiento",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Según departamentos de otras universidades",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 24,
+                "enunciado": "¿A qué campos se adscribirán los Departamentos para la elección de representantes según el artículo 20.2?",
+                "opciones": [
+                    {
+                        "texto": "Científico, Biomédico, Humanístico, Social y Técnico",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo Científico y Técnico",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Científico, Artístico y Deportivo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Humanístico y Social únicamente",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 25,
+                "enunciado": "¿Quién puede agrupar profesores en áreas de conocimiento distintas del catálogo oficial según el artículo 21.1?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo de Gobierno, previo informe favorable del Consejo de Coordinación Universitaria",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Rector sin consultas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los profesores por mayoría",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 26,
+                "enunciado": "¿Mantienen los profesores adscritos a áreas distintas su adscripción oficial según el artículo 21.1?",
+                "opciones": [
+                    {
+                        "texto": "Sí, mantienen la adscripción al área del catálogo para todos los efectos legales",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "No, cambian completamente de adscripción",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo mantienen la adscripción por un año",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No se menciona este aspecto",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 27,
+                "enunciado": "¿Qué permite un convenio o acuerdo según el artículo 21.2?",
+                "opciones": [
+                    {
+                        "texto": "Adscribir a un Departamento docentes o investigadores de categorías o niveles distintos a los previstos por la legislación",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Modificar los Estatutos sin aprobación",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Cambiar el área de conocimiento oficial",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Despedir profesores sin motivo",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "enunciado": "¿En qué casos se puede autorizar una adscripción temporal a un Departamento de un profesor de otra área según el artículo 22.1?",
+                "opciones": [
+                    {
+                        "texto": "Excepcionalmente y cumpliendo los criterios establecidos",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Cuando el profesor lo solicite sin más requisitos",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Cuando lo decida el Rector unilateralmente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Nunca es posible adscripción temporal",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 29,
+                "enunciado": "¿Quién inicia el procedimiento de adscripción temporal según el artículo 22.2.a)?",
+                "opciones": [
+                    {
+                        "texto": "El Departamento que pretende la adscripción, tras recibir la petición del profesor",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El profesor directamente al Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Secretario del Departamento",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "enunciado": "¿Qué requisitos exige el Consejo de Gobierno para acordar la adscripción temporal según el artículo 22.2.b)?",
+                "opciones": [
+                    {
+                        "texto": "Justificación de conveniencia e informe de Departamentos de origen y destino",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo la petición del profesor",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Informe del Rector únicamente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Aprobación del Consejo Social",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 31,
+                "enunciado": "¿Cuál es la duración mínima y máxima de una adscripción temporal según el artículo 22.2.c)?",
+                "opciones": [
+                    {
+                        "texto": "Mínimo un año y máximo tres años",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Mínimo seis meses y máximo un año",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo un año sin posibilidad de renovación",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No hay duración definida",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 32,
+                "enunciado": "¿Qué ocurre cuando la adscripción implica cambios en carga docente y presupuesto según el artículo 22.2.d)?",
+                "opciones": [
+                    {
+                        "texto": "El informe de los Consejos de Departamento indicará las medidas para cubrir la carga docente",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "No se toman medidas adicionales",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Se debe cancelar la adscripción",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo se informa al Rector",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "enunciado": "¿A quién se aplican también los procedimientos de integración y adscripción según el artículo 22.2 última parte?",
+                "opciones": [
+                    {
+                        "texto": "Al personal investigador",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo a profesores titulares",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo a estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No se aplican a nadie más",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 34,
+                "enunciado": "¿Qué función tiene el Consejo de Departamento en relación con los Departamentos según el artículo 19?",
+                "opciones": [
+                    {
+                        "texto": "Es uno de los órganos de gobierno, dirección y administración del Departamento",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "No tiene funciones en el Departamento",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo coordina la investigación",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Es responsable únicamente de la gestión económica",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 35,
+                "enunciado": "¿Qué tipo de actividades promueven y apoyan los Departamentos según el artículo 18.b)?",
+                "opciones": [
+                    {
+                        "texto": "Actividades e iniciativas docentes e investigadoras del profesorado",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo actividades administrativas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Únicamente actividades deportivas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Eventos culturales y sociales",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 36,
+                "enunciado": "¿Qué podrán articular los Departamentos según el artículo 23.1?",
+                "opciones": [
+                    {
+                        "texto": "Secciones Departamentales",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Nuevas Facultades",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Centros externos",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Grupos estudiantiles",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 37,
+                "enunciado": "Según el artículo 23.2, ¿cuándo podrá un Departamento articularse en Secciones Departamentales?",
+                "opciones": [
+                    {
+                        "texto": "Cuando el profesorado imparta docencia en dos o más Centros dispersos geográficamente",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Cuando no tenga suficientes estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Cuando el Rector lo ordene",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Cuando los estudiantes lo soliciten",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 38,
+                "enunciado": "¿Quién nombra al Director de cada Sección Departamental según el artículo 23.2?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo de Departamento, oído la propuesta de sus integrantes",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Rector directamente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los estudiantes del Departamento",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Decano de la Facultad",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 39,
+                "enunciado": "¿Quién debe dirigir las Secciones Departamentales según el artículo 23.2?",
+                "opciones": [
+                    {
+                        "texto": "Un Catedrático o Profesor Titular integrado en ellas",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Un estudiante representante",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un funcionario administrativo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Decano de la Facultad",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 40,
+                "enunciado": "Según el artículo 23.3, ¿cómo podrá articularse la actividad investigadora de los miembros de un Departamento?",
+                "opciones": [
+                    {
+                        "texto": "Por medio de Grupos de Investigación reconocidos",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo individualmente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Mediante asociaciones estudiantiles",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Por decisión del Rector",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 41,
+                "enunciado": "Según el artículo 24.1.a, ¿quiénes son miembros de cada Departamento?",
+                "opciones": [
+                    {
+                        "texto": "Profesores funcionarios y contratados de sus áreas de conocimiento",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo los estudiantes matriculados",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el personal administrativo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los decanos de la Universidad",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 42,
+                "enunciado": "¿Quiénes, además de los profesores, forman parte del Departamento según el artículo 24.1.b?",
+                "opciones": [
+                    {
+                        "texto": "Investigadores y Becarios de Investigación predoctorales y postdoctorales adscritos formalmente",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo estudiantes de doctorado",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo profesores contratados",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Personal administrativo únicamente",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 43,
+                "enunciado": "¿Qué personal debe estar adscrito a un solo Departamento según el artículo 24.2?",
+                "opciones": [
+                    {
+                        "texto": "Todo el Personal Docente e Investigador",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo el personal administrativo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Todos los estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los profesores invitados",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 44,
+                "enunciado": "Según el artículo 25.a, ¿qué debe organizar y coordinar el Departamento?",
+                "opciones": [
+                    {
+                        "texto": "La docencia de las disciplinas de las que son responsables",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo actividades deportivas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La gestión económica únicamente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los eventos culturales de la Universidad",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 45,
+                "enunciado": "¿Quién decide el profesorado que impartirá docencia en las materias según el artículo 25.b?",
+                "opciones": [
+                    {
+                        "texto": "El Departamento, según criterios objetivos y programación docente",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Decano",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 46,
+                "enunciado": "¿Qué función tiene el Departamento en cuanto a la investigación según el artículo 25.c?",
+                "opciones": [
+                    {
+                        "texto": "Promover la investigación y apoyar actividades docentes e investigadoras de sus miembros",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo gestionar fondos económicos",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Realizar informes para el Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Organizar eventos sociales",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 47,
+                "enunciado": "Según el artículo 25.d, ¿qué debe impulsar el Departamento en sus miembros?",
+                "opciones": [
+                    {
+                        "texto": "La actualización científica, técnica, artística y pedagógica",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "La participación en deportes universitarios",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El incremento de matrícula estudiantil",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La reducción de carga docente",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 48,
+                "enunciado": "¿Qué participación tiene el Departamento en los planes de estudio según el artículo 25.e?",
+                "opciones": [
+                    {
+                        "texto": "Participar en la elaboración y en todas las actividades que afecten a las áreas integradas en el Departamento",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo informar a los estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Aprobar todos los planes sin participación externa",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No tiene participación",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 49,
+                "enunciado": "Según el artículo 25.f, ¿qué propone y gestiona el Departamento?",
+                "opciones": [
+                    {
+                        "texto": "Las dotaciones en Personal Docente, Investigador y Administración y Servicios, y las dotaciones presupuestarias y de medios materiales",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Los salarios de los profesores",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Las matrículas de los estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los convenios internacionales",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 50,
+                "enunciado": "¿En qué procedimientos participa el Departamento según el artículo 25.g?",
+                "opciones": [
+                    {
+                        "texto": "Evaluación, certificación y acreditación de la calidad de sus actividades",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Contratación de personal externo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Organización de eventos sociales",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Control de acceso a la Universidad",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 51,
+                "enunciado": "¿Quién aprueba la creación, supresión o modificación de áreas de competencia científica de un Departamento según el artículo 26.1?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo de Gobierno",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo de Coordinación Universitaria",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La Junta Consultiva",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 52,
+                "enunciado": "¿Qué informe es necesario en caso de discrepancias en la creación o modificación de Departamentos según el artículo 26.1?",
+                "opciones": [
+                    {
+                        "texto": "Informe de la Junta Consultiva",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Informe del Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Informe del Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Informe del Consejo de Dirección",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 53,
+                "enunciado": "¿Quiénes pueden iniciar la propuesta para crear o modificar un Departamento según el artículo 26.2?",
+                "opciones": [
+                    {
+                        "texto": "Personal Docente e Investigador interesado, Departamentos afectados, Consejo de Gobierno o Rector",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo el Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo los estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo Social exclusivamente",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 54,
+                "enunciado": "¿Qué se debe garantizar antes de la creación o modificación de un Departamento según el artículo 26.2?",
+                "opciones": [
+                    {
+                        "texto": "Audiencia previa a los docentes e investigadores afectados",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Aprobación inmediata sin consulta",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Consulta solo a los estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Informe solo del Rector",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 55,
+                "enunciado": "¿Cuándo se podrán crear o modificar Departamentos según el artículo 26.3?",
+                "opciones": [
+                    {
+                        "texto": "Cuando esté justificado por la actividad docente e investigadora que deban asumir",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Cuando lo soliciten los estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Cuando lo proponga cualquier persona externa",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Cuando el Consejo Social lo apruebe",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 56,
+                "enunciado": "¿Qué debe acompañar a la propuesta de creación o modificación de Departamentos según el artículo 26.4?",
+                "opciones": [
+                    {
+                        "texto": "Una memoria justificativa detallando denominación, áreas, justificación, líneas de investigación y evaluación económica",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo una breve carta de intención",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un informe del Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Una encuesta entre estudiantes",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 57,
+                "enunciado": "Según el artículo 26.5, ¿a quién se debe comunicar la creación, modificación o supresión de un Departamento?",
+                "opciones": [
+                    {
+                        "texto": "Al Consejo Social",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo al Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "A los estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "A la Junta Consultiva",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 58,
+                "enunciado": "¿Qué ocurre si la creación, modificación o supresión de un Departamento implica incremento del gasto según el artículo 26.5?",
+                "opciones": [
+                    {
+                        "texto": "Requiere la aprobación del Consejo Social",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "No requiere aprobación alguna",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo se informa al Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Debe suspenderse",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 59,
+                "enunciado": "¿Qué debe garantizarse en la creación, modificación o supresión de Departamentos según el artículo 26.6?",
+                "opciones": [
+                    {
+                        "texto": "La integridad funcional, estructural y finalidades docentes e investigadoras del resto de Departamentos",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "La reducción de la plantilla docente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el aumento de recursos materiales",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El cierre de departamentos pequeños",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 60,
+                "enunciado": "¿Qué aspectos deben considerarse en las transformaciones que afecten a otros Departamentos según el artículo 26.6?",
+                "opciones": [
+                    {
+                        "texto": "Composición cuantitativa y cualitativa, recursos materiales, responsabilidades docentes y capacidad investigadora",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo recursos financieros",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo número de estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo gestión administrativa",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 61,
+                "enunciado": "¿Qué tipo de Departamentos podrá crear la Universidad según el artículo 26.7?",
+                "opciones": [
+                    {
+                        "texto": "Departamentos interinstitucionales mediante convenio con otras universidades o centros de investigación",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo Departamentos propios sin colaboración externa",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Departamentos formados solo por estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Departamentos únicamente administrativos",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 62,
+                "enunciado": "¿Qué debe incluir el convenio para crear un Departamento interinstitucional según el artículo 26.7?",
+                "opciones": [
+                    {
+                        "texto": "Acreditación de cumplimiento, regulación de gobierno y demás formalidades estatutarias",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo la firma de los rectores",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo un plan económico",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un acuerdo informal sin regulación",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 63,
+                "enunciado": "¿Qué debe especificarse en la propuesta de supresión de un Departamento según el artículo 26.8?",
+                "opciones": [
+                    {
+                        "texto": "Destino del personal, medios materiales adscritos y obligaciones docentes",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo el motivo de supresión",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el presupuesto a liberar",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la fecha de cierre",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 64,
+                "enunciado": "¿Qué entidades pueden formalizar convenios o contratos para trabajos científicos o de formación según el artículo 27.1?",
+                "opciones": [
+                    {
+                        "texto": "Grupos de investigación reconocidos, Departamentos e Institutos Universitarios de Investigación",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo el Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el Consejo de Gobierno",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 65,
+                "enunciado": "¿Qué debe incluirse claramente en los convenios o contratos según el artículo 27.2?",
+                "opciones": [
+                    {
+                        "texto": "Destino de bienes e ingresos, compromiso de miembros, elementos materiales y coste estimado",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo los nombres de las partes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el coste económico",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la duración del contrato",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 66,
+                "enunciado": "¿Quién debe aprobar los convenios o contratos de investigación según el artículo 27.3?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo de Gobierno de la Universidad de Extremadura",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 67,
+                "enunciado": "¿Cuál es una condición para la aprobación de convenios o contratos según el artículo 27.3?",
+                "opciones": [
+                    {
+                        "texto": "Que la ejecución no afecte negativamente a la dedicación de sus miembros ni a los elementos materiales",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Que aumente la carga docente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Que tenga respaldo externo únicamente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Que sea aprobado solo por los investigadores",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 68,
+                "enunciado": "¿Qué gestionarán los Departamentos según el artículo 28?",
+                "opciones": [
+                    {
+                        "texto": "Dotaciones presupuestarias asignadas y los ingresos procedentes de actividades docentes, contratos e subvenciones",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo el presupuesto para eventos culturales",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la matrícula de estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo los contratos externos",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 69,
+                "enunciado": "Según el artículo 28.a, ¿qué porcentaje gestionan los Departamentos?",
+                "opciones": [
+                    {
+                        "texto": "Porcentaje que determinen las Normas de Ejecución Presupuestaria de los rendimientos de actividades docentes",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Porcentaje fijo del 50%",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Porcentaje que decida el Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Ningún porcentaje",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 70,
+                "enunciado": "¿Qué bienes patrimoniales están a disposición del Departamento según el artículo 29.1?",
+                "opciones": [
+                    {
+                        "texto": "Los especificados en el inventario inicial y los adquiridos con recursos del Departamento",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo los bienes generales de la Universidad",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el equipamiento tecnológico",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo los fondos bibliográficos",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 71,
+                "enunciado": "¿Qué podrá poner en funcionamiento el Departamento con sus propios recursos según el artículo 29.2?",
+                "opciones": [
+                    {
+                        "texto": "Una colección de fondos bibliográficos y/o hemeroteca",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Un centro deportivo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un club estudiantil",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Una biblioteca exclusiva para docentes",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 72,
+                "enunciado": "¿Con quién debe coordinarse la gestión de fondos bibliográficos y hemeroteca según el artículo 29.2?",
+                "opciones": [
+                    {
+                        "texto": "Con la Biblioteca Universitaria",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Con el Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Con el Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Con el Consejo de Gobierno",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 73,
+                "enunciado": "¿Quiénes garantizan el acceso a las colecciones de fondos bibliográficos y hemeroteca según el artículo 29.2?",
+                "opciones": [
+                    {
+                        "texto": "Los miembros de la comunidad universitaria",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo el personal docente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo los investigadores",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo los estudiantes",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 74,
+                "enunciado": "¿Quién debe ser oído para la creación, supresión o modificación de un Departamento según el artículo 26.2?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo de Dirección",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La Junta Consultiva",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 75,
+                "enunciado": "¿Con qué tipo de entidades pueden formalizar convenios los grupos de investigación según el artículo 27.1?",
+                "opciones": [
+                    {
+                        "texto": "Personas, universidades o entidades públicas y privadas",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo con entidades públicas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo con universidades nacionales",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo con empresas privadas",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 76,
+                "enunciado": "¿Cuál es la función principal de los Institutos Universitarios de Investigación según el Artículo 30?",
+                "opciones": [
+                    {
+                        "texto": "Realizar únicamente actividades docentes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Dedicarse fundamentalmente a la investigación relacionada con diversas áreas",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Gestionar los recursos económicos de la universidad",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Organizar las enseñanzas de primer ciclo",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 77,
+                "enunciado": "¿Qué carácter pueden tener los Institutos Universitarios de Investigación para integrar diversas áreas de conocimiento?",
+                "opciones": [
+                    {
+                        "texto": "Monodisciplinar",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Transdisciplinar",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Unidisciplinar",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Multidisciplinar sin integración",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 78,
+                "enunciado": "¿Puede el ámbito de actuación de un Instituto Universitario de Investigación coincidir con el de un Departamento o área de conocimiento?",
+                "opciones": [
+                    {
+                        "texto": "Sí, siempre que se acuerde con el Consejo de Gobierno",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No, no puede coincidir",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo en casos de institutos interuniversitarios",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Sí, en actividades docentes",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 79,
+                "enunciado": "¿Qué órganos componen la dirección de un Instituto Universitario de Investigación según el Artículo 31?",
+                "opciones": [
+                    {
+                        "texto": "Consejo de Departamento, Director y Secretario",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Consejo de Instituto, Director, Secretario y, en su caso, Subdirector",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Junta de Facultad y Decano",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Rector y Vicedecanos",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 80,
+                "enunciado": "¿Qué tipo de Institutos Universitarios de Investigación pueden tener personalidad jurídica propia?",
+                "opciones": [
+                    {
+                        "texto": "Solo los Institutos propios",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los Institutos conjuntos",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Los Institutos adscritos sin convenio",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Ninguno",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 81,
+                "enunciado": "¿Qué entidad debe aprobar la adscripción o desvinculación de Institutos Universitarios Adscritos a la Universidad de Extremadura?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La Comunidad Autónoma",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Consejo de Departamento",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Rector",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 82,
+                "enunciado": "¿Por qué normas se regirán los Institutos Universitarios de Investigación según el Artículo 32.2?",
+                "opciones": [
+                    {
+                        "texto": "Por la Ley Orgánica de Universidades, los Estatutos, el convenio de creación o adscripción y sus propias normas",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo por los Estatutos de la Universidad",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Por el Consejo Social exclusivamente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Por la legislación nacional de educación básica",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 83,
+                "enunciado": "¿Quién elabora el Reglamento de régimen interno de un Instituto Universitario de Investigación?",
+                "opciones": [
+                    {
+                        "texto": "El Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo de Instituto",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo de Gobierno",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 84,
+                "enunciado": "¿Quién aprueba el Reglamento de régimen interno de un Instituto Universitario de Investigación?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo de Gobierno",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Consejo de Departamento",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Rector",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 85,
+                "enunciado": "Según el Artículo 32.4, ¿qué debe incluir como mínimo el Reglamento de un Instituto Universitario de Investigación?",
+                "opciones": [
+                    {
+                        "texto": "Normas de funcionamiento y forma de elección de órganos",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo el régimen de control de actividades",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo los fines del Instituto",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Sólo el régimen de personal docente",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 86,
+                "enunciado": "¿Qué tipo de actividades pueden realizar los Institutos Universitarios de Investigación según el Artículo 30?",
+                "opciones": [
+                    {
+                        "texto": "Actividades docentes especializadas y asesoramiento técnico",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Únicamente actividades administrativas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Sólo actividades de formación en primer ciclo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo actividades de extensión cultural",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 87,
+                "enunciado": "¿Qué debe garantizar la creación de Institutos Universitarios conjuntos en cuanto a su seguimiento, según el Artículo 32.5?",
+                "opciones": [
+                    {
+                        "texto": "La creación de una Comisión paritaria de Seguimiento",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "La aprobación del Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La supervisión exclusiva del Consejo de Gobierno",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un consejo asesor externo",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 88,
+                "enunciado": "¿Qué carácter pueden tener los Institutos Universitarios de Investigación cuando sus actividades lo aconsejen, según el Artículo 30?",
+                "opciones": [
+                    {
+                        "texto": "Interuniversitario mediante convenios especiales",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Local, sin colaboración externa",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Exclusivamente nacional",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo con centros privados",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 89,
+                "enunciado": "¿Qué debe incluir la propuesta de creación de un Instituto Universitario conjunto según el Artículo 32.3 b)?",
+                "opciones": [
+                    {
+                        "texto": "La propuesta del convenio regulador suscrita por los promotores",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo la memoria económica",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la aprobación del Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un informe de la Junta Consultiva",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 90,
+                "enunciado": "¿Cuál es uno de los requisitos que el Reglamento de un Instituto Universitario debe especificar según el Artículo 32.4 e)?",
+                "opciones": [
+                    {
+                        "texto": "El sistema de revisión y rendición de cuentas",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Los horarios de clase",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La política de vacaciones",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Los requisitos de matrícula",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 91,
+                "enunciado": "¿Quién acuerda la creación o supresión de los Institutos Universitarios de Investigación según el Artículo 33.1?",
+                "opciones": [
+                    {
+                        "texto": "El Rector de la Universidad",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La Comunidad Autónoma a propuesta del Consejo Social",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Consejo de Coordinación Universitaria",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Claustro Universitario",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 92,
+                "enunciado": "¿Qué informe es preceptivo y previo para la creación o supresión de un Instituto Universitario de Investigación?",
+                "opciones": [
+                    {
+                        "texto": "Informe del Consejo de Gobierno de la Universidad",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Informe del Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Informe del Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Informe del Claustro",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 93,
+                "enunciado": "¿A quién se informa sobre la creación o supresión de Institutos Universitarios de Investigación?",
+                "opciones": [
+                    {
+                        "texto": "Al Claustro y al Consejo de Coordinación Universitaria",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo al Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo al Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "A los estudiantes",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 94,
+                "enunciado": "¿Qué debe incluir la memoria justificativa para la creación de un Instituto Universitario de Investigación según el Artículo 33.2?",
+                "opciones": [
+                    {
+                        "texto": "Denominación, justificación, programa de actividades, necesidades materiales y personal, y proyecto de Reglamento",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo la denominación y justificación",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo las necesidades económicas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el programa de actividades a largo plazo",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 95,
+                "enunciado": "¿Cuál es el plazo del período de información pública antes del informe del Consejo de Gobierno, según el Artículo 33.3?",
+                "opciones": [
+                    {
+                        "texto": "15 días",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un mes",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Tres meses",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No hay período de información pública",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 96,
+                "enunciado": "¿Quién acuerda la modificación de los Institutos Universitarios de Investigación?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo de Gobierno de la Universidad",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "La Comunidad Autónoma",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Claustro",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Rector",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 97,
+                "enunciado": "¿Qué órgano ratifica la modificación de los Institutos Universitarios de Investigación en su caso?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Consejo de Coordinación Universitaria",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Claustro",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo de Gobierno",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 98,
+                "enunciado": "¿Qué debe especificar la memoria justificativa para la supresión de un Instituto Universitario de Investigación según el Artículo 33.5?",
+                "opciones": [
+                    {
+                        "texto": "Destino del personal, medios materiales y propuesta de cumplimiento de obligaciones",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Sólo las razones económicas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La aprobación del Claustro",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El informe del Rector",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 99,
+                "enunciado": "¿Qué debe acompañar la propuesta de adscripción de una institución como Instituto Universitario de Investigación según el Artículo 34.1?",
+                "opciones": [
+                    {
+                        "texto": "Memoria científico-administrativa, Memoria económica y proyecto de convenio de adscripción",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Sólo el proyecto de convenio",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un informe del Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Una carta de recomendación",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 100,
+                "enunciado": "¿Qué mecanismos deben figurar en el convenio de adscripción según el Artículo 34.1?",
+                "opciones": [
+                    {
+                        "texto": "Mecanismos de coordinación o tutela y forma de financiación",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo mecanismos de coordinación",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la ubicación del Instituto",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la distribución del personal",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 101,
+                "enunciado": "¿Qué debe incluir la propuesta para Institutos Interuniversitarios o Conjuntos según el Artículo 34.2?",
+                "opciones": [
+                    {
+                        "texto": "Memoria científico-administrativa, Memoria económica y proyecto de convenio",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo la Memoria económico-financiera",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el informe del Consejo de Gobierno",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un acuerdo del Claustro",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 102,
+                "enunciado": "¿Qué aspectos deben figurar en el convenio de Institutos Interuniversitarios o Conjuntos según el Artículo 34.2?",
+                "opciones": [
+                    {
+                        "texto": "Ubicación, financiación y régimen de colaboración e intercambio de personal",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo la ubicación",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la financiación",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el régimen de personal",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 103,
+                "enunciado": "¿Quiénes pueden ser miembros de los Institutos Universitarios de Investigación propios según el Artículo 35.1?",
+                "opciones": [
+                    {
+                        "texto": "Profesores universitarios, personal docente o investigador propio, y personal de administración y servicios",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo profesores universitarios",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo personal administrativo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Cualquier persona externa a la universidad",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 104,
+                "enunciado": "¿Quién nombra a los miembros honorarios de los Institutos Universitarios de Investigación?",
+                "opciones": [
+                    {
+                        "texto": "El Rector a propuesta del Consejo del Instituto y oído el Consejo de Gobierno",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Claustro",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Director del Instituto",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 105,
+                "enunciado": "¿Quién aprueba la asignación de puestos en la Relación de Puestos de Trabajo de los Institutos Universitarios de Investigación?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo de Gobierno de la Universidad",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Consejo de Instituto",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 106,
+                "enunciado": "¿Cuál es una de las funciones de los Institutos Universitarios de Investigación según el Artículo 36.a?",
+                "opciones": [
+                    {
+                        "texto": "Organizar, desarrollar y evaluar sus planes de investigación",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Dirigir únicamente la administración universitaria",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Supervisar la docencia en centros adscritos",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Aprobar los títulos oficiales",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 107,
+                "enunciado": "Según el Artículo 36.b, ¿qué programas deben organizar y desarrollar los Institutos Universitarios de Investigación?",
+                "opciones": [
+                    {
+                        "texto": "Programas de Doctorado y de Postgrado",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Programas de grado",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Programas de intercambio estudiantil",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Programas deportivos",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 108,
+                "enunciado": "¿Qué tipo de actividades docentes pueden programar y realizar los Institutos según el Artículo 36.c?",
+                "opciones": [
+                    {
+                        "texto": "Actividades docentes de Tercer ciclo, Postgrado, especialización y actualización profesionales",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo actividades de grado",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Actividades administrativas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo actividades artísticas",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 109,
+                "enunciado": "¿Qué función relacionada con la comunidad universitaria se menciona en el Artículo 36.d?",
+                "opciones": [
+                    {
+                        "texto": "Impulsar la actualización científica, técnica, artística, lingüística y pedagógica",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Controlar el acceso a las bibliotecas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Gestionar las becas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Evaluar el profesorado",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 110,
+                "enunciado": "Según el Artículo 36.e, ¿qué pueden contratar los Institutos Universitarios de Investigación?",
+                "opciones": [
+                    {
+                        "texto": "Trabajos vinculados a su investigación con personas físicas o entidades públicas o privadas",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo contratos de personal administrativo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo servicios externos de limpieza",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Servicios de transporte universitario",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 111,
+                "enunciado": "¿Con quién pueden cooperar los Institutos Universitarios de Investigación según el Artículo 36.f?",
+                "opciones": [
+                    {
+                        "texto": "Con otros Institutos, Centros y Departamentos, tanto universitarios como de otras entidades públicas o privadas nacionales e internacionales",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo con departamentos internos de la Universidad",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo con empresas privadas locales",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Con organismos gubernamentales exclusivamente",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 112,
+                "enunciado": "¿Qué tipo de asesoramiento proporcionan los Institutos según el Artículo 36.g?",
+                "opciones": [
+                    {
+                        "texto": "Asesoramiento en el ámbito de sus competencias",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Asesoramiento financiero general",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Asesoramiento legal a estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Asesoramiento en actividades deportivas",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 113,
+                "enunciado": "Según el Artículo 36.h, ¿con quién colaboran los Institutos en la realización de funciones?",
+                "opciones": [
+                    {
+                        "texto": "Con los demás órganos de la Universidad",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Con empresas privadas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Con otros Institutos de otras universidades únicamente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Con los estudiantes",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 114,
+                "enunciado": "¿Qué fuente de financiación principal tienen los Institutos Universitarios de Investigación propios según el Artículo 37.1?",
+                "opciones": [
+                    {
+                        "texto": "Recursos generados por ellos mismos a través del presupuesto general de la Universidad",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Fondos privados exclusivamente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Fondos internacionales",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Fondos de estudiantes",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 115,
+                "enunciado": "¿Qué debe mantener el Instituto según el Artículo 37.3?",
+                "opciones": [
+                    {
+                        "texto": "Un inventario actualizado de todos sus bienes patrimoniales",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Un registro de estudiantes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un archivo de tesis doctorales",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Una lista de convenios internacionales",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 116,
+                "enunciado": "¿Qué puede poner en funcionamiento el Instituto con sus propios recursos según el Artículo 37.4?",
+                "opciones": [
+                    {
+                        "texto": "Una colección de fondos bibliográficos y/o hemeroteca",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Un centro deportivo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Una cafetería universitaria",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un laboratorio externo",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 117,
+                "enunciado": "¿Qué son los Centros Adscritos según el Artículo 38.1?",
+                "opciones": [
+                    {
+                        "texto": "Centros de titularidad pública o privada que han suscrito convenio para impartir enseñanzas conducentes a títulos oficiales",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Departamentos internos de la Universidad",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Entidades exclusivamente privadas sin convenio",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Centros deportivos universitarios",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 118,
+                "enunciado": "¿Qué órgano debe informar favorablemente sobre los convenios de los Centros Adscritos según el Artículo 38.1?",
+                "opciones": [
+                    {
+                        "texto": "El Consejo de Gobierno de la Universidad",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Rector",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Claustro Universitario",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 119,
+                "enunciado": "¿Quién concede la \"venia docendi\" al profesorado de los Centros Adscritos según el Artículo 38.2?",
+                "opciones": [
+                    {
+                        "texto": "El Rector, previa audiencia del Consejo de Gobierno",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Director del Centro Adscrito",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Claustro Universitario",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 120,
+                "enunciado": "¿Qué función tiene la Universidad respecto a los Centros Adscritos según el Artículo 38.2?",
+                "opciones": [
+                    {
+                        "texto": "Supervisar la docencia en los Centros Adscritos",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Gestionar la financiación de los Centros",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Contratar al personal administrativo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Organizar actividades deportivas",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 121,
+                "enunciado": "¿A qué normativa se ajusta el funcionamiento de los Centros Adscritos según el Artículo 39?",
+                "opciones": [
+                    {
+                        "texto": "Ley Orgánica de Universidades, normas del Estado y Comunidad Autónoma, convenio de adscripción y normas propias",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo a las normas internas de la Universidad",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "A la normativa internacional",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "A la normativa municipal",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 122,
+                "enunciado": "Según el Artículo 40, ¿qué debe acompañar la solicitud para la tramitación del expediente de adscripción?",
+                "opciones": [
+                    {
+                        "texto": "Documentación sobre personalidad de los promotores, estudio económico, enseñanzas, y otros aspectos",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo el convenio de colaboración",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un informe del claustro",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un plan de marketing",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 123,
+                "enunciado": "¿Qué debe incluir el estudio económico presentado en la solicitud de adscripción según el Artículo 40.b?",
+                "opciones": [
+                    {
+                        "texto": "La financiación del Centro",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El coste del material deportivo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La nómina del personal administrativo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El coste de las fiestas universitarias",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 124,
+                "enunciado": "¿Qué debe justificarse en la solicitud de adscripción respecto a la investigación según el Artículo 40.e?",
+                "opciones": [
+                    {
+                        "texto": "Objetivos y programas de investigación y estructuras para asegurarlos",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo actividades docentes",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El presupuesto anual para eventos",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El número de profesores invitados",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 125,
+                "enunciado": "¿Qué debe incluir el régimen de gobierno y administración en la solicitud de adscripción según el Artículo 40.g?",
+                "opciones": [
+                    {
+                        "texto": "Adaptarse en lo posible al de la Universidad, según el Convenio",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Ser totalmente independiente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Seguir exclusivamente las normas del centro",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No necesita regulación",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 126,
+                "enunciado": "¿Qué cláusula debe contener el convenio de adscripción según el Artículo 41.1.a?",
+                "opciones": [
+                    {
+                        "texto": "Obligaciones asumidas por el centro adscrito para la enseñanza e investigación",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Los horarios del personal",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El reglamento de uso de instalaciones deportivas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La lista de profesores invitados",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 127,
+                "enunciado": "Según el Artículo 41.1.b, ¿qué debe especificar el convenio de adscripción?",
+                "opciones": [
+                    {
+                        "texto": "Medios materiales y personales disponibles para cumplir sus funciones",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Horario de atención al público",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Política de becas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Normativa sobre exámenes",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 128,
+                "enunciado": "¿Qué órgano debe tener representación mayoritaria en los órganos de conexión entre la Universidad y el centro adscrito según el Artículo 41.1.d?",
+                "opciones": [
+                    {
+                        "texto": "La Universidad de Extremadura",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El centro adscrito",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La Comunidad Autónoma",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 129,
+                "enunciado": "¿Qué debe incluir el Reglamento de Régimen Interno que acompaña al convenio según el Artículo 41.2?",
+                "opciones": [
+                    {
+                        "texto": "Garantías de participación del Profesorado, Estudiantes y Personal de Administración y Servicios en órganos de gobierno",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Normas para actividades deportivas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Normas de comportamiento estudiantil",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Regulación de contratos externos",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 130,
+                "enunciado": "¿Quién nombra al Director del Centro Adscrito según el Artículo 42?",
+                "opciones": [
+                    {
+                        "texto": "El Rector, a propuesta de la entidad promotora",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Consejo Social",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Claustro universitario",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El propio Centro Adscrito",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 131,
+                "enunciado": "¿A qué están sometidos los Centros Adscritos en todo momento según el Artículo 43?",
+                "opciones": [
+                    {
+                        "texto": "A la inspección de la Universidad de Extremadura",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "A la supervisión del Ministerio de Educación exclusivamente",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "A la inspección municipal",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "A la supervisión de la Comunidad Autónoma sin intervención universitaria",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 132,
+                "enunciado": "¿Quién designa al Delegado de la Universidad en cada Centro Adscrito según el Artículo 43?",
+                "opciones": [
+                    {
+                        "texto": "El Rector",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El Director del Centro Adscrito",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Consejo de Gobierno",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El Claustro",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 133,
+                "enunciado": "¿Qué función tiene el Delegado de la Universidad en el Centro Adscrito según el Artículo 43?",
+                "opciones": [
+                    {
+                        "texto": "Firmar las actas de calificación de los exámenes finales de los estudiantes",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Contratar personal administrativo",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Supervisar actividades deportivas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Gestionar la financiación",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 134,
+                "enunciado": "¿Qué órgano regulará el Consejo de Gobierno respecto a los Centros Adscritos según el Artículo 43?",
+                "opciones": [
+                    {
+                        "texto": "Un órgano de coordinación colegiado presidido por el Rector",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Un comité de deportes universitario",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Una comisión de becas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un consejo estudiantil",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 135,
+                "enunciado": "¿Quiénes estarán representados en el órgano de coordinación colegiado según el Artículo 43?",
+                "opciones": [
+                    {
+                        "texto": "Todos los Centros Adscritos y aquellos Centros de la Universidad relacionados con éstos",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo los Centros Adscritos",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la Universidad",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la Comunidad Autónoma",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 136,
+                "enunciado": "¿Qué norma debe respetar el régimen jurídico y económico del profesorado según el Artículo 40.h?",
+                "opciones": [
+                    {
+                        "texto": "Deben ajustarse a lo establecido en el convenio",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Debe ser libre y sin regulación",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Debe regirse por normas extranjeras",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No es necesario establecerlo",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 137,
+                "enunciado": "¿Qué debe contener el proyecto de convenio con la Universidad según el Artículo 40.i?",
+                "opciones": [
+                    {
+                        "texto": "Las condiciones para la adscripción y funcionamiento del Centro",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo el nombre del Centro",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo el listado de profesores",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Las fechas de exámenes",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 138,
+                "enunciado": "¿Qué tipo de régimen de evaluación y participación debe garantizarse según el Artículo 40.d?",
+                "opciones": [
+                    {
+                        "texto": "El régimen de evaluación y participación en el gobierno del Centro para estudiantes y personal, según la legislación vigente",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo la participación del profesorado",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la participación administrativa",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No es necesario ningún régimen",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 139,
+                "enunciado": "¿Qué deben justificar los promotores respecto a las instalaciones según el Artículo 40.f?",
+                "opciones": [
+                    {
+                        "texto": "Las instalaciones actuales y las proyectadas",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Solo las instalaciones deportivas",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Solo la ubicación del Centro",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Las instalaciones de administración",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 140,
+                "enunciado": "¿Qué limita las obligaciones asumidas por el Centro Adscrito según el Artículo 41.1.a?",
+                "opciones": [
+                    {
+                        "texto": "Su ámbito y nivel de competencias",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "La voluntad del Director",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Las normas internas del Centro",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La legislación internacional",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 141,
+                "enunciado": "¿Cuál es la duración máxima de la adscripción según el Artículo 41.1.e?",
+                "opciones": [
+                    {
+                        "texto": "Debe establecerse en el convenio",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Cinco años",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No tiene límite",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Un año",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 142,
+                "enunciado": "¿Qué implica el procedimiento de ingreso de estudiantes según el Artículo 41.1.c?",
+                "opciones": [
+                    {
+                        "texto": "Debe ajustarse a la legislación vigente",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Es definido exclusivamente por el Centro Adscrito",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "No es necesario establecer un procedimiento",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Es determinado por la Comunidad Autónoma",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 143,
+                "enunciado": "¿Qué garantiza la representación mayoritaria de la Universidad en el órgano de conexión según el Artículo 41.1.d?",
+                "opciones": [
+                    {
+                        "texto": "La supervisión y control de la actividad del Centro Adscrito",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "La autonomía total del Centro",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La representación exclusiva del Centro Adscrito",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La participación de los estudiantes exclusivamente",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 144,
+                "enunciado": "¿Qué documento debe aprobar el Consejo de Gobierno de la Universidad según el Artículo 41.2?",
+                "opciones": [
+                    {
+                        "texto": "El Reglamento de Régimen Interno del Centro Adscrito",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "El presupuesto del Centro",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "El plan académico",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "La memoria anual de actividades",
+                        "correcta": false
+                    }
+                ]
+            },
+            {
+                "id": 145,
+                "enunciado": "¿Qué papel tiene el Consejo de Gobierno respecto a los Centros Adscritos según los artículos?",
+                "opciones": [
+                    {
+                        "texto": "Aprueba reglamentos y regula órganos de coordinación",
+                        "correcta": true
+                    },
+                    {
+                        "texto": "Nombra a todos los profesores",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Gestiona la financiación directa",
+                        "correcta": false
+                    },
+                    {
+                        "texto": "Organiza actividades deportivas",
+                        "correcta": false
+                    }
+                ]
+            }
+        ],
+        "aciertos": 22,
+        "fallos": 3,
+        "nota": 8.4,
+        "inicio": "2025-08-18T18:31:55.102637",
+        "duracion": 551.039495
+    }
+]

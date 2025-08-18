@@ -36,9 +36,9 @@ def listar_examenes():
         
         partes = []
         if horas > 0:
-            partes.append(f"{horas}h: ")
+            partes.append(f"{horas}h")
         if minutos > 0:
-            partes.append(f"{minutos}m: ")
+            partes.append(f"{minutos}m")
         if segundos > 0 or not partes:
             partes.append(f"{segundos}s")
         duracion_str = " ".join(partes)
@@ -83,7 +83,69 @@ def guardar_examen(preguntas, aciertos, fallos, nota, inicio, duracion):
     with open(EXAMENES_FILE, "w", encoding="utf-8") as file:
         json.dump(examenes_data, file, indent=4, ensure_ascii=False)
         
-def nuevo_examen():
+def nuevo_examen_tema():
+    limpiar_pantalla()
+    tema = input("\nIntroduce el número del tema: ")
+    
+    # Cargamos las preguntas
+    preguntas = cargar_preguntas(tema)
+    
+    preguntas_examen = random.sample(preguntas, 25)
+    
+    aciertos = 0
+    fallos = 0
+    
+    #Comenzamos el examen  
+    inicio = datetime.datetime.now()
+    for i, p in enumerate(preguntas_examen):
+        limpiar_pantalla()
+        
+        # Mostramos el enunciado
+        print(f"\n{i+1}. {p.enunciado}")
+        
+        # Mezclamos las opciones
+        opciones_mezcladas = p.opciones[:]
+        random.shuffle(opciones_mezcladas)
+        
+        # Mostramos las opciones mezcladas
+        for j, op in enumerate(opciones_mezcladas):
+            print(f"\n    {j+1}. {op['texto']}")
+        
+        # Leemos la elección del usuario
+        while True:
+            try:
+                r = int(input("\nTu respuesta (1-4): ")) - 1
+                if 0 <= r < len(opciones_mezcladas):
+                    # Respuesta correcta. Salimos del bucle
+                    break
+                else:
+                    print("\nNúmero no válido.")
+            except ValueError:
+                print("\nEntrada no válida.")
+
+        # Comprobamos si la respuesta escogida es la correcta
+        if opciones_mezcladas[r]['correcta']:
+            print("\n¡Correcto!")
+            aciertos += 1
+        else:
+            correcta = next(op for op in p.opciones if op['correcta'])
+            print(f"\nIncorrecto.\n\nLa respuesta correcta es:\n{correcta['texto']}")
+            fallos += 1
+        pausa()
+    
+    # Calculamos los resultados y los mostramos
+    limpiar_pantalla()
+    fin = datetime.datetime.now()
+    duracion = fin - inicio
+    nota = round((aciertos - (fallos / 3)) / len(preguntas_examen), 2) * 10
+    
+    print(f"\nAciertos: {aciertos}.\nFallos: {fallos}.\nNota final: {nota}.\nTiempo: {duracion}")
+    
+    # Guardamos el examen
+    guardar_examen(preguntas, aciertos, fallos, nota, inicio, duracion)
+          
+
+def nuevo_examen_completo():
     preguntas = []
     
     # Sacamos el número de temas disponibles
@@ -105,35 +167,67 @@ def nuevo_examen():
     # Comenzamos el examen
     inicio = datetime.datetime.now()
     
+    contador_tema = 1
     for i, p in enumerate(preguntas):
         limpiar_pantalla()
+        
+        # Mostramos el tema correspondiente a la pregunta
+        if contador_tema <= PREGUNTAS_POR_TEMA:
+            print("\nTema 1. La Constitución española de 1978.")
+        elif contador_tema <= PREGUNTAS_POR_TEMA * 2:
+            print("\nTema 2. Estatutos de la universidad (I).")
+        elif contador_tema <= PREGUNTAS_POR_TEMA * 3:
+            print("\nTema 3. Estatutos de la universidad (II).")
+        elif contador_tema <= PREGUNTAS_POR_TEMA * 4:
+            print("\nTema 4. Estatutos de la universidad (III).")
+        elif contador_tema <= PREGUNTAS_POR_TEMA * 5:
+            print("\nTema 5. Ley 39/2015, 1 de octubre. Procedimiento Administrativo Común.")
+        elif contador_tema <= PREGUNTAS_POR_TEMA * 6:
+            print("\nTema 6. Estatuto básico del empleado público (I).")
+        elif contador_tema <= PREGUNTAS_POR_TEMA * 7:
+            print("\nTema 7. Estatuto básico del empleado público (II).")
+        elif contador_tema <= PREGUNTAS_POR_TEMA * 8:
+            print("\nTema 8. Estatuto básico del empleado público (III).")
+        elif contador_tema <= PREGUNTAS_POR_TEMA * 9:
+            print("\nTema 9. Acuerdo regulador de las condiciones de trabajo de la UEX (I).")
+        elif contador_tema <= PREGUNTAS_POR_TEMA * 10:
+            print("\nTema 10. Acuerdo regulador de las condiciones de trabajo de la UEX (II).")
+
+        
         
         # Mostramos el enunciado
         print(f"\n{i+1}. {p.enunciado}")
         
-        # Mostramos las opciones
-        for j, op in enumerate(p.opciones):
+        # Mezclamos las opciones
+        opciones_mezcladas = p.opciones[:]
+        random.shuffle(opciones_mezcladas)
+        
+        # Mostramos las opciones mezcladas
+        for j, op in enumerate(opciones_mezcladas):
             print(f"\n    {j+1}. {op['texto']}")
         
         # Leemos la elección del usuario
-        try:
-            r = int(input("\nTu respuesta (1-4): ")) - 1
-            if r < 0 or r >= len(p.opciones):
-                raise ValueError
-        except ValueError:
-            print("\nEntrada no válida. Se contará como incorrecta.")
-            fallos += 1
-            pausa()
-            continue
+        while True:
+            try:
+                r = int(input("\nTu respuesta (1-4): ")) - 1
+                if 0 <= r < len(opciones_mezcladas):
+                    # Respuesta correcta. Salimos del bucle
+                    break
+                else:
+                    print("\nNúmero no válido.")
+            except ValueError:
+                print("\nEntrada no válida.")
 
         # Comprobamos si la respuesta escogida es la correcta
-        if p.opciones[r]['correcta']:
+        if opciones_mezcladas[r]['correcta']:
             print("\n¡Correcto!")
             aciertos += 1
         else:
             correcta = next(op for op in p.opciones if op['correcta'])
             print(f"\nIncorrecto.\n\nLa respuesta correcta es:\n{correcta['texto']}")
             fallos += 1
+        
+        contador_tema += 1
         pausa()
     
     # Calculamos los resultados y los mostramos

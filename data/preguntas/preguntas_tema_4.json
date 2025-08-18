@@ -1,0 +1,2422 @@
+[
+    {
+        "id": 1,
+        "enunciado": "Según el Artículo 44, ¿qué fomentará la Universidad de Extremadura en la medida de sus posibilidades presupuestarias?",
+        "opciones": [
+            {
+                "texto": "La prestación de servicios orientados al desarrollo docente, investigador y actividades culturales, deportivas y de extensión universitaria",
+                "correcta": true
+            },
+            {
+                "texto": "La creación de nuevas titulaciones únicamente",
+                "correcta": false
+            },
+            {
+                "texto": "El aumento de las tasas académicas",
+                "correcta": false
+            },
+            {
+                "texto": "La reducción del personal administrativo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "enunciado": "¿Quién podrá gestionar los servicios universitarios según el Artículo 44?",
+        "opciones": [
+            {
+                "texto": "Los organismos universitarios o personas o entidades mediante convenios o contratos",
+                "correcta": true
+            },
+            {
+                "texto": "Solo la Universidad",
+                "correcta": false
+            },
+            {
+                "texto": "Solo empresas privadas",
+                "correcta": false
+            },
+            {
+                "texto": "Solo la Comunidad Autónoma",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "enunciado": "¿Cuál NO es una categoría de servicios universitarios según el Artículo 45?",
+        "opciones": [
+            {
+                "texto": "Servicios de apoyo a la docencia y a la investigación",
+                "correcta": false
+            },
+            {
+                "texto": "Servicios de asistencia a la Comunidad Universitaria y relaciones con la sociedad",
+                "correcta": false
+            },
+            {
+                "texto": "Servicios de apoyo y asesoramiento al Gobierno de la Universidad",
+                "correcta": false
+            },
+            {
+                "texto": "Servicios de mantenimiento de instalaciones deportivas",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "enunciado": "¿Quién tiene la competencia para la creación, reestructuración y supresión de los servicios universitarios según el Artículo 46?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "enunciado": "Según el Artículo 46.2, ¿qué deben especificar los acuerdos de creación de servicios universitarios?",
+        "opciones": [
+            {
+                "texto": "La dependencia orgánica y los medios personales y materiales asignados",
+                "correcta": true
+            },
+            {
+                "texto": "Solo los medios materiales asignados",
+                "correcta": false
+            },
+            {
+                "texto": "Solo el personal que trabajará en el servicio",
+                "correcta": false
+            },
+            {
+                "texto": "El presupuesto anual",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "enunciado": "¿Quién designa al Director de cada Servicio según el Artículo 47.1?",
+        "opciones": [
+            {
+                "texto": "El Rector, oído el Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Gobierno directamente",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro",
+                "correcta": false
+            },
+            {
+                "texto": "El propio Servicio",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "enunciado": "¿Qué deben presentar anualmente los Directores de los Servicios al Rector según el Artículo 47.2?",
+        "opciones": [
+            {
+                "texto": "Una memoria de su gestión y actividades",
+                "correcta": true
+            },
+            {
+                "texto": "Un informe financiero trimestral",
+                "correcta": false
+            },
+            {
+                "texto": "Un plan estratégico quinquenal",
+                "correcta": false
+            },
+            {
+                "texto": "Un informe de satisfacción de usuarios",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "enunciado": "¿Dónde se deposita una copia de la memoria anual presentada por los Directores según el Artículo 47.2?",
+        "opciones": [
+            {
+                "texto": "En la Secretaría General",
+                "correcta": true
+            },
+            {
+                "texto": "En la Biblioteca Universitaria",
+                "correcta": false
+            },
+            {
+                "texto": "En la Comunidad Universitaria",
+                "correcta": false
+            },
+            {
+                "texto": "En el Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "enunciado": "¿Qué función NO corresponde al Consejo Asesor de un Servicio según el Artículo 47.3?",
+        "opciones": [
+            {
+                "texto": "Emitir propuestas e informes para asesorar al Director",
+                "correcta": false
+            },
+            {
+                "texto": "Orientar la política general y presupuestaria del Servicio",
+                "correcta": false
+            },
+            {
+                "texto": "Elaborar el Reglamento de organización y funcionamiento del Servicio",
+                "correcta": false
+            },
+            {
+                "texto": "Nombrar al Director del Servicio",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "enunciado": "¿Quién aprueba el presupuesto elaborado por cada Servicio según el Artículo 47.4?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Director del Servicio",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Asesor",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "enunciado": "¿Qué debe reflejar el presupuesto de un Servicio cuando se derivan ingresos por precios públicos o tasas según el Artículo 47.5?",
+        "opciones": [
+            {
+                "texto": "La aportación de la Universidad, convenios firmados y los ingresos derivados de su actividad",
+                "correcta": true
+            },
+            {
+                "texto": "Solo los ingresos procedentes de tasas",
+                "correcta": false
+            },
+            {
+                "texto": "Solo la aportación de la Comunidad Autónoma",
+                "correcta": false
+            },
+            {
+                "texto": "Solo los gastos previstos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "enunciado": "¿Quién dicta las instrucciones necesarias para la gestión económica de los Servicios según el Artículo 47.6?",
+        "opciones": [
+            {
+                "texto": "La Gerencia de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Director del Servicio",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "enunciado": "¿Qué recursos puede disponer un Servicio para cumplir sus funciones según el Artículo 47.7?",
+        "opciones": [
+            {
+                "texto": "Medios propios asignados, colaboraciones, acuerdos o convenios y recursos propios generados por servicios externos",
+                "correcta": true
+            },
+            {
+                "texto": "Solo los medios asignados por la Universidad",
+                "correcta": false
+            },
+            {
+                "texto": "Solo aportaciones externas",
+                "correcta": false
+            },
+            {
+                "texto": "Solo recursos generados por precios públicos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "enunciado": "Según el Artículo 48, ¿qué debe incluir el Reglamento de organización y funcionamiento de los Servicios?",
+        "opciones": [
+            {
+                "texto": "Estructura, objetivos, ámbito, régimen de funcionamiento, características del personal, régimen económico, composición del Consejo asesor y cauces de participación",
+                "correcta": true
+            },
+            {
+                "texto": "Solo la estructura y objetivos",
+                "correcta": false
+            },
+            {
+                "texto": "Solo la composición del Consejo asesor",
+                "correcta": false
+            },
+            {
+                "texto": "Solo el régimen económico",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "enunciado": "¿Qué aspecto relacionado con el personal debe incluir el Reglamento según el Artículo 48.b?",
+        "opciones": [
+            {
+                "texto": "Las características del personal al que se encomienda la gestión del servicio",
+                "correcta": true
+            },
+            {
+                "texto": "Solo el número de empleados",
+                "correcta": false
+            },
+            {
+                "texto": "Los salarios de los empleados",
+                "correcta": false
+            },
+            {
+                "texto": "La formación académica del personal",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "enunciado": "¿Qué debe garantizarse a través de los cauces establecidos en el Reglamento según el Artículo 48.e?",
+        "opciones": [
+            {
+                "texto": "La participación de los usuarios",
+                "correcta": true
+            },
+            {
+                "texto": "La contratación de personal externo",
+                "correcta": false
+            },
+            {
+                "texto": "La recaudación de tasas",
+                "correcta": false
+            },
+            {
+                "texto": "La supervisión de la Comunidad Autónoma",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "enunciado": "¿Cuál es el objetivo principal de los servicios universitarios según el Artículo 44?",
+        "opciones": [
+            {
+                "texto": "Fomentar el desarrollo de funciones docentes, investigadoras y actividades culturales y sociales",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar exclusivamente la docencia",
+                "correcta": false
+            },
+            {
+                "texto": "Solo ofrecer servicios deportivos",
+                "correcta": false
+            },
+            {
+                "texto": "Gestionar la financiación de la Universidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "enunciado": "Según el Artículo 45, ¿cuáles son los servicios de apoyo al Gobierno de la Universidad?",
+        "opciones": [
+            {
+                "texto": "Servicios de apoyo y asesoramiento al Gobierno de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "Servicios administrativos exclusivamente",
+                "correcta": false
+            },
+            {
+                "texto": "Servicios técnicos de informática",
+                "correcta": false
+            },
+            {
+                "texto": "Servicios de mantenimiento",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "enunciado": "¿Qué papel juega el Consejo de Gobierno en relación con los Servicios universitarios según los artículos 46 y 47?",
+        "opciones": [
+            {
+                "texto": "Aprueba la creación, modifica reglamentos, aprueba presupuestos y escucha informes anuales",
+                "correcta": true
+            },
+            {
+                "texto": "Gestiona directamente los servicios",
+                "correcta": false
+            },
+            {
+                "texto": "Nomina a todo el personal de los servicios",
+                "correcta": false
+            },
+            {
+                "texto": "No tiene funciones en los servicios",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "enunciado": "¿Qué tipo de ingresos pueden reflejar los presupuestos de los Servicios según el Artículo 47.5?",
+        "opciones": [
+            {
+                "texto": "Ingresos por precios públicos o tasas, aportaciones universitarias y convenios",
+                "correcta": true
+            },
+            {
+                "texto": "Solo ingresos privados",
+                "correcta": false
+            },
+            {
+                "texto": "Solo ingresos por subvenciones estatales",
+                "correcta": false
+            },
+            {
+                "texto": "Solo ingresos por actividades deportivas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "enunciado": "¿Puede un Servicio contar con un Consejo Asesor según el Artículo 47.3?",
+        "opciones": [
+            {
+                "texto": "Sí, si lo establecen los Estatutos o el Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "No, nunca",
+                "correcta": false
+            },
+            {
+                "texto": "Sí, siempre que lo solicite el Director",
+                "correcta": false
+            },
+            {
+                "texto": "Solo si lo aprueba el Rector",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "enunciado": "¿Cuál es la finalidad del Consejo Asesor en los Servicios según el Artículo 47.3?",
+        "opciones": [
+            {
+                "texto": "Asesorar al Director, orientar políticas, elaborar reglamentos y proponer precios públicos",
+                "correcta": true
+            },
+            {
+                "texto": "Dirigir las actividades diarias del Servicio",
+                "correcta": false
+            },
+            {
+                "texto": "Gestionar el presupuesto directamente",
+                "correcta": false
+            },
+            {
+                "texto": "Contratar al personal del Servicio",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "enunciado": "¿Qué documento debe acompañar la creación de un servicio universitario según el Artículo 46?",
+        "opciones": [
+            {
+                "texto": "El Reglamento de organización y funcionamiento",
+                "correcta": true
+            },
+            {
+                "texto": "El contrato con proveedores",
+                "correcta": false
+            },
+            {
+                "texto": "La memoria económica",
+                "correcta": false
+            },
+            {
+                "texto": "El plan de estudios",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "enunciado": "¿Qué debe garantizarse mediante la estructura y régimen de funcionamiento en el Reglamento de Servicios según el Artículo 48.a?",
+        "opciones": [
+            {
+                "texto": "El correcto desempeño y organización del servicio",
+                "correcta": true
+            },
+            {
+                "texto": "El aumento del personal",
+                "correcta": false
+            },
+            {
+                "texto": "La reducción de costes",
+                "correcta": false
+            },
+            {
+                "texto": "La creación de nuevos servicios",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "enunciado": "Según el Artículo 47.3, ¿qué función tiene el Consejo Asesor en relación a los precios públicos?",
+        "opciones": [
+            {
+                "texto": "Proponer los precios públicos derivados de la actividad del Servicio",
+                "correcta": true
+            },
+            {
+                "texto": "Recaudar los precios públicos",
+                "correcta": false
+            },
+            {
+                "texto": "Determinar los precios sin propuestas",
+                "correcta": false
+            },
+            {
+                "texto": "No tiene ninguna función relacionada con precios públicos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "enunciado": "¿Quién depende orgánicamente de los Servicios básicos de apoyo a la docencia e investigación según el Artículo 49?",
+        "opciones": [
+            {
+                "texto": "El Rector o el Vicerrector en quien delegue",
+                "correcta": true
+            },
+            {
+                "texto": "El Decano de cada Facultad",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Ministerio de Educación",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "enunciado": "¿Cuál de los siguientes NO es un Servicio básico de apoyo a la docencia y la investigación según el Artículo 49?",
+        "opciones": [
+            {
+                "texto": "Servicio de Biblioteca, Archivos y Documentación",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio de Deportes",
+                "correcta": true
+            },
+            {
+                "texto": "Servicio de Gestión y Transferencia de Resultados de la Investigación",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio de Protección Radiológica",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "enunciado": "¿Qué unidades integran el Servicio de Biblioteca, Archivos y Documentación según el Artículo 50?",
+        "opciones": [
+            {
+                "texto": "Biblioteca Universitaria, Archivo Universitario y Unidad de Documentación",
+                "correcta": true
+            },
+            {
+                "texto": "Biblioteca Universitaria y Servicio de Deportes",
+                "correcta": false
+            },
+            {
+                "texto": "Archivo Universitario y Clínica Podológica",
+                "correcta": false
+            },
+            {
+                "texto": "Unidad de Documentación y Hospital Clínico Veterinario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "enunciado": "¿Cuál es la finalidad del Archivo Universitario según el Artículo 50?",
+        "opciones": [
+            {
+                "texto": "Integrar todos los documentos de cualquier naturaleza y soporte material",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar exclusivamente documentos digitales",
+                "correcta": false
+            },
+            {
+                "texto": "Solo conservar documentos históricos",
+                "correcta": false
+            },
+            {
+                "texto": "Supervisar la biblioteca universitaria",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "enunciado": "¿Qué función tiene la Unidad de Documentación según el Artículo 50?",
+        "opciones": [
+            {
+                "texto": "Realizar búsquedas retrospectivas y recuperar documentos originales",
+                "correcta": true
+            },
+            {
+                "texto": "Publicar libros y revistas científicas",
+                "correcta": false
+            },
+            {
+                "texto": "Gestionar la base de datos de investigadores",
+                "correcta": false
+            },
+            {
+                "texto": "Coordinar el servicio de informática",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "enunciado": "¿Quién debe ser el Director del Servicio de Biblioteca, Archivos y Documentación según el Artículo 50?",
+        "opciones": [
+            {
+                "texto": "Funcionario del Cuerpo o Escala de Facultativos de Archivos y Bibliotecas",
+                "correcta": true
+            },
+            {
+                "texto": "Profesor universitario",
+                "correcta": false
+            },
+            {
+                "texto": "Técnico informático",
+                "correcta": false
+            },
+            {
+                "texto": "Personal administrativo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "enunciado": "¿Cuál es la función principal del Servicio de Gestión y Transferencia de Resultados de la Investigación según el Artículo 51?",
+        "opciones": [
+            {
+                "texto": "Gestionar la actividad investigadora y la administración de fondos generados",
+                "correcta": true
+            },
+            {
+                "texto": "Supervisar la biblioteca universitaria",
+                "correcta": false
+            },
+            {
+                "texto": "Publicar revistas científicas",
+                "correcta": false
+            },
+            {
+                "texto": "Mantener material científico",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "enunciado": "¿Cuál de las siguientes funciones corresponde al Servicio de Gestión y Transferencia de Resultados de la Investigación según el Artículo 51?",
+        "opciones": [
+            {
+                "texto": "Identificar y difundir la oferta científica y técnica de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "Diseñar prototipos de equipamiento científico",
+                "correcta": false
+            },
+            {
+                "texto": "Gestionar el Archivo Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "Coordinar actividades deportivas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "enunciado": "¿Quién puede contratar trabajos en nombre de la Universidad para facilitar la transferencia de resultados según el Artículo 51?",
+        "opciones": [
+            {
+                "texto": "El Servicio de Gestión y Transferencia de Resultados de la Investigación",
+                "correcta": true
+            },
+            {
+                "texto": "El Servicio de Biblioteca",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "enunciado": "¿Qué debe gestionar el Servicio de Gestión y Transferencia de Resultados de la Investigación según el Artículo 51?",
+        "opciones": [
+            {
+                "texto": "Convenios, contratos y proyectos de investigación",
+                "correcta": true
+            },
+            {
+                "texto": "El personal de administración",
+                "correcta": false
+            },
+            {
+                "texto": "Los fondos bibliográficos",
+                "correcta": false
+            },
+            {
+                "texto": "Los laboratorios clínicos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "enunciado": "¿Qué tipo de base de datos debe mantener el Servicio de Gestión y Transferencia de Resultados de la Investigación según el Artículo 51?",
+        "opciones": [
+            {
+                "texto": "Base de datos de investigadores y grupos de investigación",
+                "correcta": true
+            },
+            {
+                "texto": "Base de datos de publicaciones",
+                "correcta": false
+            },
+            {
+                "texto": "Base de datos de estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "Base de datos de centros adscritos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "enunciado": "¿Qué función tiene el Servicio de Gestión y Transferencia de Resultados respecto a la propiedad industrial según el Artículo 51?",
+        "opciones": [
+            {
+                "texto": "Gestionar los derechos de propiedad industrial de los resultados de investigación",
+                "correcta": true
+            },
+            {
+                "texto": "Publicar patentes directamente",
+                "correcta": false
+            },
+            {
+                "texto": "Vender propiedad intelectual",
+                "correcta": false
+            },
+            {
+                "texto": "No tiene función en propiedad industrial",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "enunciado": "¿Qué gestiona el Servicio de Publicaciones según el Artículo 52?",
+        "opciones": [
+            {
+                "texto": "La edición, comercialización e intercambio de publicaciones en diversos soportes",
+                "correcta": true
+            },
+            {
+                "texto": "La gestión de material científico",
+                "correcta": false
+            },
+            {
+                "texto": "La administración de la biblioteca",
+                "correcta": false
+            },
+            {
+                "texto": "La coordinación de los servicios informáticos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "enunciado": "¿Qué requisito deben cumplir las publicaciones científicas en las que figure la Universidad como editor según el Artículo 52?",
+        "opciones": [
+            {
+                "texto": "Contar con la aprobación del Consejo Asesor del Servicio de Publicaciones",
+                "correcta": true
+            },
+            {
+                "texto": "Ser aprobadas por el Rector",
+                "correcta": false
+            },
+            {
+                "texto": "Ser financiadas por el Ministerio",
+                "correcta": false
+            },
+            {
+                "texto": "Ser revisadas por los estudiantes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "enunciado": "¿Con qué tipo de personal contará el Servicio de Publicaciones para su funcionamiento según el Artículo 52?",
+        "opciones": [
+            {
+                "texto": "Asesores técnicos y personal de apoyo",
+                "correcta": true
+            },
+            {
+                "texto": "Solo personal administrativo",
+                "correcta": false
+            },
+            {
+                "texto": "Solo docentes",
+                "correcta": false
+            },
+            {
+                "texto": "Estudiantes en prácticas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "enunciado": "¿Cuál es la finalidad básica del Servicio de Informática según el Artículo 53?",
+        "opciones": [
+            {
+                "texto": "Dar soporte a la docencia, investigación y gestión administrativa",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar los libros de la biblioteca",
+                "correcta": false
+            },
+            {
+                "texto": "Coordinar actividades deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Gestionar publicaciones científicas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "enunciado": "¿Cómo está estructurado el Servicio de Informática según el Artículo 53?",
+        "opciones": [
+            {
+                "texto": "En Unidades técnicas con responsables por unidad",
+                "correcta": true
+            },
+            {
+                "texto": "En departamentos independientes sin coordinación",
+                "correcta": false
+            },
+            {
+                "texto": "Solo como una unidad central sin divisiones",
+                "correcta": false
+            },
+            {
+                "texto": "En equipos externos contratados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "enunciado": "¿Qué tipo de funcionario puede ser Director del Servicio de Informática según el Artículo 53?",
+        "opciones": [
+            {
+                "texto": "Funcionario del Grupo A o laboral del Grupo I",
+                "correcta": true
+            },
+            {
+                "texto": "Funcionario del cuerpo de bibliotecarios",
+                "correcta": false
+            },
+            {
+                "texto": "Cualquier personal administrativo",
+                "correcta": false
+            },
+            {
+                "texto": "Estudiantes avanzados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "enunciado": "¿Cuál es la función principal del Servicio de Mantenimiento de Material Científico según el Artículo 54?",
+        "opciones": [
+            {
+                "texto": "Diagnóstico, asesoramiento y reparación del equipamiento científico técnico",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar el archivo universitario",
+                "correcta": false
+            },
+            {
+                "texto": "Coordinar actividades de investigación",
+                "correcta": false
+            },
+            {
+                "texto": "Publicar resultados científicos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "enunciado": "¿Qué tipo de actividades realiza el Servicio de Mantenimiento de Material Científico además de reparación según el Artículo 54?",
+        "opciones": [
+            {
+                "texto": "Asesoramiento y diseño de prototipos de complejidad asequible",
+                "correcta": true
+            },
+            {
+                "texto": "Edición de publicaciones científicas",
+                "correcta": false
+            },
+            {
+                "texto": "Organización de eventos culturales",
+                "correcta": false
+            },
+            {
+                "texto": "Gestión de bases de datos de investigadores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "enunciado": "¿El Servicio de Biblioteca, Archivos y Documentación debe contar con qué órgano según el Artículo 50?",
+        "opciones": [
+            {
+                "texto": "Consejo Asesor",
+                "correcta": true
+            },
+            {
+                "texto": "Consejo Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "Comité de Docencia",
+                "correcta": false
+            },
+            {
+                "texto": "Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "enunciado": "¿Qué debe incluir el presupuesto anual respecto al Servicio de Biblioteca, Archivos y Documentación según el Artículo 50?",
+        "opciones": [
+            {
+                "texto": "Un crédito global para el fondo bibliográfico y documental",
+                "correcta": true
+            },
+            {
+                "texto": "Fondos para el Servicio de Informática",
+                "correcta": false
+            },
+            {
+                "texto": "Fondos para el Servicio de Publicaciones",
+                "correcta": false
+            },
+            {
+                "texto": "Un fondo para actividades deportivas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "enunciado": "¿Qué relación tiene el Servicio de Gestión y Transferencia de Resultados de la Investigación con las convocatorias públicas según el Artículo 51?",
+        "opciones": [
+            {
+                "texto": "Informar a investigadores y grupos sobre convocatorias públicas de financiación",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar las candidaturas a cargos académicos",
+                "correcta": false
+            },
+            {
+                "texto": "Supervisar exámenes oficiales",
+                "correcta": false
+            },
+            {
+                "texto": "No tiene relación con convocatorias públicas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "enunciado": "¿Qué tipo de publicaciones gestiona el Servicio de Publicaciones según el Artículo 52?",
+        "opciones": [
+            {
+                "texto": "Libros, revistas y cualquier otro tipo en soporte impreso, magnético o similar",
+                "correcta": true
+            },
+            {
+                "texto": "Solo revistas digitales",
+                "correcta": false
+            },
+            {
+                "texto": "Solo libros impresos",
+                "correcta": false
+            },
+            {
+                "texto": "Material audiovisual",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "enunciado": "¿Quién designa a los responsables de las Unidades técnicas del Servicio de Informática según el Artículo 53?",
+        "opciones": [
+            {
+                "texto": "El Director del Servicio de Informática",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": false
+            },
+            {
+                "texto": "El Vicerrector de Investigación",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "enunciado": "¿Cuál es la finalidad básica del Servicio de Protección Radiológica según el Artículo 55?",
+        "opciones": [
+            {
+                "texto": "Gestionar la biblioteca universitaria",
+                "correcta": false
+            },
+            {
+                "texto": "Aplicar la normativa general de Protección Radiológica y vigilar al personal expuesto",
+                "correcta": true
+            },
+            {
+                "texto": "Coordinar actividades deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Supervisar la alimentación en la universidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "enunciado": "¿Qué función tiene el Servicio de Protección Radiológica en relación con los residuos radiactivos?",
+        "opciones": [
+            {
+                "texto": "Ignorar los residuos radiactivos",
+                "correcta": false
+            },
+            {
+                "texto": "Almacenar residuos radiactivos indefinidamente",
+                "correcta": false
+            },
+            {
+                "texto": "Vigilar la recogida para su adecuado tratamiento y evacuación",
+                "correcta": true
+            },
+            {
+                "texto": "Donar residuos a otros organismos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "enunciado": "¿Quién debe mantener los historiales dosimétricos individuales de los trabajadores expuestos a radiaciones según el Artículo 55?",
+        "opciones": [
+            {
+                "texto": "El personal del Servicio de Biblioteca",
+                "correcta": false
+            },
+            {
+                "texto": "El Servicio de Protección Radiológica",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "enunciado": "¿Qué formación debe tener el personal del Servicio de Protección Radiológica?",
+        "opciones": [
+            {
+                "texto": "Formación en Derecho",
+                "correcta": false
+            },
+            {
+                "texto": "Formación específica en Protección Radiológica",
+                "correcta": true
+            },
+            {
+                "texto": "Formación en Informática",
+                "correcta": false
+            },
+            {
+                "texto": "No necesita formación específica",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "enunciado": "¿Qué tipo de servicio es el Animalario de la Universidad de Extremadura según el Artículo 56?",
+        "opciones": [
+            {
+                "texto": "Servicio de cría, suministro y uso de animales de experimentación",
+                "correcta": true
+            },
+            {
+                "texto": "Servicio de biblioteca especializada",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio de mantenimiento de infraestructuras",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio de informática",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "enunciado": "¿Qué profesional debe contar el Animalario para cumplir la normativa vigente?",
+        "opciones": [
+            {
+                "texto": "Técnico superior Veterinario",
+                "correcta": true
+            },
+            {
+                "texto": "Doctor en Medicina",
+                "correcta": false
+            },
+            {
+                "texto": "Ingeniero Agrónomo",
+                "correcta": false
+            },
+            {
+                "texto": "Biólogo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "enunciado": "¿Qué tipo de formación debe tener el personal técnico del Animalario?",
+        "opciones": [
+            {
+                "texto": "Formación obligatoria y específica sobre el animal de experimentación",
+                "correcta": true
+            },
+            {
+                "texto": "Formación en administración",
+                "correcta": false
+            },
+            {
+                "texto": "Formación en informática",
+                "correcta": false
+            },
+            {
+                "texto": "No requiere formación específica",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "enunciado": "¿Cuál es la finalidad principal del Hospital Clínico Veterinario según el Artículo 57?",
+        "opciones": [
+            {
+                "texto": "Atender a estudiantes de medicina",
+                "correcta": false
+            },
+            {
+                "texto": "Facilitar la actividad docente e investigadora y prestar servicios de atención veterinaria a la sociedad",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar actividades deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Organizar conferencias científicas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "enunciado": "¿Quién puede ser Director del Hospital Clínico Veterinario?",
+        "opciones": [
+            {
+                "texto": "Funcionario no universitario",
+                "correcta": false
+            },
+            {
+                "texto": "Licenciado en Veterinaria con grado de doctor y que desarrolle actividad en el Hospital",
+                "correcta": true
+            },
+            {
+                "texto": "Estudiante de veterinaria",
+                "correcta": false
+            },
+            {
+                "texto": "Profesional externo sin vinculación universitaria",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "enunciado": "¿Qué aportaciones materiales pueden apoyar al Hospital Clínico Veterinario en sus funciones?",
+        "opciones": [
+            {
+                "texto": "Aportaciones de empresas privadas",
+                "correcta": false
+            },
+            {
+                "texto": "Aportaciones de los Departamentos con personal adscrito al Hospital",
+                "correcta": true
+            },
+            {
+                "texto": "Sólo aportaciones de la Gerencia",
+                "correcta": false
+            },
+            {
+                "texto": "No se permiten aportaciones externas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "enunciado": "¿Cuál es la finalidad de la Clínica Podológica Universitaria según el Artículo 58?",
+        "opciones": [
+            {
+                "texto": "Formar estudiantes y prestar servicios podológicos a la sociedad",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar actividades deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Coordinar actividades culturales",
+                "correcta": false
+            },
+            {
+                "texto": "Administrar la universidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "enunciado": "¿Qué título debe tener el Director de la Clínica Podológica Universitaria?",
+        "opciones": [
+            {
+                "texto": "Diplomado en Podología",
+                "correcta": true
+            },
+            {
+                "texto": "Licenciado en Medicina",
+                "correcta": false
+            },
+            {
+                "texto": "Ingeniero Técnico",
+                "correcta": false
+            },
+            {
+                "texto": "Biólogo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "enunciado": "¿Qué condición debe reunir el Director de la Clínica Podológica Universitaria además de ser Diplomado en Podología?",
+        "opciones": [
+            {
+                "texto": "Ser funcionario de los Cuerpos Docentes universitarios",
+                "correcta": true
+            },
+            {
+                "texto": "Ser estudiante avanzado",
+                "correcta": false
+            },
+            {
+                "texto": "No requiere ninguna condición adicional",
+                "correcta": false
+            },
+            {
+                "texto": "Ser externo a la universidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "enunciado": "¿Qué servicio tiene como función asesorar a los Departamentos en la adquisición de material radiactivo y equipos generadores de radiaciones ionizantes?",
+        "opciones": [
+            {
+                "texto": "Servicio de Informática",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio de Protección Radiológica",
+                "correcta": true
+            },
+            {
+                "texto": "Servicio de Biblioteca",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio de Mantenimiento",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "enunciado": "¿Quién debe investigar las causas de anomalías e incidencias radiológicas en la Universidad?",
+        "opciones": [
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio de Protección Radiológica",
+                "correcta": true
+            },
+            {
+                "texto": "Servicio de Biblioteca",
+                "correcta": false
+            },
+            {
+                "texto": "Consejo de Gobierno",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "enunciado": "¿Qué debe incluir el Servicio de Protección Radiológica en la documentación para instalaciones radiactivas?",
+        "opciones": [
+            {
+                "texto": "Sólo la autorización inicial",
+                "correcta": false
+            },
+            {
+                "texto": "Documentación para puesta en marcha, modificación y clausura",
+                "correcta": true
+            },
+            {
+                "texto": "Sólo registros históricos",
+                "correcta": false
+            },
+            {
+                "texto": "No necesita documentación",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "enunciado": "¿Qué servicio debe contar con un Consejo Asesor según los Artículos 56, 57 y 58?",
+        "opciones": [
+            {
+                "texto": "Animalario",
+                "correcta": true
+            },
+            {
+                "texto": "Servicio de Biblioteca",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio de Mantenimiento",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguno de los anteriores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "enunciado": "¿Qué tipo de animales gestiona el Animalario de la Universidad?",
+        "opciones": [
+            {
+                "texto": "Animales de experimentación",
+                "correcta": true
+            },
+            {
+                "texto": "Animales domésticos",
+                "correcta": false
+            },
+            {
+                "texto": "Animales salvajes",
+                "correcta": false
+            },
+            {
+                "texto": "Animales marinos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "enunciado": "¿Qué servicio presta atención a la prevención, detección y tratamiento de problemas podológicos?",
+        "opciones": [
+            {
+                "texto": "Clínica Podológica Universitaria",
+                "correcta": true
+            },
+            {
+                "texto": "Hospital Clínico Veterinario",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio de Biblioteca",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio de Protección Radiológica",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "enunciado": "¿Qué tipo de actividades facilita el Hospital Clínico Veterinario?",
+        "opciones": [
+            {
+                "texto": "Actividades docentes e investigadoras",
+                "correcta": true
+            },
+            {
+                "texto": "Actividades deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Actividades administrativas",
+                "correcta": false
+            },
+            {
+                "texto": "Actividades culturales",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "enunciado": "¿Qué debe hacer el Servicio de Protección Radiológica con la documentación sobre vigilancia y personal expuesto?",
+        "opciones": [
+            {
+                "texto": "Archivarla internamente sin más",
+                "correcta": false
+            },
+            {
+                "texto": "Registrar y enviar a los organismos competentes en protección radiológica",
+                "correcta": true
+            },
+            {
+                "texto": "Eliminarla después de un año",
+                "correcta": false
+            },
+            {
+                "texto": "Compartirla públicamente",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "enunciado": "¿Qué actividades incluyen los servicios que presta el Hospital Clínico Veterinario a la sociedad?",
+        "opciones": [
+            {
+                "texto": "Servicios clínicos, diagnóstico y análisis",
+                "correcta": true
+            },
+            {
+                "texto": "Sólo servicios administrativos",
+                "correcta": false
+            },
+            {
+                "texto": "Servicios de biblioteca",
+                "correcta": false
+            },
+            {
+                "texto": "Servicios de transporte",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "enunciado": "¿Qué debe tener el Director del Hospital Clínico Veterinario además de su titulación y grado?",
+        "opciones": [
+            {
+                "texto": "Desarrollar su actividad en el Hospital Clínico Veterinario",
+                "correcta": true
+            },
+            {
+                "texto": "Ser externo a la Universidad",
+                "correcta": false
+            },
+            {
+                "texto": "Ser estudiante avanzado",
+                "correcta": false
+            },
+            {
+                "texto": "No necesita cumplir ninguna condición adicional",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "enunciado": "¿Qué documentos debe mantener el Servicio de Protección Radiológica respecto al material radiactivo y equipos generadores de radiaciones ionizantes?",
+        "opciones": [
+            {
+                "texto": "Registros de recepción y funcionamiento",
+                "correcta": true
+            },
+            {
+                "texto": "Documentos de identidad del personal",
+                "correcta": false
+            },
+            {
+                "texto": "Sólo informes anuales",
+                "correcta": false
+            },
+            {
+                "texto": "No debe mantener documentos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "enunciado": "¿Qué consejo debe tener el Hospital Clínico Veterinario?",
+        "opciones": [
+            {
+                "texto": "Consejo Asesor",
+                "correcta": true
+            },
+            {
+                "texto": "Consejo Estudiantil",
+                "correcta": false
+            },
+            {
+                "texto": "Consejo Administrativo",
+                "correcta": false
+            },
+            {
+                "texto": "No necesita consejo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "enunciado": "¿Qué finalidad tiene la elaboración de documentación por parte del Servicio de Protección Radiológica para instalaciones radiactivas?",
+        "opciones": [
+            {
+                "texto": "Puesta en marcha, modificación y clausura",
+                "correcta": true
+            },
+            {
+                "texto": "Sólo para la puesta en marcha",
+                "correcta": false
+            },
+            {
+                "texto": "Sólo para la clausura",
+                "correcta": false
+            },
+            {
+                "texto": "No es necesaria la documentación",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "enunciado": "¿Qué debe garantizar el técnico superior veterinario en el Animalario según el Artículo 56?",
+        "opciones": [
+            {
+                "texto": "Cumplimiento de la normativa vigente para cría y uso de animales de experimentación",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar recursos humanos",
+                "correcta": false
+            },
+            {
+                "texto": "Coordinar actividades deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Supervisar la biblioteca",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "enunciado": "¿Qué tipo de formación debe tener el personal técnico del Animalario?",
+        "opciones": [
+            {
+                "texto": "Formación obligatoria y específica sobre el animal de experimentación",
+                "correcta": true
+            },
+            {
+                "texto": "Formación en ciencias sociales",
+                "correcta": false
+            },
+            {
+                "texto": "Formación en ingeniería",
+                "correcta": false
+            },
+            {
+                "texto": "Sin formación requerida",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "enunciado": "¿Qué tipo de servicio es la Clínica Podológica Universitaria según el Artículo 58?",
+        "opciones": [
+            {
+                "texto": "Servicio docente, investigador y de atención podológica",
+                "correcta": true
+            },
+            {
+                "texto": "Servicio deportivo",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio administrativo",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio de mantenimiento",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "enunciado": "¿Qué tipo de formación tienen los directores de los servicios de la Clínica Podológica y el Hospital Clínico Veterinario?",
+        "opciones": [
+            {
+                "texto": "Son funcionarios docentes vinculados a su respectivo servicio",
+                "correcta": true
+            },
+            {
+                "texto": "Son empleados administrativos",
+                "correcta": false
+            },
+            {
+                "texto": "No tienen formación específica",
+                "correcta": false
+            },
+            {
+                "texto": "Son externos a la universidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "enunciado": "¿Cuál de los siguientes servicios NO es considerado un servicio básico de asistencia a la Comunidad Universitaria según el Artículo 59?",
+        "opciones": [
+            {
+                "texto": "Servicio de Actividades Físicas y Deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio de Actividades Culturales",
+                "correcta": false
+            },
+            {
+                "texto": "Servicio de Biblioteca",
+                "correcta": true
+            },
+            {
+                "texto": "Servicio de Acción Social y Asistencial",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "enunciado": "¿Qué debe especificar el acuerdo de creación de un servicio de asistencia a la Comunidad Universitaria según el Artículo 59?",
+        "opciones": [
+            {
+                "texto": "El presupuesto anual del servicio",
+                "correcta": false
+            },
+            {
+                "texto": "Si el servicio será prestado por la Universidad o mediante concesión, gestión interesada, concierto o sociedad de economía mixta",
+                "correcta": true
+            },
+            {
+                "texto": "La plantilla de empleados",
+                "correcta": false
+            },
+            {
+                "texto": "El horario de atención al público",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "enunciado": "Según el Artículo 59, ¿qué tipo de servicios dispondrá la Universidad de Extremadura para la Comunidad Universitaria en la medida de sus posibilidades?",
+        "opciones": [
+            {
+                "texto": "Servicios de transporte y alojamiento",
+                "correcta": false
+            },
+            {
+                "texto": "Servicios de comedores, guarderías y similares",
+                "correcta": true
+            },
+            {
+                "texto": "Servicios de biblioteca y archivos",
+                "correcta": false
+            },
+            {
+                "texto": "Servicios de informática y comunicaciones",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "enunciado": "¿Cuál es la finalidad principal del Servicio de Actividades Físicas y Deportivas según el Artículo 60?",
+        "opciones": [
+            {
+                "texto": "Organizar eventos culturales",
+                "correcta": false
+            },
+            {
+                "texto": "Promocionar las actividades físicas y deportivas entre la Comunidad Universitaria",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar residencias universitarias",
+                "correcta": false
+            },
+            {
+                "texto": "Coordinar la seguridad en eventos deportivos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "enunciado": "¿Con qué órgano contará el Servicio de Actividades Físicas y Deportivas según el Artículo 60?",
+        "opciones": [
+            {
+                "texto": "Consejo Asesor",
+                "correcta": true
+            },
+            {
+                "texto": "Consejo Estudiantil",
+                "correcta": false
+            },
+            {
+                "texto": "Comisión de Seguridad",
+                "correcta": false
+            },
+            {
+                "texto": "Junta Directiva",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "enunciado": "¿Cuál es el principal objetivo del Servicio de Actividades Culturales según el Artículo 61?",
+        "opciones": [
+            {
+                "texto": "Promocionar la actividad deportiva",
+                "correcta": false
+            },
+            {
+                "texto": "Facilitar la participación y acceso a la cultura y extender la proyección cultural de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar residencias universitarias",
+                "correcta": false
+            },
+            {
+                "texto": "Organizar conferencias académicas exclusivamente",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "enunciado": "¿Con qué tipo de entidades coordinará el Servicio de Actividades Culturales sus actividades según el Artículo 61?",
+        "opciones": [
+            {
+                "texto": "Sólo con entidades deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Con otras instituciones en los diferentes campos del conocimiento y creatividad artística",
+                "correcta": true
+            },
+            {
+                "texto": "Sólo con entidades gubernamentales",
+                "correcta": false
+            },
+            {
+                "texto": "Sólo con asociaciones estudiantiles",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "enunciado": "¿Qué finalidad tiene el Servicio de Acción Social y Asistencial según el Artículo 62?",
+        "opciones": [
+            {
+                "texto": "Mejorar condiciones laborales, sociales y de vida de la Comunidad Universitaria mediante prestaciones compensatorias",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar actividades deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Coordinar eventos culturales",
+                "correcta": false
+            },
+            {
+                "texto": "Administrar residencias universitarias",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "enunciado": "¿Qué tipo de apoyo podrá tener el Servicio de Acción Social y Asistencial según el Artículo 62?",
+        "opciones": [
+            {
+                "texto": "Colaboración de asesores técnicos",
+                "correcta": true
+            },
+            {
+                "texto": "Soporte financiero externo",
+                "correcta": false
+            },
+            {
+                "texto": "Apoyo de estudiantes voluntarios",
+                "correcta": false
+            },
+            {
+                "texto": "Asistencia legal",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "enunciado": "¿Qué función tiene la Comisión de Acción Social mencionada en el Artículo 62?",
+        "opciones": [
+            {
+                "texto": "Elaborar y desarrollar los Planes Plurianuales de Acción Social",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar las residencias universitarias",
+                "correcta": false
+            },
+            {
+                "texto": "Organizar actividades deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Coordinar la biblioteca universitaria",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "enunciado": "¿Cuál es la finalidad adicional de las Residencias y Colegios Mayores Universitarios según el Artículo 63.1?",
+        "opciones": [
+            {
+                "texto": "Solo ofrecer alojamiento a estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "Cooperar con los demás Centros de la Universidad en el desarrollo integral de estudiantes y graduados",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar actividades culturales exclusivamente",
+                "correcta": false
+            },
+            {
+                "texto": "Proveer servicios de comedor",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "enunciado": "¿Quién corresponde la creación de Residencias y Colegios Mayores Universitarios según el Artículo 63.2?",
+        "opciones": [
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social, a propuesta del Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Colegiales o Residentes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "enunciado": "¿Quién nombra a los Directores de las Residencias y Colegios Mayores propios según el Artículo 63.2?",
+        "opciones": [
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector, previo informe del Consejo de Gobierno y oído el Consejo de Colegiales o Residentes",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Colegiales o Residentes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "enunciado": "¿Qué requisito debe cumplir el Director de un Colegio Mayor o Residencia según el Artículo 63.5?",
+        "opciones": [
+            {
+                "texto": "Debe residir en el propio Colegio Mayor o Residencia",
+                "correcta": true
+            },
+            {
+                "texto": "Debe ser un estudiante avanzado",
+                "correcta": false
+            },
+            {
+                "texto": "Debe ser designado por los colegiales",
+                "correcta": false
+            },
+            {
+                "texto": "Debe tener experiencia previa en gestión hostelera",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "enunciado": "¿Quién debe aprobar el reglamento de composición y funciones del Consejo de Colegiales o Residentes según el Artículo 63.2?",
+        "opciones": [
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Colegiales o Residentes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "enunciado": "¿Qué organismo reconoce las Residencias y Colegios Mayores que no sean propios según el Artículo 63.3?",
+        "opciones": [
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "La Junta de Extremadura",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "enunciado": "¿Quién debe aprobar la creación de las Residencias y Colegios Mayores Universitarios según el Artículo 63.4?",
+        "opciones": [
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": false
+            },
+            {
+                "texto": "La Junta de Extremadura",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "enunciado": "¿Cuál es la finalidad principal de la Residencia V Centenario de Jarandilla de la Vera según el Artículo 64.1?",
+        "opciones": [
+            {
+                "texto": "Alojamiento exclusivo para estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "Celebración de actividades docentes, investigadoras, culturales o recreativas promovidas o patrocinadas por la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "Centro deportivo universitario",
+                "correcta": false
+            },
+            {
+                "texto": "Centro de conferencias para el Ayuntamiento",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "enunciado": "¿Quién forma parte del Patronato de la Residencia V Centenario de Jarandilla de la Vera según el Artículo 64.2?",
+        "opciones": [
+            {
+                "texto": "Representantes de la Universidad, Ayuntamiento de Jarandilla y la Fundación «La Soledad y San Manuel»",
+                "correcta": true
+            },
+            {
+                "texto": "Solo representantes de la Universidad",
+                "correcta": false
+            },
+            {
+                "texto": "Solo representantes del Ayuntamiento",
+                "correcta": false
+            },
+            {
+                "texto": "Representantes del Consejo Social y Rector",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "enunciado": "¿Quién nombra al Director de la Residencia V Centenario según el Artículo 64.3?",
+        "opciones": [
+            {
+                "texto": "El Patronato exclusivamente",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector, oído el Consejo de Gobierno y el Patronato de la Fundación",
+                "correcta": true
+            },
+            {
+                "texto": "El Ayuntamiento de Jarandilla",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "enunciado": "¿Qué especial atención prestará la Universidad según el Artículo 64.4 en relación con la Residencia V Centenario de Jarandilla de la Vera?",
+        "opciones": [
+            {
+                "texto": "Demandas de naturaleza cultural hechas por la villa de Jarandilla de la Vera",
+                "correcta": true
+            },
+            {
+                "texto": "Demandas de alojamiento para estudiantes extranjeros",
+                "correcta": false
+            },
+            {
+                "texto": "Demandas económicas del Ayuntamiento",
+                "correcta": false
+            },
+            {
+                "texto": "Demandas deportivas de la Universidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "enunciado": "¿Cuáles son servicios básicos de apoyo y asesoramiento al gobierno de la Universidad según el Artículo 65?",
+        "opciones": [
+            {
+                "texto": "Servicio de Inspección y cualesquiera otros que se creen",
+                "correcta": true
+            },
+            {
+                "texto": "Servicios de comedor y alojamiento",
+                "correcta": false
+            },
+            {
+                "texto": "Servicios deportivos y culturales",
+                "correcta": false
+            },
+            {
+                "texto": "Servicios de biblioteca y archivos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "enunciado": "¿Cuál es el objetivo básico del Servicio de Inspección según el Artículo 66.1?",
+        "opciones": [
+            {
+                "texto": "Comprobar el correcto funcionamiento de servicios y unidades y proponer medidas para asegurar cumplimiento del período lectivo y tareas tutoriales",
+                "correcta": true
+            },
+            {
+                "texto": "Organizar actividades deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Gestionar residencias universitarias",
+                "correcta": false
+            },
+            {
+                "texto": "Supervisar servicios de comedor",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "enunciado": "¿Bajo cuya dependencia directa se realizarán las tareas de seguimiento y control general de la disciplina académica según el Artículo 66.1?",
+        "opciones": [
+            {
+                "texto": "El Rector",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": false
+            },
+            {
+                "texto": "El Director del Servicio de Inspección",
+                "correcta": false
+            },
+            {
+                "texto": "El Vicerrector Académico",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "enunciado": "¿Qué debe presentar anualmente el Director del Servicio de Inspección al Rector según el Artículo 66.2?",
+        "opciones": [
+            {
+                "texto": "Un plan de actuaciones para su aprobación",
+                "correcta": true
+            },
+            {
+                "texto": "Un informe financiero",
+                "correcta": false
+            },
+            {
+                "texto": "Un plan de actividades deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Un calendario de actividades culturales",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "enunciado": "¿Cuándo se podrán llevar a cabo inspecciones extraordinarias según el Artículo 66.2?",
+        "opciones": [
+            {
+                "texto": "Cuando se considere conveniente",
+                "correcta": true
+            },
+            {
+                "texto": "Solo al inicio de cada curso académico",
+                "correcta": false
+            },
+            {
+                "texto": "Solo al final del curso académico",
+                "correcta": false
+            },
+            {
+                "texto": "Cuando lo solicite el Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "enunciado": "¿Qué incluye la Memoria anual presentada por el Servicio de Inspección según el Artículo 66.3?",
+        "opciones": [
+            {
+                "texto": "Resumen de actuaciones del Plan de Actuación y las informaciones reservadas, expedientes disciplinarios e informes encomendados por el Rector",
+                "correcta": true
+            },
+            {
+                "texto": "Informe financiero detallado",
+                "correcta": false
+            },
+            {
+                "texto": "Plan de actividades deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Listado de estudiantes sancionados exclusivamente",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "enunciado": "¿Quién aprueba el reglamento de funcionamiento de la Residencia V Centenario según el Artículo 64.2?",
+        "opciones": [
+            {
+                "texto": "El Patronato",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "La Junta de Extremadura",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "enunciado": "¿Quién nombra al Administrador de las Residencias y Colegios Mayores propios según el Artículo 63.2?",
+        "opciones": [
+            {
+                "texto": "El Director a propuesta del Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector a propuesta del Director y de acuerdo con la legislación vigente",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Colegiales o Residentes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "enunciado": "¿A qué personal debe pertenecer el Administrador de las Residencias y Colegios Mayores según el Artículo 63.2?",
+        "opciones": [
+            {
+                "texto": "Personal docente",
+                "correcta": false
+            },
+            {
+                "texto": "Personal de Administración y Servicios de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "Personal externo contratado",
+                "correcta": false
+            },
+            {
+                "texto": "Estudiantes voluntarios",
+                "correcta": false
+            }
+        ]
+    }
+]
