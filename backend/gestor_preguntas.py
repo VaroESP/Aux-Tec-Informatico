@@ -81,7 +81,6 @@ def agregar_pregunta():
             
     print("\nPregunta/s añadida/s correctamente.")
 
-# EN EDICIÓN
 def importar_preguntas():
     # Cargamos las preguntas del tema
     tema = int(input("\nNúmero del tema: "))
@@ -108,6 +107,6 @@ def importar_preguntas():
     todas = preguntas + nuevas_preguntas
     
     guardar_preguntas(todas, tema)
-        
+    
     print("\nSe han importado todas las preguntas.")
     

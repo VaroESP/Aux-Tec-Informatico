@@ -3188,5 +3188,2315 @@
                 "correcta": false
             }
         ]
+    },
+    {
+        "id": 146,
+        "enunciado": "¿Cuál es la principal diferencia en el procedimiento de creación entre un Centro propio y un Centro adscrito?",
+        "opciones": [
+            {
+                "texto": "El Centro propio lo crea la Universidad, mientras que el adscrito requiere convenio con entidad promotora",
+                "correcta": true
+            },
+            {
+                "texto": "Ambos dependen exclusivamente del Consejo de Gobierno",
+                "correcta": false
+            },
+            {
+                "texto": "El Centro adscrito siempre lo aprueba el Rector, mientras que el propio lo hace la Junta de Extremadura",
+                "correcta": false
+            },
+            {
+                "texto": "El Centro propio se reconoce por convenio, y el adscrito por decisión unilateral de la Universidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "enunciado": "En relación con los Directores, ¿qué tienen en común los de Departamentos y los de Institutos Universitarios de Investigación?",
+        "opciones": [
+            {
+                "texto": "Ambos son nombrados por el Rector tras elección en sus respectivos Consejos",
+                "correcta": true
+            },
+            {
+                "texto": "Ambos son designados directamente por el Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "Ambos requieren ser Catedráticos de Universidad",
+                "correcta": false
+            },
+            {
+                "texto": "Ambos deben residir obligatoriamente en el campus donde esté ubicado su centro",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "enunciado": "¿Qué órgano tiene la competencia de aprobar la creación de un Instituto Universitario de Investigación propio?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno, con aprobación de la Junta de Extremadura",
+                "correcta": true
+            },
+            {
+                "texto": "Exclusivamente el Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social, de manera autónoma",
+                "correcta": false
+            },
+            {
+                "texto": "El Patronato del Instituto correspondiente",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "enunciado": "¿Cuál de las siguientes funciones corresponde al Consejo de Departamento y no al Consejo de un Centro adscrito?",
+        "opciones": [
+            {
+                "texto": "Proponer la asignación de docencia al profesorado de sus áreas",
+                "correcta": true
+            },
+            {
+                "texto": "Elaborar su propio reglamento de régimen interno",
+                "correcta": false
+            },
+            {
+                "texto": "Aprobar convenios con entidades externas",
+                "correcta": false
+            },
+            {
+                "texto": "Elegir a su Director",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "enunciado": "Cuando un Centro adscrito y un Instituto Universitario colaboran en docencia e investigación, ¿qué órgano garantiza la coordinación general?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector de manera exclusiva",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social del Centro adscrito",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "enunciado": "¿Qué órgano tiene la competencia última para aprobar la creación de un Centro propio universitario?",
+        "opciones": [
+            {
+                "texto": "La Junta de Extremadura, a propuesta del Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector, de manera directa",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social, sin intervención de otro órgano",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "enunciado": "¿Cuál de las siguientes afirmaciones es correcta respecto a los Centros adscritos?",
+        "opciones": [
+            {
+                "texto": "Se crean mediante convenio con la entidad promotora y requieren reconocimiento por el Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "Son creados por el Rector sin necesidad de convenio",
+                "correcta": false
+            },
+            {
+                "texto": "Siempre dependen jerárquicamente del Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "No requieren aprobación externa tras el convenio",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "enunciado": "¿Qué órgano aprueba el reglamento de composición y funciones de un Consejo de Departamento?",
+        "opciones": [
+            {
+                "texto": "El propio Consejo de Departamento",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Patronato de la Universidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "enunciado": "En relación con los Institutos Universitarios de Investigación, ¿qué diferencia hay con los Departamentos respecto a su finalidad principal?",
+        "opciones": [
+            {
+                "texto": "Los Institutos se centran en la investigación interdisciplinar, mientras que los Departamentos en docencia e investigación en áreas específicas",
+                "correcta": true
+            },
+            {
+                "texto": "Ambos tienen idénticas finalidades",
+                "correcta": false
+            },
+            {
+                "texto": "Los Departamentos priorizan la gestión administrativa, mientras que los Institutos la docencia",
+                "correcta": false
+            },
+            {
+                "texto": "Los Institutos tienen prohibida la colaboración con Centros propios",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "enunciado": "¿Quién nombra a los Directores de los Centros propios de la Universidad?",
+        "opciones": [
+            {
+                "texto": "El Rector, tras elección en el propio Centro",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social de manera exclusiva",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Gobierno directamente",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "enunciado": "Cuando un Instituto Universitario de Investigación se crea en colaboración con otra entidad, ¿qué requisito debe cumplirse?",
+        "opciones": [
+            {
+                "texto": "Que exista un convenio específico aprobado por el Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "Que lo apruebe el Rector sin necesidad de convenio",
+                "correcta": false
+            },
+            {
+                "texto": "Que lo autorice únicamente el Claustro",
+                "correcta": false
+            },
+            {
+                "texto": "Que lo valide la Comisión de Acción Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "enunciado": "¿Cuál es el órgano colegiado más relevante dentro de un Departamento universitario?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Departamento",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Patronato",
+                "correcta": false
+            },
+            {
+                "texto": "La Junta de Extremadura",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "enunciado": "¿Qué elemento diferencia a los Centros adscritos de los propios en relación con la representación estudiantil?",
+        "opciones": [
+            {
+                "texto": "Los adscritos deben garantizar órganos de representación análogos a los de los Centros propios",
+                "correcta": true
+            },
+            {
+                "texto": "Solo los propios permiten participación estudiantil",
+                "correcta": false
+            },
+            {
+                "texto": "Los adscritos carecen de cualquier obligación de representación",
+                "correcta": false
+            },
+            {
+                "texto": "La representación estudiantil está regulada solo en la normativa estatal",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "enunciado": "¿Quién propone al Rector el nombramiento de Director de un Instituto Universitario de Investigación?",
+        "opciones": [
+            {
+                "texto": "El Consejo del Instituto",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro",
+                "correcta": false
+            },
+            {
+                "texto": "La Junta de Extremadura",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "enunciado": "En los Centros propios, ¿qué órgano es responsable de organizar las enseñanzas oficiales de grado?",
+        "opciones": [
+            {
+                "texto": "La Junta de Centro",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Estudiantes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "enunciado": "¿Qué característica comparten los Consejos de Centro y los Consejos de Departamento?",
+        "opciones": [
+            {
+                "texto": "Ambos son órganos colegiados de carácter decisorio",
+                "correcta": true
+            },
+            {
+                "texto": "Ambos están presididos por el Rector",
+                "correcta": false
+            },
+            {
+                "texto": "Ambos dependen directamente del Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "Ambos tienen como principal función aprobar convenios externos",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "enunciado": "En la creación de un Centro adscrito, ¿qué órgano universitario interviene necesariamente junto con la entidad fundadora?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social exclusivamente",
+                "correcta": false
+            },
+            {
+                "texto": "El Patronato",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "enunciado": "Respecto a los Institutos Universitarios, ¿cuál de estas funciones es exclusiva de ellos y no de los Departamentos?",
+        "opciones": [
+            {
+                "texto": "La investigación interdisciplinar en colaboración con organismos externos",
+                "correcta": true
+            },
+            {
+                "texto": "La impartición de docencia de grado",
+                "correcta": false
+            },
+            {
+                "texto": "La organización de tutorías obligatorias",
+                "correcta": false
+            },
+            {
+                "texto": "La asignación de docencia a profesorado de área",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "enunciado": "¿Qué órgano aprueba la memoria anual de un Instituto Universitario de Investigación?",
+        "opciones": [
+            {
+                "texto": "Su Consejo del Instituto, para remitirla al Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector de forma exclusiva",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social sin intervención previa",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "enunciado": "¿Qué tipo de personal puede ser Director de un Departamento universitario?",
+        "opciones": [
+            {
+                "texto": "Profesor doctor con vinculación permanente a la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "Cualquier profesor asociado",
+                "correcta": false
+            },
+            {
+                "texto": "Personal de administración y servicios",
+                "correcta": false
+            },
+            {
+                "texto": "Investigadores sin vinculación docente",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "enunciado": "En el caso de un Centro adscrito, ¿quién realiza el nombramiento del Director?",
+        "opciones": [
+            {
+                "texto": "El Rector, a propuesta de la entidad promotora y oídos los órganos de representación del Centro",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social directamente",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro",
+                "correcta": false
+            },
+            {
+                "texto": "La Junta de Extremadura",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "enunciado": "¿Qué órgano es el encargado de velar por la coordinación entre Centros, Departamentos e Institutos Universitarios?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector en solitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "enunciado": "¿Qué particularidad tienen los Centros adscritos respecto a la normativa de representación estudiantil?",
+        "opciones": [
+            {
+                "texto": "Deben contemplar órganos equivalentes a los de los Centros propios en su convenio de adscripción",
+                "correcta": true
+            },
+            {
+                "texto": "No se les exige ninguna representación estudiantil",
+                "correcta": false
+            },
+            {
+                "texto": "La representación depende únicamente de la entidad promotora",
+                "correcta": false
+            },
+            {
+                "texto": "Está sujeta exclusivamente a aprobación de la Junta de Extremadura",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre la Junta de Centro es correcta?",
+        "opciones": [
+            {
+                "texto": "Es el órgano de gobierno colegiado de los Centros propios",
+                "correcta": true
+            },
+            {
+                "texto": "Depende jerárquicamente del Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "Está presidida siempre por el Rector",
+                "correcta": false
+            },
+            {
+                "texto": "Tiene exclusivamente funciones consultivas",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "enunciado": "Cuando se crea un Instituto Universitario mixto, ¿qué institución debe firmar el convenio además de la Universidad?",
+        "opciones": [
+            {
+                "texto": "La entidad colaboradora correspondiente",
+                "correcta": true
+            },
+            {
+                "texto": "La Junta de Extremadura de forma obligatoria",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Ministerio de Universidades",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "enunciado": "¿Qué órgano propone al Rector el nombramiento de Director de un Centro propio?",
+        "opciones": [
+            {
+                "texto": "La Junta de Centro",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro",
+                "correcta": false
+            },
+            {
+                "texto": "El Patronato de la Universidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "enunciado": "¿Qué documento deben elaborar los Institutos Universitarios anualmente para evaluar su actividad investigadora?",
+        "opciones": [
+            {
+                "texto": "Una memoria anual",
+                "correcta": true
+            },
+            {
+                "texto": "Un plan estratégico trianual",
+                "correcta": false
+            },
+            {
+                "texto": "Un reglamento interno nuevo",
+                "correcta": false
+            },
+            {
+                "texto": "Un convenio con el Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "enunciado": "¿Qué órgano universitario es responsable de aprobar la creación de un Departamento?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector en solitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "enunciado": "¿Qué aspecto distingue al reglamento de un Departamento frente al de un Centro adscrito?",
+        "opciones": [
+            {
+                "texto": "El del Departamento es aprobado por su propio Consejo, mientras que el del Centro adscrito debe integrarse en el convenio",
+                "correcta": true
+            },
+            {
+                "texto": "El de los Departamentos requiere aprobación de la Junta de Extremadura",
+                "correcta": false
+            },
+            {
+                "texto": "El de los Centros adscritos lo aprueba siempre el Claustro",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguno tiene reglamento escrito",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "enunciado": "¿Qué órgano universitario debe ser oído siempre para el nombramiento de un Director de Instituto Universitario de Investigación?",
+        "opciones": [
+            {
+                "texto": "El Consejo del Instituto",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "La Junta de Centro",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "enunciado": "En relación con los Centros propios, ¿cuál de estas afirmaciones es correcta?",
+        "opciones": [
+            {
+                "texto": "Su creación requiere acuerdo del Consejo de Gobierno y aprobación por la Junta de Extremadura",
+                "correcta": true
+            },
+            {
+                "texto": "Son creados exclusivamente por el Rector, previa consulta al Claustro",
+                "correcta": false
+            },
+            {
+                "texto": "Deben ser autorizados por el Ministerio de Universidades en todos los casos",
+                "correcta": false
+            },
+            {
+                "texto": "Solo necesitan la aprobación del Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "enunciado": "¿Qué órgano de gobierno está facultado para modificar la estructura de un Departamento universitario?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "La Junta de Centro",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector en solitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "enunciado": "¿Cuál es el requisito indispensable para que un Instituto Universitario de Investigación pueda impartir enseñanzas de doctorado?",
+        "opciones": [
+            {
+                "texto": "Que el Consejo de Gobierno lo autorice en su acuerdo de creación",
+                "correcta": true
+            },
+            {
+                "texto": "Que el Rector lo determine discrecionalmente",
+                "correcta": false
+            },
+            {
+                "texto": "Que la Junta de Centro lo apruebe",
+                "correcta": false
+            },
+            {
+                "texto": "Que lo acuerde el Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "enunciado": "¿Qué diferencia fundamental existe entre un Instituto Universitario propio y uno mixto?",
+        "opciones": [
+            {
+                "texto": "El mixto se crea mediante convenio con otra institución, mientras que el propio depende solo de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "El mixto depende directamente del Ministerio de Universidades",
+                "correcta": false
+            },
+            {
+                "texto": "El propio no puede impartir docencia, mientras que el mixto sí",
+                "correcta": false
+            },
+            {
+                "texto": "Ambos dependen jerárquicamente de la Junta de Extremadura",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "enunciado": "¿Qué característica comparten los reglamentos de los Departamentos y de los Institutos Universitarios?",
+        "opciones": [
+            {
+                "texto": "Ambos deben ser aprobados por su propio Consejo antes de elevarse al Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "Ambos los aprueba directamente el Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "Ambos los redacta el Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "Ninguno de los dos requiere aprobación externa",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "enunciado": "¿Qué órgano universitario aprueba la propuesta de planes plurianuales de investigación de los Institutos Universitarios?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "enunciado": "¿Qué órgano colegiado representa a todos los colectivos en un Centro propio universitario?",
+        "opciones": [
+            {
+                "texto": "La Junta de Centro",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Departamento",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "enunciado": "¿Quién elige al Director de un Departamento universitario?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Departamento, entre sus profesores doctores permanentes",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector lo nombra directamente sin elección previa",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario mediante votación",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Departamento, entre cualquier miembro del mismo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "enunciado": "¿Qué órgano es responsable de coordinar la actividad docente de los Departamentos en un Centro propio?",
+        "opciones": [
+            {
+                "texto": "La Junta de Centro",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "enunciado": "¿Cuál es la principal función de un Instituto Universitario de Investigación en relación con la sociedad?",
+        "opciones": [
+            {
+                "texto": "Promover la investigación aplicada en colaboración con entidades externas",
+                "correcta": true
+            },
+            {
+                "texto": "Organizar la docencia de grado",
+                "correcta": false
+            },
+            {
+                "texto": "Designar a los Directores de Departamento",
+                "correcta": false
+            },
+            {
+                "texto": "Supervisar la gestión económica de los Centros propios",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "enunciado": "En los Centros adscritos, ¿qué órgano universitario supervisa el cumplimiento del convenio de adscripción?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector en solitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "enunciado": "¿Qué documento define la estructura y competencias de un Departamento universitario?",
+        "opciones": [
+            {
+                "texto": "Su reglamento interno",
+                "correcta": true
+            },
+            {
+                "texto": "El plan de estudios del Centro",
+                "correcta": false
+            },
+            {
+                "texto": "La memoria anual del Rectorado",
+                "correcta": false
+            },
+            {
+                "texto": "El reglamento del Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "enunciado": "¿Qué órgano aprueba la creación de nuevas titulaciones oficiales propuestas por los Centros propios?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social de manera exclusiva",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "La Junta de Centro",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "enunciado": "¿Qué particularidad tienen los Institutos Universitarios respecto a la docencia reglada?",
+        "opciones": [
+            {
+                "texto": "Solo pueden participar en programas de doctorado y, excepcionalmente, en másteres",
+                "correcta": true
+            },
+            {
+                "texto": "Imparten docencia de grado de forma obligatoria",
+                "correcta": false
+            },
+            {
+                "texto": "No pueden impartir ninguna enseñanza universitaria",
+                "correcta": false
+            },
+            {
+                "texto": "Dependen de los Centros para organizar toda su docencia",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "enunciado": "¿Qué órgano colegiado aprueba el plan docente anual en los Departamentos?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Departamento",
+                "correcta": true
+            },
+            {
+                "texto": "La Junta de Centro",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "enunciado": "¿Qué órgano aprueba los convenios de colaboración de los Institutos Universitarios con entidades externas?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector de manera directa",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "La Junta de Extremadura",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "enunciado": "¿Qué papel juega el Claustro Universitario en la creación de Departamentos?",
+        "opciones": [
+            {
+                "texto": "Es informado, pero no decide sobre la creación",
+                "correcta": true
+            },
+            {
+                "texto": "Aprueba la creación directamente",
+                "correcta": false
+            },
+            {
+                "texto": "Designa a los Directores de Departamento",
+                "correcta": false
+            },
+            {
+                "texto": "Ratifica las propuestas del Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "enunciado": "¿Quién aprueba la oferta de asignaturas optativas en los Centros propios?",
+        "opciones": [
+            {
+                "texto": "La Junta de Centro",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "enunciado": "¿Qué requisito debe cumplirse para la modificación del reglamento de un Instituto Universitario?",
+        "opciones": [
+            {
+                "texto": "Aprobación por el Consejo del Instituto y posterior ratificación por el Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "Aprobación exclusiva por el Rector",
+                "correcta": false
+            },
+            {
+                "texto": "Votación en el Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "Autorización de la Junta de Extremadura",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "enunciado": "¿Qué órgano nombra formalmente al Director de un Centro adscrito?",
+        "opciones": [
+            {
+                "texto": "El Rector, tras propuesta de la entidad promotora",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social en votación",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector, sin necesidad de propuesta externa",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "enunciado": "¿Qué órgano aprueba el presupuesto propio de los Institutos Universitarios?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "enunciado": "¿Qué órgano resuelve los conflictos de competencias entre Departamentos y Centros?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector directamente",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "enunciado": "¿Qué diferencia existe en el proceso de nombramiento de los Directores de Instituto y de Departamento?",
+        "opciones": [
+            {
+                "texto": "En el Instituto lo propone el Consejo del Instituto, en el Departamento lo elige el Consejo de Departamento",
+                "correcta": true
+            },
+            {
+                "texto": "En ambos casos lo nombra directamente el Rector sin propuestas",
+                "correcta": false
+            },
+            {
+                "texto": "El Director de Instituto lo elige el Claustro, el de Departamento la Junta de Centro",
+                "correcta": false
+            },
+            {
+                "texto": "Ambos son designados por el Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "enunciado": "¿Qué órgano aprueba el reglamento interno de un Instituto Universitario de Investigación propio?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector de manera directa",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "enunciado": "¿Qué órgano es competente para aprobar la creación, modificación o supresión de un Departamento?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno, con autorización de la Comunidad Autónoma",
+                "correcta": true
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social de la Universidad",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector, previo informe de los Directores de Departamento",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "enunciado": "En la aprobación del convenio de adscripción de un Centro adscrito, ¿qué órgano otorga la autorización preceptiva y a propuesta de quién?",
+        "opciones": [
+            {
+                "texto": "La Comunidad Autónoma, a propuesta del Consejo Social y con informe favorable del Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Gobierno, a propuesta del Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector, a propuesta del Consejo de Gobierno",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario, a propuesta del Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "enunciado": "¿Quién autoriza la desvinculación o supresión de un Centro adscrito?",
+        "opciones": [
+            {
+                "texto": "La Comunidad Autónoma, a propuesta del Consejo Social y previo informe del Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Gobierno, con visto bueno del Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario, por mayoría absoluta",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector, previa audiencia de la Junta de Centro",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "enunciado": "¿Cuál de estas funciones corresponde al Director de Departamento respecto del Consejo de Departamento?",
+        "opciones": [
+            {
+                "texto": "Invitar con voz pero sin voto a personas cuya presencia considere conveniente",
+                "correcta": true
+            },
+            {
+                "texto": "Otorgar derecho a voto a todos los invitados",
+                "correcta": false
+            },
+            {
+                "texto": "Delegar permanentemente la presidencia del Consejo en el Secretario",
+                "correcta": false
+            },
+            {
+                "texto": "Designar unilateralmente a los representantes estudiantiles",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "enunciado": "El desempeño del cargo de Director de Departamento conlleva:",
+        "opciones": [
+            {
+                "texto": "Una reducción del 25% de las obligaciones docentes",
+                "correcta": true
+            },
+            {
+                "texto": "Una reducción del 50% de las obligaciones docentes",
+                "correcta": false
+            },
+            {
+                "texto": "La exención total de docencia",
+                "correcta": false
+            },
+            {
+                "texto": "Una reducción del 10% de las obligaciones docentes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "enunciado": "En caso de empate en la segunda vuelta de elección de Director de Departamento, resulta elegido:",
+        "opciones": [
+            {
+                "texto": "El de mayor antigüedad en el grado de doctor",
+                "correcta": true
+            },
+            {
+                "texto": "El de mayor edad",
+                "correcta": false
+            },
+            {
+                "texto": "El que ocupe el puesto académico más alto",
+                "correcta": false
+            },
+            {
+                "texto": "El proclamado por el Rector discrecionalmente",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "enunciado": "Para que prospere una moción de censura contra el Director de Departamento se requiere:",
+        "opciones": [
+            {
+                "texto": "Aprobación por dos tercios de los componentes del Consejo de Departamento",
+                "correcta": true
+            },
+            {
+                "texto": "Aprobación por mayoría simple de asistentes",
+                "correcta": false
+            },
+            {
+                "texto": "Aprobación por mayoría absoluta de asistentes",
+                "correcta": false
+            },
+            {
+                "texto": "Aprobación por tres quintos de los componentes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "enunciado": "El plazo para votar una moción de censura, contado desde su presentación, debe ser:",
+        "opciones": [
+            {
+                "texto": "Entre el quinto y el décimo día natural",
+                "correcta": true
+            },
+            {
+                "texto": "Entre el tercer y el séptimo día lectivo",
+                "correcta": false
+            },
+            {
+                "texto": "Dentro de los primeros cinco días hábiles",
+                "correcta": false
+            },
+            {
+                "texto": "Exactamente a los diez días naturales",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "enunciado": "Vacante el cargo o en caso de ausencia del Director de Departamento, asume interinamente:",
+        "opciones": [
+            {
+                "texto": "El Subdirector; en su defecto, el profesor a tiempo completo más antiguo académicamente",
+                "correcta": true
+            },
+            {
+                "texto": "El Secretario; en su defecto, cualquier profesor funcionario",
+                "correcta": false
+            },
+            {
+                "texto": "El Decano del Centro donde imparta más docencia el Departamento",
+                "correcta": false
+            },
+            {
+                "texto": "El miembro más joven del Consejo de Departamento",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "enunciado": "Tras el cese o dimisión del Director de Departamento, el plazo máximo para convocar elecciones es de:",
+        "opciones": [
+            {
+                "texto": "Treinta días lectivos",
+                "correcta": true
+            },
+            {
+                "texto": "Quince días naturales",
+                "correcta": false
+            },
+            {
+                "texto": "Treinta días naturales",
+                "correcta": false
+            },
+            {
+                "texto": "Diez días hábiles",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "enunciado": "Si existe una sola candidatura a Director de Departamento, se celebrará:",
+        "opciones": [
+            {
+                "texto": "Solo la primera vuelta y se proclama si obtiene mayoría simple de votos a favor",
+                "correcta": true
+            },
+            {
+                "texto": "Primera y segunda vuelta obligatorias",
+                "correcta": false
+            },
+            {
+                "texto": "Únicamente segunda vuelta por economía procedimental",
+                "correcta": false
+            },
+            {
+                "texto": "Una única votación con necesidad de mayoría absoluta",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "enunciado": "La representación de estudiantes en el Consejo de Departamento será del:",
+        "opciones": [
+            {
+                "texto": "27% del total del apartado d) (doctores y funcionarios no doctores)",
+                "correcta": true
+            },
+            {
+                "texto": "20% del censo total del Departamento",
+                "correcta": false
+            },
+            {
+                "texto": "27% del total del Consejo de Departamento",
+                "correcta": false
+            },
+            {
+                "texto": "15% del profesorado doctor",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "enunciado": "A las sesiones del Consejo de Departamento se convoca, con voz pero sin voto, a:",
+        "opciones": [
+            {
+                "texto": "Un representante del Consejo de Estudiantes",
+                "correcta": true
+            },
+            {
+                "texto": "Un representante del Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Decano del Centro correspondiente",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector o su Delegado",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "enunciado": "El Consejo de Departamento se reunirá, como mínimo:",
+        "opciones": [
+            {
+                "texto": "Tres veces por curso: al inicio, a mitad y al final",
+                "correcta": true
+            },
+            {
+                "texto": "Dos veces por curso: al inicio y al final",
+                "correcta": false
+            },
+            {
+                "texto": "Una vez por semestre",
+                "correcta": false
+            },
+            {
+                "texto": "Mensualmente",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "enunciado": "Respecto de las delegaciones al Director por parte del Consejo de Departamento:",
+        "opciones": [
+            {
+                "texto": "No son posibles las delegaciones de carácter permanente al Director",
+                "correcta": true
+            },
+            {
+                "texto": "Se pueden delegar competencias de forma indefinida si lo aprueba el Consejo",
+                "correcta": false
+            },
+            {
+                "texto": "Las delegaciones permanentes solo requieren informe del Rector",
+                "correcta": false
+            },
+            {
+                "texto": "Las delegaciones se presumen permanentes salvo revocación",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "enunciado": "La Comisión Permanente del Departamento estará compuesta por:",
+        "opciones": [
+            {
+                "texto": "Director, Secretario, Subdirector (si lo hay) y un representante de cada sector del Consejo de Departamento",
+                "correcta": true
+            },
+            {
+                "texto": "Director, Secretario y dos estudiantes del Consejo de Estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "Director, Secretario y todos los directores de Sección",
+                "correcta": false
+            },
+            {
+                "texto": "Director y Subdirector exclusivamente",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "enunciado": "Las competencias delegables en la Comisión Permanente del Departamento:",
+        "opciones": [
+            {
+                "texto": "No podrán exceder de las de mero trámite, según directrices del Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "Pueden incluir decisiones sancionadoras",
+                "correcta": false
+            },
+            {
+                "texto": "Pueden abarcar la aprobación del presupuesto departamental",
+                "correcta": false
+            },
+            {
+                "texto": "Incluyen la elección del Director",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "enunciado": "En los Institutos Universitarios de Investigación, el Director:",
+        "opciones": [
+            {
+                "texto": "Es doctor, elegido por el Consejo de Instituto y nombrado por el Rector",
+                "correcta": true
+            },
+            {
+                "texto": "Es designado directamente por el Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "Debe ser Catedrático numerario",
+                "correcta": false
+            },
+            {
+                "texto": "Es nombrado por el Rector sin intervención del Consejo de Instituto",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "enunciado": "El ámbito de actuación de un Instituto Universitario de Investigación:",
+        "opciones": [
+            {
+                "texto": "No puede coincidir con el de un Departamento ni con el de un área de conocimiento",
+                "correcta": true
+            },
+            {
+                "texto": "Debe coincidir con al menos un área de conocimiento",
+                "correcta": false
+            },
+            {
+                "texto": "Debe coincidir con dos o más Departamentos",
+                "correcta": false
+            },
+            {
+                "texto": "Puede coincidir con el de un Departamento si es interuniversitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "enunciado": "La financiación de los Institutos Universitarios propios se realiza:",
+        "opciones": [
+            {
+                "texto": "A través del presupuesto general de la Universidad, con dotación diferenciada",
+                "correcta": true
+            },
+            {
+                "texto": "Exclusivamente con tasas a los estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "Mediante transferencias directas del Ministerio",
+                "correcta": false
+            },
+            {
+                "texto": "Solo con convenios privados",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "enunciado": "Para la creación de un Instituto Universitario conjunto, la solicitud debe incluir:",
+        "opciones": [
+            {
+                "texto": "La propuesta del convenio regulador suscrita por los promotores",
+                "correcta": true
+            },
+            {
+                "texto": "El nombramiento previo del Director",
+                "correcta": false
+            },
+            {
+                "texto": "El visto bueno del Claustro",
+                "correcta": false
+            },
+            {
+                "texto": "La aprobación del Consejo de Estudiantes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "enunciado": "Antes del informe del Consejo de Gobierno sobre la creación de un Instituto, puede abrirse un periodo de información pública de:",
+        "opciones": [
+            {
+                "texto": "Un mes",
+                "correcta": true
+            },
+            {
+                "texto": "Quince días",
+                "correcta": false
+            },
+            {
+                "texto": "Dos meses",
+                "correcta": false
+            },
+            {
+                "texto": "Diez días hábiles",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "enunciado": "A efectos electorales, los Departamentos se adscriben a campos (Científico, Biomédico, Humanístico, Social, Técnico). La adscripción la aprueba:",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector sin más trámites",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "enunciado": "La adscripción temporal de un profesor a un Departamento distinto tendrá una duración:",
+        "opciones": [
+            {
+                "texto": "Mínima de un año y máxima de tres, renovable",
+                "correcta": true
+            },
+            {
+                "texto": "Máxima de un año, no renovable",
+                "correcta": false
+            },
+            {
+                "texto": "Mínima de seis meses y máxima de dos años",
+                "correcta": false
+            },
+            {
+                "texto": "Indefinida si hay acuerdo entre Directores",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "enunciado": "Para autorizar una adscripción temporal a otro Departamento se requiere:",
+        "opciones": [
+            {
+                "texto": "Justificación de su conveniencia e informes de los Departamentos de origen y destino",
+                "correcta": true
+            },
+            {
+                "texto": "Solo acuerdo del Consejo de Gobierno, sin informes",
+                "correcta": false
+            },
+            {
+                "texto": "Informe del Departamento de destino únicamente",
+                "correcta": false
+            },
+            {
+                "texto": "Conformidad del Rector y del profesor afectado, sin más trámites",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "enunciado": "La actividad investigadora del Departamento puede articularse mediante:",
+        "opciones": [
+            {
+                "texto": "Grupos de investigación reconocidos: departamentales, interdepartamentales o interuniversitarios",
+                "correcta": true
+            },
+            {
+                "texto": "Exclusivamente cátedras de empresa",
+                "correcta": false
+            },
+            {
+                "texto": "Comisiones permanentes docentes",
+                "correcta": false
+            },
+            {
+                "texto": "Unidades administrativas de apoyo",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "enunciado": "¿Qué finalidad principal tienen los Institutos Universitarios de Investigación?",
+        "opciones": [
+            {
+                "texto": "La investigación científica y técnica de carácter interdisciplinar",
+                "correcta": true
+            },
+            {
+                "texto": "La docencia obligatoria en todos los grados",
+                "correcta": false
+            },
+            {
+                "texto": "La gestión administrativa de los departamentos",
+                "correcta": false
+            },
+            {
+                "texto": "El control disciplinario del alumnado",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "enunciado": "¿Quién aprueba la creación de un Instituto Universitario de Investigación adscrito?",
+        "opciones": [
+            {
+                "texto": "La Comunidad Autónoma, a propuesta de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Gobierno sin más trámites",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector en ejercicio de sus competencias",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "enunciado": "¿Qué órgano universitario interviene necesariamente en la propuesta de creación de un Centro propio?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "El Defensor Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Rectorado de Servicios Generales",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "enunciado": "¿Quién nombra al Director de un Instituto Universitario de Investigación propio?",
+        "opciones": [
+            {
+                "texto": "El Rector, a propuesta del Consejo del Instituto",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El propio Instituto mediante elección directa",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "enunciado": "¿Qué órgano tiene la última palabra en la aprobación del reglamento de un Centro adscrito?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "El Ministerio de Universidades",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector sin intervención colegiada",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "enunciado": "¿Qué requisito esencial debe cumplir un Departamento para ser creado?",
+        "opciones": [
+            {
+                "texto": "Contar con un número mínimo de profesorado con vinculación permanente",
+                "correcta": true
+            },
+            {
+                "texto": "Disponer de instalaciones deportivas propias",
+                "correcta": false
+            },
+            {
+                "texto": "Tener convenios internacionales previos",
+                "correcta": false
+            },
+            {
+                "texto": "Acreditar financiación externa inicial",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "enunciado": "¿A quién rinden cuentas los Centros adscritos respecto a su actividad académica?",
+        "opciones": [
+            {
+                "texto": "A la Universidad a la que estén adscritos",
+                "correcta": true
+            },
+            {
+                "texto": "Al Ministerio de Educación",
+                "correcta": false
+            },
+            {
+                "texto": "Al Claustro de otra Universidad",
+                "correcta": false
+            },
+            {
+                "texto": "Exclusivamente a su entidad promotora",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "enunciado": "¿Qué figura académica dirige un Departamento universitario?",
+        "opciones": [
+            {
+                "texto": "El Director de Departamento",
+                "correcta": true
+            },
+            {
+                "texto": "El Vicerrector de Investigación",
+                "correcta": false
+            },
+            {
+                "texto": "El Secretario General",
+                "correcta": false
+            },
+            {
+                "texto": "El Administrador General",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "enunciado": "¿Cuál es el órgano colegiado fundamental de un Departamento?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Departamento",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "La Junta de Gobierno del Instituto",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "enunciado": "¿Quién puede proponer la creación de un Instituto Universitario de Investigación?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "El Defensor Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Administrador General",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "enunciado": "¿Qué órgano aprueba la creación de un Centro propio universitario?",
+        "opciones": [
+            {
+                "texto": "La Comunidad Autónoma, a propuesta de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector directamente",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social de la Universidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "enunciado": "¿Qué documento regula la composición y funciones de los órganos de gobierno de un Instituto Universitario?",
+        "opciones": [
+            {
+                "texto": "Su reglamento interno aprobado por el Consejo de Gobierno",
+                "correcta": true
+            },
+            {
+                "texto": "Las directrices del Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Estatuto de los Estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "Las actas del Claustro Universitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "enunciado": "¿Qué figura universitaria desempeña funciones de gestión económica en los Centros?",
+        "opciones": [
+            {
+                "texto": "El Administrador del Centro",
+                "correcta": true
+            },
+            {
+                "texto": "El Secretario General",
+                "correcta": false
+            },
+            {
+                "texto": "El Vicerrector de Economía",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "enunciado": "¿Quién nombra al Administrador de un Centro propio?",
+        "opciones": [
+            {
+                "texto": "El Rector, a propuesta del Director",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Estudiantes",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "enunciado": "¿Qué órgano es competente para aprobar el reconocimiento de un Centro adscrito?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno de la Universidad",
+                "correcta": true
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo de Estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "El Rector directamente",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 241,
+        "enunciado": "¿Qué órgano colegiado puede existir en los Institutos Universitarios de Investigación para canalizar la participación?",
+        "opciones": [
+            {
+                "texto": "El Consejo del Instituto",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro de Departamento",
+                "correcta": false
+            },
+            {
+                "texto": "La Junta Electoral Universitaria",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 242,
+        "enunciado": "¿Cuál es la obligación principal del Director de un Colegio Mayor o Residencia universitaria?",
+        "opciones": [
+            {
+                "texto": "Residir en el propio Colegio o Residencia",
+                "correcta": true
+            },
+            {
+                "texto": "Presentar informes al Parlamento regional",
+                "correcta": false
+            },
+            {
+                "texto": "Ejercer funciones de control académico",
+                "correcta": false
+            },
+            {
+                "texto": "Nombrar a los Administradores de la Universidad",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 243,
+        "enunciado": "¿Qué órgano universitario aprueba la creación de un Departamento mediante modificación de estructura?",
+        "opciones": [
+            {
+                "texto": "El Consejo de Gobierno, con autorización de la Comunidad Autónoma",
+                "correcta": true
+            },
+            {
+                "texto": "El Rectorado",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 244,
+        "enunciado": "¿Quién elabora la propuesta de reglamento del Consejo de Colegiales o Residentes?",
+        "opciones": [
+            {
+                "texto": "Los propios colegiales o residentes",
+                "correcta": true
+            },
+            {
+                "texto": "El Rector",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 245,
+        "enunciado": "¿Qué órgano tiene la función de supervisar el correcto funcionamiento académico y disciplinario?",
+        "opciones": [
+            {
+                "texto": "El Servicio de Inspección",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 246,
+        "enunciado": "¿Quién eleva anualmente al Rector un plan de actuaciones para su aprobación?",
+        "opciones": [
+            {
+                "texto": "El Director del Servicio de Inspección",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Estudiantes",
+                "correcta": false
+            },
+            {
+                "texto": "El Vicerrector de Docencia",
+                "correcta": false
+            },
+            {
+                "texto": "El Secretario General",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 247,
+        "enunciado": "¿Qué documento presenta anualmente el Servicio de Inspección al Consejo de Gobierno?",
+        "opciones": [
+            {
+                "texto": "Una Memoria de actuaciones y funcionamiento",
+                "correcta": true
+            },
+            {
+                "texto": "Un Estatuto reformado",
+                "correcta": false
+            },
+            {
+                "texto": "Un reglamento electoral",
+                "correcta": false
+            },
+            {
+                "texto": "Un plan docente general",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 248,
+        "enunciado": "¿Qué parte recoge la Memoria anual del Servicio de Inspección además de las actuaciones realizadas?",
+        "opciones": [
+            {
+                "texto": "Las informaciones reservadas y expedientes disciplinarios",
+                "correcta": true
+            },
+            {
+                "texto": "Las solicitudes de becas",
+                "correcta": false
+            },
+            {
+                "texto": "Los planes económicos plurianuales",
+                "correcta": false
+            },
+            {
+                "texto": "Los informes de investigación",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 249,
+        "enunciado": "¿Quién es la autoridad inmediata de la que depende el Servicio de Inspección?",
+        "opciones": [
+            {
+                "texto": "El Rector",
+                "correcta": true
+            },
+            {
+                "texto": "El Consejo de Gobierno",
+                "correcta": false
+            },
+            {
+                "texto": "El Consejo Social",
+                "correcta": false
+            },
+            {
+                "texto": "El Claustro Universitario",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "id": 250,
+        "enunciado": "¿Cuál es uno de los objetivos del Servicio de Inspección en relación con el profesorado?",
+        "opciones": [
+            {
+                "texto": "Garantizar el cumplimiento de las tareas tutoriales y asistenciales al estudiante",
+                "correcta": true
+            },
+            {
+                "texto": "Gestionar las becas de investigación",
+                "correcta": false
+            },
+            {
+                "texto": "Coordinar las actividades deportivas",
+                "correcta": false
+            },
+            {
+                "texto": "Nombrar a los Directores de Departamento",
+                "correcta": false
+            }
+        ]
     }
 ]

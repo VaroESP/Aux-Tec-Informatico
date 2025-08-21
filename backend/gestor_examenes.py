@@ -11,7 +11,7 @@ EXAMENES_FILE = ".\\data\\examenes\\examenes.json"
 PREGUNTAS_POR_TEMA = 5
 
 def listar_examenes():
-    
+
     # Comprobamos si existe el archivo
     if not os.path.exists(EXAMENES_FILE):
         examenes_data = []

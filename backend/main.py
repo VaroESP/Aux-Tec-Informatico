@@ -20,7 +20,6 @@ def main():
         opcion = input("\nElige una opción: ")
         match opcion:
             case "1":
-                # Hay que completarlo
                 limpiar_pantalla()
                 print("\n--- Nuevo Examen ---")
                 print("\n1. Examen por tema.")
